@@ -1,0 +1,1001 @@
+﻿ID Cliente;Zona;País;Tipo de producto;Canal de venta;Prioridad;Fecha pedido;ID Pedido;Fecha envío;Unidades; Precio Unitario ; Coste unitario ; Importe venta total ; Importe Coste total 
+C2421;Europa;United Kingdom;Snacks;Offline;Crítica;12/10/2020;242113196;30/11/2020;5530; 152,58 € ; 97,44 € ; 843.767,40 € ; 538.843,20 € 
+C1908;Europa;Malta;Cárnicos;Online;Alta;26/1/2020;190800607;28/1/2020;994; 421,89 € ; 364,69 € ; 419.358,66 € ; 362.501,86 € 
+C7652;Australia y Oceanía;Marshall Islands;Cereales;Online;Crítica;9/11/2020;765228068;21/11/2020;6845; 205,70 € ; 117,11 € ; 1.408.016,50 € ; 801.617,95 € 
+C2326;África;Iran;Frutas;Offline;Baja;21/8/2021;232631909;2/10/2021;9806; 9,33 € ; 6,92 € ; 91.489,98 € ; 67.857,52 € 
+C5305;Centroamérica y Caribe;Guatemala;Alimento infantil;Offline;Media;30/9/2022;530560958;12/11/2022;3633; 255,28 € ; 159,42 € ; 927.432,24 € ; 579.172,86 € 
+C5168;Centroamérica y Caribe;Grenada;Bebida;Offline;Baja;21/1/2022;516876542;21/2/2022;4110; 47,45 € ; 31,79 € ; 195.019,50 € ; 130.656,90 € 
+C9197;Australia y Oceanía;Fiji;Snacks;Offline;Media;17/2/2022;919752490;27/2/2022;4056; 152,58 € ; 97,44 € ; 618.864,48 € ; 395.216,64 € 
+C2876;África;Tunisia ;Cosméticos;Offline;Media;21/3/2020;287675130;7/5/2020;8319; 437,20 € ; 263,33 € ; 3.637.066,80 € ; 2.190.642,27 € 
+C8394;Centroamérica y Caribe;Grenada;Cuidado personal;Offline;Crítica;13/2/2021;839443290;1/4/2021;8779; 81,73 € ; 56,67 € ; 717.507,67 € ; 497.505,93 € 
+C8141;Australia y Oceanía;Australia;Material de oficina;Online;Media;15/6/2021;814168298;12/7/2021;9347; 651,21 € ; 524,96 € ; 6.086.859,87 € ; 4.906.801,12 € 
+C3212;Norteamérica;Greenland;Cosméticos;Online;Alta;15/7/2022;321273982;30/8/2022;966; 437,20 € ; 263,33 € ; 422.335,20 € ; 254.376,78 € 
+C8904;África;Angola;Snacks;Online;Crítica;13/5/2020;890496671;5/6/2020;6609; 152,58 € ; 97,44 € ; 1.008.401,22 € ; 643.980,96 € 
+C5218;África;Zambia;Bebida;Offline;Crítica;6/5/2021;521885192;22/5/2021;6281; 47,45 € ; 31,79 € ; 298.033,45 € ; 199.672,99 € 
+C4358;África;Kenya;Verduras;Offline;Alta;7/11/2020;435800874;25/12/2020;2018; 154,06 € ; 90,93 € ; 310.893,08 € ; 183.496,74 € 
+C1229;África;Azerbaijan;Frutas;Offline;Crítica;20/10/2021;122917544;17/11/2021;2888; 9,33 € ; 6,92 € ; 26.945,04 € ; 19.984,96 € 
+C4942;África;Mozambique;Cuidado personal;Offline;Crítica;21/10/2021;494221532;18/11/2021;9989; 81,73 € ; 56,67 € ; 816.400,97 € ; 566.076,63 € 
+C7310;Australia y Oceanía;Federated States of Micronesia;Cosméticos;Offline;Crítica;19/4/2020;731011664;30/4/2020;1451; 437,20 € ; 263,33 € ; 634.377,20 € ; 382.091,83 € 
+C5348;Centroamérica y Caribe;Dominican Republic;Snacks;Offline;Crítica;3/11/2022;534899270;4/11/2022;7436; 152,58 € ; 97,44 € ; 1.134.584,88 € ; 724.563,84 € 
+C5778;África;Libya;Material de oficina;Online;Alta;10/7/2022;577808177;22/7/2022;5135; 651,21 € ; 524,96 € ; 3.343.963,35 € ; 2.695.669,60 € 
+C2519;Asia;Uzbekistan;Material de oficina;Online;Baja;1/6/2021;251974713;21/6/2021;3772; 651,21 € ; 524,96 € ; 2.456.364,12 € ; 1.980.149,12 € 
+C8199;Asia;Sri Lanka;Cuidado personal;Offline;Media;28/7/2020;819947707;5/9/2020;9602; 81,73 € ; 56,67 € ; 784.771,46 € ; 544.145,34 € 
+C4645;África;The Gambia;Cosméticos;Online;Crítica;8/6/2021;464588487;25/7/2021;912; 437,20 € ; 263,33 € ; 398.726,40 € ; 240.156,96 € 
+C1390;Asia;Myanmar;Snacks;Offline;Media;26/7/2021;139070880;4/8/2021;3019; 152,58 € ; 97,44 € ; 460.639,02 € ; 294.171,36 € 
+C4168;Asia;Bhutan;Ropa;Online;Crítica;15/10/2021;416881215;21/10/2021;3270; 109,28 € ; 35,84 € ; 357.345,60 € ; 117.196,80 € 
+C1418;África;Mali;Verduras;Online;Crítica;23/11/2021;141818320;29/11/2021;6047; 154,06 € ; 90,93 € ; 931.600,82 € ; 549.853,71 € 
+C4779;África;Burundi;Cuidado personal;Online;Alta;31/1/2022;477993524;12/3/2022;7761; 81,73 € ; 56,67 € ; 634.306,53 € ; 439.815,87 € 
+C8598;África;Libya;Ropa;Offline;Alta;11/7/2021;859830653;5/8/2021;1852; 109,28 € ; 35,84 € ; 202.386,56 € ; 66.375,68 € 
+C3420;África;Nigeria;Ropa;Offline;Crítica;26/8/2022;342066037;11/10/2022;3797; 109,28 € ; 35,84 € ; 414.936,16 € ; 136.084,48 € 
+C7497;Europa;Norway;Doméstico;Online;Crítica;21/2/2021;749748504;16/3/2021;6098; 668,27 € ; 502,54 € ; 4.075.110,46 € ; 3.064.488,92 € 
+C8282;África;Kenya;Cosméticos;Offline;Media;30/8/2021;828239381;8/10/2021;3293; 437,20 € ; 263,33 € ; 1.439.699,60 € ; 867.145,69 € 
+C2932;Australia y Oceanía;Papua New Guinea;Verduras;Online;Alta;19/2/2022;293212497;9/3/2022;6948; 154,06 € ; 90,93 € ; 1.070.408,88 € ; 631.781,64 € 
+C2806;Asia;North Korea;Cuidado personal;Offline;Baja;17/11/2020;280654180;2/1/2021;663; 81,73 € ; 56,67 € ; 54.186,99 € ; 37.572,21 € 
+C1968;Europa;Montenegro;Ropa;Offline;Media;25/11/2020;196863257;9/1/2021;5067; 109,28 € ; 35,84 € ; 553.721,76 € ; 181.601,28 € 
+C8684;Europa;Norway;Frutas;Offline;Alta;6/10/2022;868451058;8/10/2022;2822; 9,33 € ; 6,92 € ; 26.329,26 € ; 19.528,24 € 
+C4923;África;Lesotho;Ropa;Offline;Baja;7/4/2020;492341411;24/5/2020;3619; 109,28 € ; 35,84 € ; 395.484,32 € ; 129.704,96 € 
+C4857;Asia;Indonesia;Cárnicos;Online;Alta;2/12/2021;485770642;15/12/2021;9183; 421,89 € ; 364,69 € ; 3.874.215,87 € ; 3.348.948,27 € 
+C5362;África;Iraq;Bebida;Online;Alta;28/11/2020;536287581;28/12/2020;8268; 47,45 € ; 31,79 € ; 392.316,60 € ; 262.839,72 € 
+C8517;Asia;Singapore;Cereales;Online;Crítica;3/4/2022;851753556;12/5/2022;1660; 205,70 € ; 117,11 € ; 341.462,00 € ; 194.402,60 € 
+C8103;Asia;South Korea;Verduras;Online;Media;15/5/2021;810342395;31/5/2021;7177; 154,06 € ; 90,93 € ; 1.105.688,62 € ; 652.604,61 € 
+C3105;África;Lebanon;Doméstico;Online;Baja;26/8/2022;310540425;1/9/2022;4668; 668,27 € ; 502,54 € ; 3.119.484,36 € ; 2.345.856,72 € 
+C2211;Asia;Myanmar;Frutas;Online;Alta;23/11/2020;221146476;31/12/2020;1011; 9,33 € ; 6,92 € ; 9.432,63 € ; 6.996,12 € 
+C1312;Asia;Vietnam;Ropa;Online;Alta;23/9/2022;131271874;27/9/2022;5120; 109,28 € ; 35,84 € ; 559.513,60 € ; 183.500,80 € 
+C6003;África;Jordan;Frutas;Online;Baja;25/4/2022;600340449;2/6/2022;2935; 9,33 € ; 6,92 € ; 27.383,55 € ; 20.310,20 € 
+C9080;Australia y Oceanía;Palau;Material de oficina;Offline;Baja;20/10/2022;908088529;22/11/2022;2430; 651,21 € ; 524,96 € ; 1.582.440,30 € ; 1.275.652,80 € 
+C4045;Centroamérica y Caribe;Antigua and Barbuda ;Cereales;Offline;Crítica;4/8/2020;404564940;28/8/2020;8611; 205,70 € ; 117,11 € ; 1.771.282,70 € ; 1.008.434,21 € 
+C7601;Australia y Oceanía;Papua New Guinea;Cuidado personal;Offline;Baja;21/1/2021;760131013;28/1/2021;8513; 81,73 € ; 56,67 € ; 695.767,49 € ; 482.431,71 € 
+C1154;Centroamérica y Caribe;El Salvador;Ropa;Offline;Media;2/11/2022;115460574;19/11/2022;6205; 109,28 € ; 35,84 € ; 678.082,40 € ; 222.387,20 € 
+C7315;África;Republic of the Congo;Bebida;Offline;Baja;8/2/2022;731539952;9/2/2022;7783; 47,45 € ; 31,79 € ; 369.303,35 € ; 247.421,57 € 
+C4396;Australia y Oceanía;Vanuatu;Cárnicos;Online;Crítica;3/8/2022;439667975;21/9/2022;6379; 421,89 € ; 364,69 € ; 2.691.236,31 € ; 2.326.357,51 € 
+C2914;Asia;Bangladesh;Ropa;Offline;Baja;11/9/2022;291455972;16/9/2022;7154; 109,28 € ; 35,84 € ; 781.789,12 € ; 256.399,36 € 
+C5088;África;Burundi;Cereales;Offline;Baja;1/9/2022;508827769;13/9/2022;2299; 205,70 € ; 117,11 € ; 472.904,30 € ; 269.235,89 € 
+C9340;África;South Sudan;Verduras;Online;Media;17/4/2020;934019696;7/5/2020;6039; 154,06 € ; 90,93 € ; 930.368,34 € ; 549.126,27 € 
+C5795;África;Mozambique;Bebida;Online;Baja;25/11/2020;579580581;12/12/2020;9628; 47,45 € ; 31,79 € ; 456.848,60 € ; 306.074,12 € 
+C7783;Centroamérica y Caribe;Saint Kitts and Nevis ;Cárnicos;Online;Crítica;27/8/2021;778371751;3/9/2021;6353; 421,89 € ; 364,69 € ; 2.680.267,17 € ; 2.316.875,57 € 
+C2335;África;Rwanda;Verduras;Offline;Media;16/7/2021;233567035;17/8/2021;6531; 154,06 € ; 90,93 € ; 1.006.165,86 € ; 593.863,83 € 
+C8686;África;Rwanda;Bebida;Online;Alta;24/10/2022;868652760;8/12/2022;2510; 47,45 € ; 31,79 € ; 119.099,50 € ; 79.792,90 € 
+C1774;Europa;Moldova ;Verduras;Offline;Baja;23/12/2020;177427756;31/1/2021;3671; 154,06 € ; 90,93 € ; 565.554,26 € ; 333.804,03 € 
+C6740;Europa;Austria;Cereales;Offline;Baja;10/7/2020;674003350;30/7/2020;1424; 205,70 € ; 117,11 € ; 292.916,80 € ; 166.764,64 € 
+C4428;Europa;Spain;Ropa;Offline;Baja;16/1/2022;442803370;18/2/2022;4212; 109,28 € ; 35,84 € ; 460.287,36 € ; 150.958,08 € 
+C7885;Asia;China;Alimento infantil;Online;Crítica;27/10/2020;788564145;1/12/2020;2509; 255,28 € ; 159,42 € ; 640.497,52 € ; 399.984,78 € 
+C3863;África;Qatar;Cosméticos;Online;Media;21/7/2022;386334502;11/8/2022;3819; 437,20 € ; 263,33 € ; 1.669.666,80 € ; 1.005.657,27 € 
+C2314;Europa;Georgia;Cuidado personal;Online;Crítica;22/11/2021;231475770;23/11/2021;7679; 81,73 € ; 56,67 € ; 627.604,67 € ; 435.168,93 € 
+C4896;Asia;Kazakhstan;Doméstico;Online;Media;18/1/2021;489661777;11/2/2021;656; 668,27 € ; 502,54 € ; 438.385,12 € ; 329.666,24 € 
+C9468;África;Namibia;Cuidado personal;Offline;Baja;18/8/2022;946878850;5/10/2022;1348; 81,73 € ; 56,67 € ; 110.172,04 € ; 76.391,16 € 
+C5594;Centroamérica y Caribe;Jamaica;Cárnicos;Offline;Baja;1/7/2022;559425818;23/7/2022;5386; 421,89 € ; 364,69 € ; 2.272.299,54 € ; 1.964.220,34 € 
+C6039;África;Syria;Verduras;Offline;Media;22/8/2022;603914010;1/9/2022;431; 154,06 € ; 90,93 € ; 66.399,86 € ; 39.190,83 € 
+C6272;África;Tanzania;Frutas;Offline;Crítica;24/2/2021;627267253;8/3/2021;1174; 9,33 € ; 6,92 € ; 10.953,42 € ; 8.124,08 € 
+C6967;África;Angola;Alimento infantil;Online;Alta;1/4/2022;696721875;12/5/2022;4340; 255,28 € ; 159,42 € ; 1.107.915,20 € ; 691.882,80 € 
+C9498;Asia;China;Cuidado personal;Offline;Baja;18/7/2020;949826705;6/9/2020;3684; 81,73 € ; 56,67 € ; 301.093,32 € ; 208.772,28 € 
+C2444;Europa;Hungary;Cuidado personal;Offline;Baja;30/6/2022;244443070;3/7/2022;4991; 81,73 € ; 56,67 € ; 407.914,43 € ; 282.839,97 € 
+C2087;Europa;Norway;Doméstico;Offline;Alta;29/1/2022;208744800;3/2/2022;1080; 668,27 € ; 502,54 € ; 721.731,60 € ; 542.743,20 € 
+C2912;Australia y Oceanía;Australia;Cárnicos;Offline;Crítica;9/4/2022;291218221;2/5/2022;6798; 421,89 € ; 364,69 € ; 2.868.008,22 € ; 2.479.162,62 € 
+C9106;África;Nigeria;Doméstico;Offline;Media;22/2/2022;910662162;5/3/2022;4025; 668,27 € ; 502,54 € ; 2.689.786,75 € ; 2.022.723,50 € 
+C3061;Asia;Thailand;Material de oficina;Online;Media;9/3/2021;306187951;17/4/2021;6674; 651,21 € ; 524,96 € ; 4.346.175,54 € ; 3.503.583,04 € 
+C3872;Asia;Taiwan;Frutas;Offline;Alta;16/9/2020;387219417;27/9/2020;5685; 9,33 € ; 6,92 € ; 53.041,05 € ; 39.340,20 € 
+C8834;Asia;India;Verduras;Online;Baja;5/6/2022;883492887;5/6/2022;4033; 154,06 € ; 90,93 € ; 621.323,98 € ; 366.720,69 € 
+C6950;Europa;Romania;Bebida;Offline;Baja;24/4/2021;695057189;8/5/2021;1723; 47,45 € ; 31,79 € ; 81.756,35 € ; 54.774,17 € 
+C1422;Australia y Oceanía;East Timor;Cosméticos;Online;Baja;23/4/2021;142273652;16/5/2021;790; 437,20 € ; 263,33 € ; 345.388,00 € ; 208.030,70 € 
+C5158;Europa;Bosnia and Herzegovina;Cereales;Online;Baja;28/6/2022;515816104;6/8/2022;303; 205,70 € ; 117,11 € ; 62.327,10 € ; 35.484,33 € 
+C9266;Europa;Ireland;Cuidado personal;Offline;Baja;14/6/2022;926670873;17/7/2022;1359; 81,73 € ; 56,67 € ; 111.071,07 € ; 77.014,53 € 
+C5561;Europa;Croatia;Doméstico;Online;Baja;19/8/2020;556136786;5/9/2020;2089; 668,27 € ; 502,54 € ; 1.396.016,03 € ; 1.049.806,06 € 
+C9058;África;Iraq;Alimento infantil;Online;Baja;6/8/2022;905825173;22/8/2022;2653; 255,28 € ; 159,42 € ; 677.257,84 € ; 422.941,26 € 
+C8476;Europa;Malta;Material de oficina;Online;Crítica;7/6/2021;847659862;22/7/2021;245; 651,21 € ; 524,96 € ; 159.546,45 € ; 128.615,20 € 
+C6738;Europa;Ireland;Cárnicos;Offline;Baja;26/1/2022;673877179;21/2/2022;4087; 421,89 € ; 364,69 € ; 1.724.264,43 € ; 1.490.488,03 € 
+C7470;África;Madagascar;Alimento infantil;Online;Baja;14/9/2022;747025954;12/10/2022;435; 255,28 € ; 159,42 € ; 111.046,80 € ; 69.347,70 € 
+C1499;Europa;Austria;Cosméticos;Online;Media;1/12/2021;149967515;27/12/2021;7575; 437,20 € ; 263,33 € ; 3.311.790,00 € ; 1.994.724,75 € 
+C7358;África;Sierra Leone;Cuidado personal;Offline;Crítica;17/2/2020;735875689;25/3/2020;824; 81,73 € ; 56,67 € ; 67.345,52 € ; 46.696,08 € 
+C3782;Europa;Netherlands;Material de oficina;Online;Crítica;9/1/2021;378236806;18/2/2021;7531; 651,21 € ; 524,96 € ; 4.904.262,51 € ; 3.953.473,76 € 
+C6208;Europa;Croatia;Cosméticos;Offline;Alta;15/7/2021;620849692;18/7/2021;2075; 437,20 € ; 263,33 € ; 907.190,00 € ; 546.409,75 € 
+C8278;Centroamérica y Caribe;Trinidad and Tobago;Snacks;Offline;Baja;11/11/2021;827825677;19/11/2021;869; 152,58 € ; 97,44 € ; 132.592,02 € ; 84.675,36 € 
+C4335;Asia;South Korea;Doméstico;Offline;Crítica;5/3/2021;433588588;28/3/2021;7353; 668,27 € ; 502,54 € ; 4.913.789,31 € ; 3.695.176,62 € 
+C2928;Australia y Oceanía;Samoa ;Cárnicos;Offline;Alta;24/11/2021;292874753;25/12/2021;7003; 421,89 € ; 364,69 € ; 2.954.495,67 € ; 2.553.924,07 € 
+C4307;Europa;Albania;Material de oficina;Offline;Baja;31/7/2022;430733001;2/8/2022;2322; 651,21 € ; 524,96 € ; 1.512.109,62 € ; 1.218.957,12 € 
+C4925;África;Cape Verde;Frutas;Online;Media;3/3/2022;492524659;25/3/2022;7846; 9,33 € ; 6,92 € ; 73.203,18 € ; 54.294,32 € 
+C1939;Europa;Italy;Bebida;Online;Baja;9/6/2021;193923556;20/6/2021;5145; 47,45 € ; 31,79 € ; 244.130,25 € ; 163.559,55 € 
+C6709;Europa;Hungary;Bebida;Offline;Baja;26/7/2021;670916020;2/8/2021;7815; 47,45 € ; 31,79 € ; 370.821,75 € ; 248.438,85 € 
+C4298;Asia;Maldives;Alimento infantil;Offline;Crítica;17/9/2022;429800879;19/10/2022;6486; 255,28 € ; 159,42 € ; 1.655.746,08 € ; 1.033.998,12 € 
+C2971;África;Mali;Doméstico;Offline;Alta;25/7/2022;297189462;19/8/2022;3821; 668,27 € ; 502,54 € ; 2.553.459,67 € ; 1.920.205,34 € 
+C2700;África;Yemen;Cuidado personal;Online;Media;26/8/2020;270005595;4/9/2020;9511; 81,73 € ; 56,67 € ; 777.334,03 € ; 538.988,37 € 
+C8654;Asia;North Korea;Snacks;Offline;Baja;15/8/2022;865485608;10/9/2022;5279; 152,58 € ; 97,44 € ; 805.469,82 € ; 514.385,76 € 
+C8711;Asia;Uzbekistan;Cereales;Offline;Alta;28/8/2021;871178328;28/8/2021;9882; 205,70 € ; 117,11 € ; 2.032.727,40 € ; 1.157.281,02 € 
+C4949;Europa;Latvia;Verduras;Online;Baja;12/10/2022;494945085;6/11/2022;4104; 154,06 € ; 90,93 € ; 632.262,24 € ; 373.176,72 € 
+C9149;Asia;Singapore;Snacks;Offline;Crítica;29/5/2021;914959704;24/6/2021;5764; 152,58 € ; 97,44 € ; 879.471,12 € ; 561.644,16 € 
+C2297;Europa;Lithuania;Doméstico;Online;Baja;7/12/2021;229708516;23/1/2022;4709; 668,27 € ; 502,54 € ; 3.146.883,43 € ; 2.366.460,86 € 
+C2079;África;Senegal;Bebida;Offline;Alta;4/1/2022;207990348;20/1/2022;7821; 47,45 € ; 31,79 € ; 371.106,45 € ; 248.629,59 € 
+C4389;África;South Sudan;Verduras;Offline;Crítica;20/7/2022;438916528;18/8/2022;4009; 154,06 € ; 90,93 € ; 617.626,54 € ; 364.538,37 € 
+C5819;Europa;Bulgaria;Alimento infantil;Online;Alta;30/7/2020;581910884;16/8/2020;9217; 255,28 € ; 159,42 € ; 2.352.915,76 € ; 1.469.374,14 € 
+C8167;África;Seychelles ;Cárnicos;Offline;Alta;4/2/2022;816709744;1/3/2022;1417; 421,89 € ; 364,69 € ; 597.818,13 € ; 516.765,73 € 
+C4933;Centroamérica y Caribe;Saint Kitts and Nevis ;Doméstico;Online;Alta;24/8/2020;493361937;29/9/2020;5616; 668,27 € ; 502,54 € ; 3.753.004,32 € ; 2.822.264,64 € 
+C3822;Centroamérica y Caribe;Saint Vincent and the Grenadines;Alimento infantil;Offline;Alta;10/8/2021;382228791;26/9/2021;8848; 255,28 € ; 159,42 € ; 2.258.717,44 € ; 1.410.548,16 € 
+C4239;Europa;Andorra;Cosméticos;Offline;Baja;2/10/2020;423984134;14/11/2020;5182; 437,20 € ; 263,33 € ; 2.265.570,40 € ; 1.364.576,06 € 
+C1796;África;Mali;Cárnicos;Offline;Crítica;3/11/2022;179614293;23/11/2022;716; 421,89 € ; 364,69 € ; 302.073,24 € ; 261.118,04 € 
+C1804;África;Togo;Cuidado personal;Offline;Media;26/2/2020;180418097;15/3/2020;8579; 81,73 € ; 56,67 € ; 701.161,67 € ; 486.171,93 € 
+C5780;Asia;Thailand;Cárnicos;Offline;Alta;17/7/2022;578006875;21/8/2022;3934; 421,89 € ; 364,69 € ; 1.659.715,26 € ; 1.434.690,46 € 
+C6943;Europa;Moldova ;Doméstico;Online;Alta;1/9/2021;694304454;9/9/2021;8972; 668,27 € ; 502,54 € ; 5.995.718,44 € ; 4.508.788,88 € 
+C3715;Centroamérica y Caribe;Trinidad and Tobago;Alimento infantil;Online;Alta;14/1/2021;371547162;23/2/2021;7917; 255,28 € ; 159,42 € ; 2.021.051,76 € ; 1.262.128,14 € 
+C4222;Asia;Japan;Bebida;Online;Media;6/4/2020;422283828;26/4/2020;2024; 47,45 € ; 31,79 € ; 96.038,80 € ; 64.342,96 € 
+C3793;África;Central African Republic;Cereales;Offline;Crítica;23/3/2022;379375779;23/3/2022;4578; 205,70 € ; 117,11 € ; 941.694,60 € ; 536.129,58 € 
+C7459;África;Azerbaijan;Cuidado personal;Online;Baja;11/3/2020;745996844;3/4/2020;5899; 81,73 € ; 56,67 € ; 482.125,27 € ; 334.296,33 € 
+C7456;África;Mauritania;Frutas;Offline;Baja;20/2/2022;745633351;3/4/2022;8333; 9,33 € ; 6,92 € ; 77.746,89 € ; 57.664,36 € 
+C5720;Europa;Portugal;Snacks;Offline;Media;16/9/2020;572084128;5/11/2020;1261; 152,58 € ; 97,44 € ; 192.403,38 € ; 122.871,84 € 
+C9394;África;Liberia;Bebida;Online;Baja;22/5/2020;939460504;24/5/2020;6095; 47,45 € ; 31,79 € ; 289.207,75 € ; 193.760,05 € 
+C8321;África;South Sudan;Frutas;Online;Alta;12/10/2021;832186305;26/11/2021;1276; 9,33 € ; 6,92 € ; 11.905,08 € ; 8.829,92 € 
+C6549;África;Cameroon;Frutas;Online;Baja;28/2/2020;654997861;2/4/2020;7277; 9,33 € ; 6,92 € ; 67.894,41 € ; 50.356,84 € 
+C8829;Centroamérica y Caribe;Cuba;Cárnicos;Online;Baja;23/3/2021;882943999;7/4/2021;1605; 421,89 € ; 364,69 € ; 677.133,45 € ; 585.327,45 € 
+C7113;África;Malawi;Frutas;Online;Baja;27/6/2022;711386048;15/8/2022;3795; 9,33 € ; 6,92 € ; 35.407,35 € ; 26.261,40 € 
+C3059;Australia y Oceanía;Tuvalu;Bebida;Offline;Baja;9/6/2020;305997836;10/7/2020;415; 47,45 € ; 31,79 € ; 19.691,75 € ; 13.192,85 € 
+C3527;África;Burundi;Cárnicos;Offline;Alta;19/7/2020;352765691;11/8/2020;62; 421,89 € ; 364,69 € ; 26.157,18 € ; 22.610,78 € 
+C7079;África;Liberia;Verduras;Online;Crítica;15/7/2021;707988440;8/8/2021;8367; 154,06 € ; 90,93 € ; 1.289.020,02 € ; 760.811,31 € 
+C8482;Asia;Turkmenistan;Verduras;Offline;Media;13/7/2022;848277413;29/8/2022;2992; 154,06 € ; 90,93 € ; 460.947,52 € ; 272.062,56 € 
+C3205;África;Uganda;Doméstico;Online;Media;16/8/2021;320556437;25/9/2021;8628; 668,27 € ; 502,54 € ; 5.765.833,56 € ; 4.335.915,12 € 
+C9920;África;Lebanon;Alimento infantil;Online;Alta;6/3/2020;992061841;24/3/2020;1999; 255,28 € ; 159,42 € ; 510.304,72 € ; 318.680,58 € 
+C3003;Europa;Switzerland;Material de oficina;Online;Media;20/5/2021;300342452;24/6/2021;6861; 651,21 € ; 524,96 € ; 4.467.951,81 € ; 3.601.750,56 € 
+C7032;África;Kuwait;Verduras;Online;Alta;2/4/2020;703259599;5/4/2020;8998; 154,06 € ; 90,93 € ; 1.386.231,88 € ; 818.188,14 € 
+C2289;Asia;India;Ropa;Offline;Alta;17/3/2022;228987109;14/4/2022;1229; 109,28 € ; 35,84 € ; 134.305,12 € ; 44.047,36 € 
+C1260;África;Angola;Cereales;Online;Crítica;22/8/2021;126011312;18/9/2021;8402; 205,70 € ; 117,11 € ; 1.728.291,40 € ; 983.958,22 € 
+C8131;Asia;Uzbekistan;Bebida;Offline;Crítica;28/6/2020;813131034;1/7/2020;2397; 47,45 € ; 31,79 € ; 113.737,65 € ; 76.200,63 € 
+C5294;Europa;Latvia;Cuidado personal;Offline;Crítica;5/2/2021;529457604;5/3/2021;7126; 81,73 € ; 56,67 € ; 582.407,98 € ; 403.830,42 € 
+C2844;África;Ghana;Cárnicos;Offline;Media;2/12/2021;284414851;7/12/2021;3530; 421,89 € ; 364,69 € ; 1.489.271,70 € ; 1.287.355,70 € 
+C7077;Europa;Poland;Bebida;Online;Crítica;22/10/2021;707739102;28/10/2021;4583; 47,45 € ; 31,79 € ; 217.463,35 € ; 145.693,57 € 
+C6994;Asia;Mongolia;Cosméticos;Online;Baja;15/6/2021;699479186;25/7/2021;290; 437,20 € ; 263,33 € ; 126.788,00 € ; 76.365,70 € 
+C5799;Asia;Vietnam;Cereales;Online;Crítica;13/12/2021;579996430;9/1/2022;2687; 205,70 € ; 117,11 € ; 552.715,90 € ; 314.674,57 € 
+C7399;Europa;United Kingdom;Cereales;Online;Baja;29/6/2020;739964663;27/7/2020;842; 205,70 € ; 117,11 € ; 173.199,40 € ; 98.606,62 € 
+C2903;Australia y Oceanía;Vanuatu;Ropa;Offline;Baja;31/5/2020;290370213;15/6/2020;5854; 109,28 € ; 35,84 € ; 639.725,12 € ; 209.807,36 € 
+C2125;África;Ethiopia;Frutas;Online;Baja;22/2/2021;212511909;22/2/2021;5851; 9,33 € ; 6,92 € ; 54.589,83 € ; 40.488,92 € 
+C2080;África;Niger;Frutas;Online;Crítica;13/7/2022;208001077;22/7/2022;996; 9,33 € ; 6,92 € ; 9.292,68 € ; 6.892,32 € 
+C9487;África;Central African Republic;Cuidado personal;Offline;Alta;9/7/2020;948761546;13/7/2020;8480; 81,73 € ; 56,67 € ; 693.070,40 € ; 480.561,60 € 
+C9270;África;Cape Verde;Snacks;Offline;Crítica;18/1/2020;927029645;29/1/2020;7527; 152,58 € ; 97,44 € ; 1.148.469,66 € ; 733.430,88 € 
+C5053;Norteamérica;United States of America;Cuidado personal;Offline;Crítica;26/2/2022;505354201;12/4/2022;4393; 81,73 € ; 56,67 € ; 359.039,89 € ; 248.951,31 € 
+C5665;África;Sudan;Frutas;Offline;Crítica;30/7/2022;566596543;1/9/2022;7363; 9,33 € ; 6,92 € ; 68.696,79 € ; 50.951,96 € 
+C2639;África;Republic of the Congo;Material de oficina;Offline;Crítica;24/9/2021;263930499;5/11/2021;1755; 651,21 € ; 524,96 € ; 1.142.873,55 € ; 921.304,80 € 
+C1708;Australia y Oceanía;Federated States of Micronesia;Frutas;Online;Crítica;10/6/2020;170842397;10/6/2020;4917; 9,33 € ; 6,92 € ; 45.875,61 € ; 34.025,64 € 
+C9311;África;South Sudan;Frutas;Offline;Baja;10/5/2021;931131064;7/6/2021;1229; 9,33 € ; 6,92 € ; 11.466,57 € ; 8.504,68 € 
+C1089;África;Cape Verde;Frutas;Online;Media;27/10/2021;108907830;31/10/2021;7102; 9,33 € ; 6,92 € ; 66.261,66 € ; 49.145,84 € 
+C7385;Australia y Oceanía;Palau;Doméstico;Offline;Alta;31/12/2020;738596522;18/2/2021;5979; 668,27 € ; 502,54 € ; 3.995.586,33 € ; 3.004.686,66 € 
+C9749;África;Bahrain;Material de oficina;Offline;Baja;29/4/2021;974933469;12/6/2021;3333; 651,21 € ; 524,96 € ; 2.170.482,93 € ; 1.749.691,68 € 
+C8429;África;Algeria;Material de oficina;Offline;Media;4/5/2021;842967498;14/5/2021;1670; 651,21 € ; 524,96 € ; 1.087.520,70 € ; 876.683,20 € 
+C8880;África;Botswana;Cuidado personal;Online;Crítica;7/11/2022;888059937;10/12/2022;5525; 81,73 € ; 56,67 € ; 451.558,25 € ; 313.101,75 € 
+C8258;África;Seychelles ;Doméstico;Offline;Media;1/12/2020;825884616;3/1/2021;6466; 668,27 € ; 502,54 € ; 4.321.033,82 € ; 3.249.423,64 € 
+C8924;África;The Gambia;Material de oficina;Online;Alta;8/6/2022;892427861;25/7/2022;8091; 651,21 € ; 524,96 € ; 5.268.940,11 € ; 4.247.451,36 € 
+C4939;África;Guinea-Bissau;Material de oficina;Online;Baja;2/11/2021;493988502;21/12/2021;1030; 651,21 € ; 524,96 € ; 670.746,30 € ; 540.708,80 € 
+C4571;África;Pakistan;Verduras;Offline;Baja;17/7/2022;457177865;11/8/2022;7945; 154,06 € ; 90,93 € ; 1.224.006,70 € ; 722.438,85 € 
+C7789;África;Mauritania;Cárnicos;Online;Media;19/3/2021;778919780;20/3/2021;8527; 421,89 € ; 364,69 € ; 3.597.456,03 € ; 3.109.711,63 € 
+C1764;Asia;Thailand;Material de oficina;Online;Alta;22/8/2020;176450574;8/9/2020;4501; 651,21 € ; 524,96 € ; 2.931.096,21 € ; 2.362.844,96 € 
+C1373;África;Afghanistan;Cárnicos;Offline;Media;1/8/2022;137319076;20/9/2022;4621; 421,89 € ; 364,69 € ; 1.949.553,69 € ; 1.685.232,49 € 
+C8693;África;The Gambia;Ropa;Online;Baja;17/8/2020;869386613;25/9/2020;9673; 109,28 € ; 35,84 € ; 1.057.065,44 € ; 346.680,32 € 
+C8508;África;Oman;Cárnicos;Offline;Baja;16/8/2021;850827014;29/8/2021;7476; 421,89 € ; 364,69 € ; 3.154.049,64 € ; 2.726.422,44 € 
+C8801;África;Burkina Faso;Snacks;Offline;Alta;24/5/2021;880126607;7/6/2021;7876; 152,58 € ; 97,44 € ; 1.201.720,08 € ; 767.437,44 € 
+C9260;África;Cameroon;Ropa;Offline;Media;12/6/2020;926084220;5/7/2020;7755; 109,28 € ; 35,84 € ; 847.466,40 € ; 277.939,20 € 
+C5778;África;Burkina Faso;Cereales;Online;Alta;21/7/2022;577811181;23/8/2022;6024; 205,70 € ; 117,11 € ; 1.239.136,80 € ; 705.470,64 € 
+C3947;Europa;Serbia;Snacks;Online;Alta;17/11/2021;394731318;12/12/2021;8624; 152,58 € ; 97,44 € ; 1.315.849,92 € ; 840.322,56 € 
+C5565;África;Mauritius ;Doméstico;Offline;Crítica;26/7/2021;556580960;9/9/2021;3529; 668,27 € ; 502,54 € ; 2.358.324,83 € ; 1.773.463,66 € 
+C4134;África;Liberia;Material de oficina;Offline;Crítica;17/11/2020;413408935;13/12/2020;5745; 651,21 € ; 524,96 € ; 3.741.201,45 € ; 3.015.895,20 € 
+C7355;Europa;Latvia;Cuidado personal;Offline;Crítica;3/5/2022;735576570;17/5/2022;2308; 81,73 € ; 56,67 € ; 188.632,84 € ; 130.794,36 € 
+C5637;Asia;China;Ropa;Offline;Media;16/9/2021;563757693;1/11/2021;7284; 109,28 € ; 35,84 € ; 795.995,52 € ; 261.058,56 € 
+C3589;Australia y Oceanía;New Zealand;Verduras;Online;Baja;22/11/2020;358938634;9/12/2020;6773; 154,06 € ; 90,93 € ; 1.043.448,38 € ; 615.868,89 € 
+C6524;África;Sierra Leone;Snacks;Online;Crítica;3/10/2020;652418220;19/10/2020;3904; 152,58 € ; 97,44 € ; 595.672,32 € ; 380.405,76 € 
+C6958;Europa;Bulgaria;Material de oficina;Online;Crítica;26/7/2022;695807778;6/9/2022;3839; 651,21 € ; 524,96 € ; 2.499.995,19 € ; 2.015.321,44 € 
+C7110;África;Somalia;Material de oficina;Offline;Crítica;5/11/2020;711031138;7/12/2020;8769; 651,21 € ; 524,96 € ; 5.710.460,49 € ; 4.603.374,24 € 
+C5403;Europa;Spain;Bebida;Offline;Alta;17/12/2021;540324628;25/1/2022;2919; 47,45 € ; 31,79 € ; 138.506,55 € ; 92.795,01 € 
+C9962;Europa;Cyprus;Cereales;Offline;Media;31/8/2022;996237075;31/8/2022;7544; 205,70 € ; 117,11 € ; 1.551.800,80 € ; 883.477,84 € 
+C7116;África;Namibia;Ropa;Online;Media;12/2/2020;711629807;5/3/2020;5929; 109,28 € ; 35,84 € ; 647.921,12 € ; 212.495,36 € 
+C1896;Norteamérica;Greenland;Cereales;Offline;Alta;19/11/2021;189676654;1/1/2022;8392; 205,70 € ; 117,11 € ; 1.726.234,40 € ; 982.787,12 € 
+C4538;África;Rwanda;Doméstico;Online;Baja;23/8/2021;453863942;9/9/2021;7281; 668,27 € ; 502,54 € ; 4.865.673,87 € ; 3.658.993,74 € 
+C7979;Centroamérica y Caribe;The Bahamas;Material de oficina;Offline;Baja;14/8/2020;797990500;22/9/2020;1977; 651,21 € ; 524,96 € ; 1.287.442,17 € ; 1.037.845,92 € 
+C1361;Europa;Germany;Bebida;Online;Alta;8/6/2020;136167657;21/6/2020;3890; 47,45 € ; 31,79 € ; 184.580,50 € ; 123.663,10 € 
+C1528;Europa;Cyprus;Bebida;Online;Crítica;11/9/2021;152819240;16/10/2021;1464; 47,45 € ; 31,79 € ; 69.466,80 € ; 46.540,56 € 
+C3526;Europa;Luxembourg;Snacks;Online;Crítica;15/7/2022;352681577;25/7/2022;5171; 152,58 € ; 97,44 € ; 788.991,18 € ; 503.862,24 € 
+C3108;Australia y Oceanía;Tuvalu;Cereales;Online;Alta;27/1/2020;310803496;4/3/2020;2516; 205,70 € ; 117,11 € ; 517.541,20 € ; 294.648,76 € 
+C1225;Europa;Bulgaria;Cosméticos;Offline;Baja;26/5/2020;122546327;18/6/2020;3036; 437,20 € ; 263,33 € ; 1.327.339,20 € ; 799.469,88 € 
+C8535;Asia;Bangladesh;Frutas;Offline;Alta;4/1/2020;853583896;20/1/2020;3298; 9,33 € ; 6,92 € ; 30.770,34 € ; 22.822,16 € 
+C4899;Centroamérica y Caribe;El Salvador;Cuidado personal;Offline;Alta;4/7/2021;489902532;31/7/2021;1901; 81,73 € ; 56,67 € ; 155.368,73 € ; 107.729,67 € 
+C6878;Asia;China;Verduras;Online;Media;2/10/2020;687801063;6/10/2020;4474; 154,06 € ; 90,93 € ; 689.264,44 € ; 406.820,82 € 
+C9238;Asia;Mongolia;Cárnicos;Online;Media;7/8/2022;923890817;17/8/2022;8678; 421,89 € ; 364,69 € ; 3.661.161,42 € ; 3.164.779,82 € 
+C7450;Australia y Oceanía;Solomon Islands;Frutas;Offline;Alta;11/4/2022;745095622;27/5/2022;9207; 9,33 € ; 6,92 € ; 85.901,31 € ; 63.712,44 € 
+C2186;África;Mauritania;Cosméticos;Offline;Baja;23/2/2021;218651807;19/3/2021;2783; 437,20 € ; 263,33 € ; 1.216.727,60 € ; 732.847,39 € 
+C3821;Asia;South Korea;Verduras;Online;Media;26/5/2022;382108199;13/7/2022;3162; 154,06 € ; 90,93 € ; 487.137,72 € ; 287.520,66 € 
+C9933;Asia;Myanmar;Material de oficina;Online;Baja;17/1/2021;993326127;18/2/2021;6130; 651,21 € ; 524,96 € ; 3.991.917,30 € ; 3.218.004,80 € 
+C9804;África;Botswana;Cereales;Offline;Baja;7/7/2022;980479419;6/8/2022;4503; 205,70 € ; 117,11 € ; 926.267,10 € ; 527.346,33 € 
+C6920;Europa;Portugal;Snacks;Offline;Crítica;11/3/2021;692054402;20/3/2021;3131; 152,58 € ; 97,44 € ; 477.727,98 € ; 305.084,64 € 
+C5468;Europa;Spain;Verduras;Offline;Crítica;16/11/2021;546849906;11/12/2021;3894; 154,06 € ; 90,93 € ; 599.909,64 € ; 354.081,42 € 
+C5839;África;Cote d'Ivoire;Bebida;Offline;Baja;11/3/2021;583977258;25/4/2021;703; 47,45 € ; 31,79 € ; 33.357,35 € ; 22.348,37 € 
+C9128;Europa;Russia;Alimento infantil;Online;Crítica;13/6/2020;912860286;10/7/2020;4499; 255,28 € ; 159,42 € ; 1.148.504,72 € ; 717.230,58 € 
+C3632;Australia y Oceanía;Federated States of Micronesia;Ropa;Offline;Media;15/5/2021;363235318;25/6/2021;8257; 109,28 € ; 35,84 € ; 902.324,96 € ; 295.930,88 € 
+C5351;África;The Gambia;Cárnicos;Offline;Alta;11/10/2021;535151183;24/11/2021;1982; 421,89 € ; 364,69 € ; 836.185,98 € ; 722.815,58 € 
+C8489;Europa;Luxembourg;Frutas;Offline;Alta;7/10/2022;848969209;15/10/2022;7710; 9,33 € ; 6,92 € ; 71.934,30 € ; 53.353,20 € 
+C7953;África;Liberia;Frutas;Offline;Crítica;15/7/2021;795363223;30/8/2021;4507; 9,33 € ; 6,92 € ; 42.050,31 € ; 31.188,44 € 
+C3853;África;Burundi;Cosméticos;Offline;Crítica;1/6/2021;385319554;27/6/2021;3474; 437,20 € ; 263,33 € ; 1.518.832,80 € ; 914.808,42 € 
+C6001;África;Syria;Cereales;Offline;Alta;2/11/2021;600137031;15/11/2021;2739; 205,70 € ; 117,11 € ; 563.412,30 € ; 320.764,29 € 
+C2414;Norteamérica;United States of America;Ropa;Offline;Alta;24/8/2022;241426980;24/9/2022;2463; 109,28 € ; 35,84 € ; 269.156,64 € ; 88.273,92 € 
+C8811;Asia;Japan;Alimento infantil;Offline;Baja;24/8/2022;881113231;5/10/2022;9840; 255,28 € ; 159,42 € ; 2.511.955,20 € ; 1.568.692,80 € 
+C1114;Asia;Laos;Frutas;Offline;Baja;22/1/2021;111432111;14/2/2021;4093; 9,33 € ; 6,92 € ; 38.187,69 € ; 28.323,56 € 
+C9949;Europa;Germany;Verduras;Online;Crítica;14/10/2021;994932448;23/11/2021;1476; 154,06 € ; 90,93 € ; 227.392,56 € ; 134.212,68 € 
+C8144;Norteamérica;Greenland;Cuidado personal;Online;Crítica;23/7/2020;814475572;10/8/2020;276; 81,73 € ; 56,67 € ; 22.557,48 € ; 15.640,92 € 
+C5232;Centroamérica y Caribe;Jamaica;Cárnicos;Offline;Alta;26/8/2020;523235309;20/9/2020;5810; 421,89 € ; 364,69 € ; 2.451.180,90 € ; 2.118.848,90 € 
+C6946;Europa;Switzerland;Verduras;Online;Media;13/1/2020;694697988;23/2/2020;5427; 154,06 € ; 90,93 € ; 836.083,62 € ; 493.477,11 € 
+C1726;Europa;Sweden;Material de oficina;Online;Media;10/5/2021;172662436;10/6/2021;3507; 651,21 € ; 524,96 € ; 2.283.793,47 € ; 1.841.034,72 € 
+C1212;África;Liberia;Bebida;Online;Media;15/12/2021;121239984;13/1/2022;6460; 47,45 € ; 31,79 € ; 306.527,00 € ; 205.363,40 € 
+C8748;Australia y Oceanía;Kiribati;Alimento infantil;Offline;Media;2/1/2021;874854457;4/1/2021;7730; 255,28 € ; 159,42 € ; 1.973.314,40 € ; 1.232.316,60 € 
+C5882;Europa;Malta;Cárnicos;Online;Media;6/12/2020;588242185;10/1/2021;2789; 421,89 € ; 364,69 € ; 1.176.651,21 € ; 1.017.120,41 € 
+C1864;Asia;Philippines;Cuidado personal;Online;Baja;12/4/2020;186451995;29/5/2020;4144; 81,73 € ; 56,67 € ; 338.689,12 € ; 234.840,48 € 
+C2148;África;Comoros;Alimento infantil;Offline;Baja;8/11/2020;214845216;29/11/2020;6329; 255,28 € ; 159,42 € ; 1.615.667,12 € ; 1.008.969,18 € 
+C3890;Europa;Liechtenstein;Doméstico;Offline;Baja;29/7/2020;389095675;30/8/2020;912; 668,27 € ; 502,54 € ; 609.462,24 € ; 458.316,48 € 
+C9451;África;Lebanon;Cereales;Online;Baja;15/8/2020;945189702;29/8/2020;1492; 205,70 € ; 117,11 € ; 306.904,40 € ; 174.728,12 € 
+C3894;Norteamérica;Greenland;Cereales;Offline;Crítica;22/2/2021;389426124;5/4/2021;8699; 205,70 € ; 117,11 € ; 1.789.384,30 € ; 1.018.739,89 € 
+C4484;África;Chad;Cereales;Online;Media;13/9/2022;448416268;15/9/2022;5193; 205,70 € ; 117,11 € ; 1.068.200,10 € ; 608.152,23 € 
+C2190;Europa;Macedonia;Doméstico;Offline;Baja;15/12/2021;219083964;5/1/2022;668; 668,27 € ; 502,54 € ; 446.404,36 € ; 335.696,72 € 
+C2186;África;United Arab Emirates;Cosméticos;Offline;Alta;12/9/2021;218665540;19/10/2021;6847; 437,20 € ; 263,33 € ; 2.993.508,40 € ; 1.803.020,51 € 
+C1347;África;Qatar;Cereales;Offline;Alta;29/10/2020;134709823;25/11/2020;2485; 205,70 € ; 117,11 € ; 511.164,50 € ; 291.018,35 € 
+C1750;África;Iraq;Verduras;Online;Alta;5/7/2021;175078141;5/8/2021;8367; 154,06 € ; 90,93 € ; 1.289.020,02 € ; 760.811,31 € 
+C6179;Europa;Kosovo;Material de oficina;Online;Baja;7/1/2022;617944324;4/2/2022;2312; 651,21 € ; 524,96 € ; 1.505.597,52 € ; 1.213.707,52 € 
+C4617;Asia;Bhutan;Cosméticos;Offline;Crítica;12/1/2021;461794698;22/1/2021;4168; 437,20 € ; 263,33 € ; 1.822.249,60 € ; 1.097.559,44 € 
+C5754;Centroamérica y Caribe;Cuba;Ropa;Offline;Alta;2/12/2021;575428092;10/12/2021;815; 109,28 € ; 35,84 € ; 89.063,20 € ; 29.209,60 € 
+C5479;Norteamérica;Mexico;Alimento infantil;Online;Media;25/9/2022;547955834;9/10/2022;1163; 255,28 € ; 159,42 € ; 296.890,64 € ; 185.405,46 € 
+C9388;África;Cote d'Ivoire;Bebida;Online;Media;1/7/2020;938801753;12/7/2020;1156; 47,45 € ; 31,79 € ; 54.852,20 € ; 36.749,24 € 
+C1277;África;Nigeria;Cereales;Offline;Alta;20/3/2021;127702176;2/5/2021;8767; 205,70 € ; 117,11 € ; 1.803.371,90 € ; 1.026.703,37 € 
+C1647;Australia y Oceanía;Vanuatu;Material de oficina;Offline;Alta;17/4/2021;164705932;31/5/2021;9000; 651,21 € ; 524,96 € ; 5.860.890,00 € ; 4.724.640,00 € 
+C9201;África;Kuwait;Verduras;Offline;Baja;20/5/2020;920174348;30/5/2020;8893; 154,06 € ; 90,93 € ; 1.370.055,58 € ; 808.640,49 € 
+C5347;África;Namibia;Cárnicos;Offline;Media;3/11/2022;534781253;30/11/2022;2512; 421,89 € ; 364,69 € ; 1.059.787,68 € ; 916.101,28 € 
+C3695;África;Egypt;Verduras;Online;Baja;25/12/2021;369512975;5/2/2022;5955; 154,06 € ; 90,93 € ; 917.427,30 € ; 541.488,15 € 
+C9556;África;Swaziland;Frutas;Offline;Crítica;15/7/2021;955668342;26/8/2021;2354; 9,33 € ; 6,92 € ; 21.962,82 € ; 16.289,68 € 
+C6448;Centroamérica y Caribe;Antigua and Barbuda ;Cárnicos;Offline;Crítica;8/10/2022;644858682;4/11/2022;6869; 421,89 € ; 364,69 € ; 2.897.962,41 € ; 2.505.055,61 € 
+C5590;Asia;Sri Lanka;Verduras;Offline;Alta;15/3/2020;559007823;18/4/2020;1692; 154,06 € ; 90,93 € ; 260.669,52 € ; 153.853,56 € 
+C5403;Europa;Liechtenstein;Bebida;Offline;Media;15/3/2020;540352094;30/3/2020;1047; 47,45 € ; 31,79 € ; 49.680,15 € ; 33.284,13 € 
+C5014;África;Angola;Material de oficina;Online;Crítica;20/5/2022;501440322;30/5/2022;6189; 651,21 € ; 524,96 € ; 4.030.338,69 € ; 3.248.977,44 € 
+C8751;Asia;Brunei;Doméstico;Offline;Crítica;16/1/2021;875133836;6/2/2021;404; 668,27 € ; 502,54 € ; 269.981,08 € ; 203.026,16 € 
+C3646;Australia y Oceanía;Samoa ;Ropa;Offline;Crítica;23/11/2020;364606463;2/1/2021;4010; 109,28 € ; 35,84 € ; 438.212,80 € ; 143.718,40 € 
+C8933;Australia y Oceanía;Marshall Islands;Frutas;Online;Baja;30/4/2021;893344533;20/5/2021;9354; 9,33 € ; 6,92 € ; 87.272,82 € ; 64.729,68 € 
+C8551;África;Democratic Republic of the Congo;Frutas;Online;Crítica;15/9/2020;855146872;20/9/2020;5818; 9,33 € ; 6,92 € ; 54.281,94 € ; 40.260,56 € 
+C9641;Australia y Oceanía;Tonga;Cosméticos;Online;Crítica;30/8/2020;964124810;31/8/2020;4811; 437,20 € ; 263,33 € ; 2.103.369,20 € ; 1.266.880,63 € 
+C2047;África;Mozambique;Snacks;Offline;Crítica;15/10/2021;204702174;17/10/2021;4777; 152,58 € ; 97,44 € ; 728.874,66 € ; 465.470,88 € 
+C7816;África;Kuwait;Cárnicos;Online;Media;25/3/2022;781615293;10/4/2022;6189; 421,89 € ; 364,69 € ; 2.611.077,21 € ; 2.257.066,41 € 
+C4699;Europa;Romania;Bebida;Offline;Alta;16/12/2021;469912993;22/1/2022;6552; 47,45 € ; 31,79 € ; 310.892,40 € ; 208.288,08 € 
+C2649;África;South Sudan;Cosméticos;Online;Crítica;9/5/2021;264956605;4/6/2021;5402; 437,20 € ; 263,33 € ; 2.361.754,40 € ; 1.422.508,66 € 
+C3324;Asia;Malaysia;Snacks;Offline;Crítica;13/8/2022;332419955;12/9/2022;9307; 152,58 € ; 97,44 € ; 1.420.062,06 € ; 906.874,08 € 
+C4582;Centroamérica y Caribe;Costa Rica;Snacks;Offline;Media;22/8/2022;458289372;30/8/2022;6864; 152,58 € ; 97,44 € ; 1.047.309,12 € ; 668.828,16 € 
+C4988;Europa;Croatia;Cuidado personal;Online;Alta;25/2/2020;498863685;8/3/2020;3705; 81,73 € ; 56,67 € ; 302.809,65 € ; 209.962,35 € 
+C8307;Asia;Nepal;Bebida;Offline;Baja;5/11/2022;830754220;7/11/2022;7490; 47,45 € ; 31,79 € ; 355.400,50 € ; 238.107,10 € 
+C1008;Asia;Tajikistan;Alimento infantil;Online;Alta;1/4/2020;100884807;30/4/2020;2911; 255,28 € ; 159,42 € ; 743.120,08 € ; 464.071,62 € 
+C1764;Europa;Serbia;Cárnicos;Offline;Alta;17/4/2022;176491773;24/4/2022;6692; 421,89 € ; 364,69 € ; 2.823.287,88 € ; 2.440.505,48 € 
+C2951;África;Angola;Cárnicos;Offline;Baja;25/9/2020;295123946;3/11/2020;2589; 421,89 € ; 364,69 € ; 1.092.273,21 € ; 944.182,41 € 
+C2146;Asia;Japan;Cuidado personal;Online;Baja;7/1/2022;214642655;14/2/2022;6386; 81,73 € ; 56,67 € ; 521.927,78 € ; 361.894,62 € 
+C6632;Europa;Iceland;Cárnicos;Online;Media;21/2/2020;663221728;1/3/2020;903; 421,89 € ; 364,69 € ; 380.966,67 € ; 329.315,07 € 
+C1893;Europa;Cyprus;Ropa;Offline;Media;2/12/2020;189347493;21/12/2020;986; 109,28 € ; 35,84 € ; 107.750,08 € ; 35.338,24 € 
+C1118;Australia y Oceanía;East Timor;Bebida;Offline;Alta;30/7/2020;111818778;23/8/2020;8516; 47,45 € ; 31,79 € ; 404.084,20 € ; 270.723,64 € 
+C4697;Asia;Tajikistan;Material de oficina;Online;Baja;17/6/2021;469746911;28/7/2021;7405; 651,21 € ; 524,96 € ; 4.822.210,05 € ; 3.887.328,80 € 
+C4725;África;Somalia;Doméstico;Online;Crítica;7/1/2022;472555720;3/2/2022;8594; 668,27 € ; 502,54 € ; 5.743.112,38 € ; 4.318.828,76 € 
+C7499;Europa;Spain;Ropa;Offline;Alta;9/2/2021;749981534;11/2/2021;5057; 109,28 € ; 35,84 € ; 552.628,96 € ; 181.242,88 € 
+C2020;Europa;Sweden;Cereales;Online;Crítica;12/4/2022;202073180;8/5/2022;6799; 205,70 € ; 117,11 € ; 1.398.554,30 € ; 796.230,89 € 
+C9491;África;Ethiopia;Doméstico;Offline;Baja;26/11/2020;949191987;15/12/2020;5857; 668,27 € ; 502,54 € ; 3.914.057,39 € ; 2.943.376,78 € 
+C6820;Asia;Turkmenistan;Cuidado personal;Offline;Baja;4/10/2022;682011783;14/11/2022;1297; 81,73 € ; 56,67 € ; 106.003,81 € ; 73.500,99 € 
+C3115;Europa;Malta;Ropa;Online;Baja;6/8/2022;311518895;21/8/2022;4219; 109,28 € ; 35,84 € ; 461.052,32 € ; 151.208,96 € 
+C8190;África;Malawi;Cosméticos;Offline;Baja;16/9/2022;819012153;18/9/2022;2751; 437,20 € ; 263,33 € ; 1.202.737,20 € ; 724.420,83 € 
+C1061;Europa;Czech Republic;Material de oficina;Offline;Crítica;29/1/2020;106102883;28/2/2020;7056; 651,21 € ; 524,96 € ; 4.594.937,76 € ; 3.704.117,76 € 
+C6447;Europa;Netherlands;Cárnicos;Offline;Media;3/2/2022;644714915;10/2/2022;4325; 421,89 € ; 364,69 € ; 1.824.674,25 € ; 1.577.284,25 € 
+C9270;Europa;Sweden;Bebida;Offline;Baja;2/4/2022;927084577;16/4/2022;3783; 47,45 € ; 31,79 € ; 179.503,35 € ; 120.261,57 € 
+C4157;África;Saudi Arabia;Verduras;Online;Crítica;6/8/2021;415760695;18/8/2021;1684; 154,06 € ; 90,93 € ; 259.437,04 € ; 153.126,12 € 
+C8936;África;Turkey;Cereales;Online;Media;29/7/2021;893604600;29/8/2021;6314; 205,70 € ; 117,11 € ; 1.298.789,80 € ; 739.432,54 € 
+C6137;Centroamérica y Caribe;Dominican Republic;Ropa;Offline;Baja;12/8/2022;613790118;18/9/2022;2991; 109,28 € ; 35,84 € ; 326.856,48 € ; 107.197,44 € 
+C1498;Asia;Uzbekistan;Cuidado personal;Offline;Alta;31/8/2022;149803578;7/9/2022;9063; 81,73 € ; 56,67 € ; 740.718,99 € ; 513.600,21 € 
+C1454;África;Kuwait;Snacks;Offline;Media;14/7/2021;145443809;26/7/2021;8910; 152,58 € ; 97,44 € ; 1.359.487,80 € ; 868.190,40 € 
+C8648;Australia y Oceanía;Federated States of Micronesia;Ropa;Offline;Crítica;9/4/2022;864822137;11/5/2022;8943; 109,28 € ; 35,84 € ; 977.291,04 € ; 320.517,12 € 
+C8423;Australia y Oceanía;Samoa ;Material de oficina;Online;Alta;10/3/2021;842362391;14/4/2021;2606; 651,21 € ; 524,96 € ; 1.697.053,26 € ; 1.368.045,76 € 
+C9328;África;Eritrea;Snacks;Online;Baja;18/9/2020;932800900;21/9/2020;5370; 152,58 € ; 97,44 € ; 819.354,60 € ; 523.252,80 € 
+C2611;Asia;Singapore;Alimento infantil;Online;Alta;3/4/2022;261186492;13/4/2022;9742; 255,28 € ; 159,42 € ; 2.486.937,76 € ; 1.553.069,64 € 
+C2728;África;Mauritania;Doméstico;Offline;Media;23/11/2021;272880494;31/12/2021;257; 668,27 € ; 502,54 € ; 171.745,39 € ; 129.152,78 € 
+C6835;Asia;Bhutan;Ropa;Online;Alta;30/5/2020;683556735;8/6/2020;8483; 109,28 € ; 35,84 € ; 927.022,24 € ; 304.030,72 € 
+C8292;África;Republic of the Congo;Bebida;Online;Baja;5/11/2021;829201543;15/11/2021;8018; 47,45 € ; 31,79 € ; 380.454,10 € ; 254.892,22 € 
+C1161;Europa;Germany;Bebida;Online;Media;18/8/2020;116113746;1/9/2020;9493; 47,45 € ; 31,79 € ; 450.442,85 € ; 301.782,47 € 
+C2709;África;Tunisia ;Cereales;Offline;Media;6/3/2020;270904672;14/3/2020;5567; 205,70 € ; 117,11 € ; 1.145.131,90 € ; 651.951,37 € 
+C3904;Asia;Myanmar;Cereales;Offline;Media;7/1/2020;390498149;26/1/2020;5935; 205,70 € ; 117,11 € ; 1.220.829,50 € ; 695.047,85 € 
+C9921;Europa;Romania;Cosméticos;Offline;Media;28/1/2020;992130506;3/3/2020;2319; 437,20 € ; 263,33 € ; 1.013.866,80 € ; 610.662,27 € 
+C8633;Europa;Greece;Snacks;Offline;Crítica;10/2/2022;863350570;14/3/2022;3474; 152,58 € ; 97,44 € ; 530.062,92 € ; 338.506,56 € 
+C2120;África;Benin;Cosméticos;Offline;Baja;28/7/2022;212019670;29/7/2022;187; 437,20 € ; 263,33 € ; 81.756,40 € ; 49.242,71 € 
+C2163;Centroamérica y Caribe;Jamaica;Material de oficina;Online;Crítica;5/8/2022;216311633;27/8/2022;274; 651,21 € ; 524,96 € ; 178.431,54 € ; 143.839,04 € 
+C7747;Europa;Liechtenstein;Doméstico;Online;Alta;6/11/2020;774712789;11/12/2020;3585; 668,27 € ; 502,54 € ; 2.395.747,95 € ; 1.801.605,90 € 
+C9560;Norteamérica;Greenland;Alimento infantil;Online;Crítica;17/9/2020;956021964;8/10/2020;6999; 255,28 € ; 159,42 € ; 1.786.704,72 € ; 1.115.780,58 € 
+C3493;Europa;Romania;Cosméticos;Online;Alta;26/3/2020;349350488;19/4/2020;9428; 437,20 € ; 263,33 € ; 4.121.921,60 € ; 2.482.675,24 € 
+C4141;Asia;China;Cosméticos;Online;Alta;26/2/2022;414122188;23/3/2022;6813; 437,20 € ; 263,33 € ; 2.978.643,60 € ; 1.794.067,29 € 
+C4300;Australia y Oceanía;East Timor;Doméstico;Offline;Baja;17/1/2021;430073392;5/2/2021;7129; 668,27 € ; 502,54 € ; 4.764.096,83 € ; 3.582.607,66 € 
+C6472;Europa;Albania;Cuidado personal;Online;Media;18/11/2021;647252929;28/12/2021;5380; 81,73 € ; 56,67 € ; 439.707,40 € ; 304.884,60 € 
+C9360;Asia;Laos;Frutas;Offline;Alta;20/6/2021;936022126;24/7/2021;8602; 9,33 € ; 6,92 € ; 80.256,66 € ; 59.525,84 € 
+C3370;África;Central African Republic;Material de oficina;Offline;Baja;17/4/2021;337054812;24/5/2021;864; 651,21 € ; 524,96 € ; 562.645,44 € ; 453.565,44 € 
+C2113;Europa;Netherlands;Cárnicos;Offline;Crítica;24/5/2020;211337316;8/7/2020;8263; 421,89 € ; 364,69 € ; 3.486.077,07 € ; 3.013.433,47 € 
+C1901;Australia y Oceanía;Solomon Islands;Snacks;Offline;Media;30/6/2022;190168464;15/8/2022;3929; 152,58 € ; 97,44 € ; 599.486,82 € ; 382.841,76 € 
+C4251;África;Seychelles ;Ropa;Offline;Media;16/4/2020;425159585;26/5/2020;3024; 109,28 € ; 35,84 € ; 330.462,72 € ; 108.380,16 € 
+C2382;Asia;Kazakhstan;Cárnicos;Online;Baja;7/8/2022;238234508;21/8/2022;7740; 421,89 € ; 364,69 € ; 3.265.428,60 € ; 2.822.700,60 € 
+C3716;Europa;Hungary;Cosméticos;Offline;Alta;26/6/2021;371629559;16/7/2021;2300; 437,20 € ; 263,33 € ; 1.005.560,00 € ; 605.659,00 € 
+C7378;Asia;Laos;Alimento infantil;Offline;Baja;13/4/2022;737893569;30/5/2022;7960; 255,28 € ; 159,42 € ; 2.032.028,80 € ; 1.268.983,20 € 
+C8698;África;Yemen;Ropa;Online;Crítica;25/2/2022;869887864;15/4/2022;8005; 109,28 € ; 35,84 € ; 874.786,40 € ; 286.899,20 € 
+C3707;Europa;Russia;Cuidado personal;Offline;Alta;1/2/2020;370786273;16/2/2020;2753; 81,73 € ; 56,67 € ; 225.002,69 € ; 156.012,51 € 
+C2640;Asia;Philippines;Cereales;Offline;Alta;10/3/2021;264075124;11/3/2021;4552; 205,70 € ; 117,11 € ; 936.346,40 € ; 533.084,72 € 
+C7435;Australia y Oceanía;Marshall Islands;Frutas;Online;Baja;22/12/2020;743553245;22/12/2020;2783; 9,33 € ; 6,92 € ; 25.965,39 € ; 19.258,36 € 
+C7233;África;Burkina Faso;Cuidado personal;Online;Crítica;24/1/2021;723331964;11/2/2021;8857; 81,73 € ; 56,67 € ; 723.882,61 € ; 501.926,19 € 
+C9878;Europa;Kosovo;Snacks;Offline;Media;23/1/2022;987835109;13/3/2022;1215; 152,58 € ; 97,44 € ; 185.384,70 € ; 118.389,60 € 
+C1417;Asia;North Korea;Material de oficina;Offline;Alta;7/2/2022;141799008;28/3/2022;333; 651,21 € ; 524,96 € ; 216.852,93 € ; 174.811,68 € 
+C4602;Asia;Bhutan;Snacks;Online;Alta;1/3/2021;460272490;16/3/2021;3713; 152,58 € ; 97,44 € ; 566.529,54 € ; 361.794,72 € 
+C2386;Europa;Switzerland;Material de oficina;Offline;Media;25/6/2022;238616883;2/7/2022;893; 651,21 € ; 524,96 € ; 581.530,53 € ; 468.789,28 € 
+C5425;África;Libya;Cuidado personal;Offline;Alta;17/7/2022;542506015;7/8/2022;8440; 81,73 € ; 56,67 € ; 689.801,20 € ; 478.294,80 € 
+C2579;Centroamérica y Caribe;Honduras;Verduras;Online;Alta;4/2/2021;257926213;23/2/2021;4953; 154,06 € ; 90,93 € ; 763.059,18 € ; 450.376,29 € 
+C1411;África;Benin;Alimento infantil;Online;Media;2/8/2022;141176307;20/9/2022;6061; 255,28 € ; 159,42 € ; 1.547.252,08 € ; 966.244,62 € 
+C5688;África;Egypt;Cárnicos;Online;Media;31/5/2020;568867623;22/6/2020;9426; 421,89 € ; 364,69 € ; 3.976.735,14 € ; 3.437.567,94 € 
+C1879;Europa;Cyprus;Bebida;Online;Media;5/4/2021;187923991;17/5/2021;9740; 47,45 € ; 31,79 € ; 462.163,00 € ; 309.634,60 € 
+C8655;África;Morocco;Cereales;Online;Alta;4/10/2020;865581738;23/10/2020;3726; 205,70 € ; 117,11 € ; 766.438,20 € ; 436.351,86 € 
+C9393;Europa;Estonia;Bebida;Offline;Alta;8/2/2022;939389693;15/2/2022;5140; 47,45 € ; 31,79 € ; 243.893,00 € ; 163.400,60 € 
+C1672;Asia;South Korea;Alimento infantil;Online;Crítica;24/4/2020;167209184;16/5/2020;9768; 255,28 € ; 159,42 € ; 2.493.575,04 € ; 1.557.214,56 € 
+C1772;Asia;Vietnam;Cosméticos;Online;Media;20/10/2020;177214038;6/11/2020;427; 437,20 € ; 263,33 € ; 186.684,40 € ; 112.441,91 € 
+C4178;África;Syria;Snacks;Offline;Alta;29/10/2020;417890584;6/11/2020;1965; 152,58 € ; 97,44 € ; 299.819,70 € ; 191.469,60 € 
+C4080;Europa;Luxembourg;Ropa;Online;Baja;27/4/2022;408037650;27/4/2022;6263; 109,28 € ; 35,84 € ; 684.420,64 € ; 224.465,92 € 
+C1867;Centroamérica y Caribe;Cuba;Cosméticos;Online;Alta;28/11/2021;186766564;12/12/2021;7232; 437,20 € ; 263,33 € ; 3.161.830,40 € ; 1.904.402,56 € 
+C7635;Asia;Maldives;Cárnicos;Offline;Alta;27/11/2020;763501155;2/12/2020;5813; 421,89 € ; 364,69 € ; 2.452.446,57 € ; 2.119.942,97 € 
+C9679;Asia;Taiwan;Bebida;Online;Media;10/1/2021;967977750;22/2/2021;4982; 47,45 € ; 31,79 € ; 236.395,90 € ; 158.377,78 € 
+C6002;Europa;Bosnia and Herzegovina;Snacks;Offline;Crítica;7/2/2020;600245177;14/3/2020;4742; 152,58 € ; 97,44 € ; 723.534,36 € ; 462.060,48 € 
+C8806;África;Afghanistan;Cosméticos;Offline;Baja;28/1/2022;880664765;3/2/2022;7129; 437,20 € ; 263,33 € ; 3.116.798,80 € ; 1.877.279,57 € 
+C3999;Norteamérica;Canada;Cereales;Online;Media;20/4/2021;399910342;4/5/2021;1212; 205,70 € ; 117,11 € ; 249.308,40 € ; 141.937,32 € 
+C9689;África;Qatar;Cárnicos;Offline;Media;4/2/2021;968968236;8/3/2021;8088; 421,89 € ; 364,69 € ; 3.412.246,32 € ; 2.949.612,72 € 
+C8691;Europa;Malta;Verduras;Offline;Baja;24/11/2020;869137275;15/12/2020;5889; 154,06 € ; 90,93 € ; 907.259,34 € ; 535.486,77 € 
+C7020;África;Bahrain;Verduras;Online;Crítica;19/7/2020;702028787;25/7/2020;4773; 154,06 € ; 90,93 € ; 735.328,38 € ; 434.008,89 € 
+C2395;África;Zambia;Frutas;Offline;Baja;19/9/2021;239566600;20/9/2021;1935; 9,33 € ; 6,92 € ; 18.053,55 € ; 13.390,20 € 
+C6739;Asia;Bangladesh;Ropa;Online;Crítica;5/10/2020;673987042;7/11/2020;6598; 109,28 € ; 35,84 € ; 721.029,44 € ; 236.472,32 € 
+C5678;África;Egypt;Cárnicos;Offline;Media;1/8/2021;567838943;14/8/2021;5017; 421,89 € ; 364,69 € ; 2.116.622,13 € ; 1.829.649,73 € 
+C8039;Asia;Japan;Ropa;Online;Crítica;9/10/2022;803983628;1/11/2022;5477; 109,28 € ; 35,84 € ; 598.526,56 € ; 196.295,68 € 
+C5355;Centroamérica y Caribe;Jamaica;Cosméticos;Offline;Media;21/11/2021;535594928;17/12/2021;3296; 437,20 € ; 263,33 € ; 1.441.011,20 € ; 867.935,68 € 
+C3361;África;Namibia;Alimento infantil;Online;Media;14/8/2022;336159169;17/8/2022;5823; 255,28 € ; 159,42 € ; 1.486.495,44 € ; 928.302,66 € 
+C8494;Australia y Oceanía;Federated States of Micronesia;Cárnicos;Offline;Crítica;21/11/2021;849475181;12/12/2021;7438; 421,89 € ; 364,69 € ; 3.138.017,82 € ; 2.712.564,22 € 
+C5396;África;Iran;Ropa;Offline;Media;6/10/2022;539654290;18/10/2022;4552; 109,28 € ; 35,84 € ; 497.442,56 € ; 163.143,68 € 
+C6411;Asia;Malaysia;Cereales;Online;Alta;20/7/2021;641120326;3/9/2021;606; 205,70 € ; 117,11 € ; 124.654,20 € ; 70.968,66 € 
+C2086;Asia;Tajikistan;Verduras;Offline;Crítica;4/9/2020;208609616;5/9/2020;1076; 154,06 € ; 90,93 € ; 165.768,56 € ; 97.840,68 € 
+C1671;África;Iran;Cárnicos;Offline;Alta;20/7/2021;167170989;22/7/2021;8465; 421,89 € ; 364,69 € ; 3.571.298,85 € ; 3.087.100,85 € 
+C1621;Australia y Oceanía;Samoa ;Cárnicos;Online;Crítica;3/4/2020;162165772;6/5/2020;7311; 421,89 € ; 364,69 € ; 3.084.437,79 € ; 2.666.248,59 € 
+C8092;África;Botswana;Cosméticos;Online;Crítica;5/6/2020;809267795;20/6/2020;9179; 437,20 € ; 263,33 € ; 4.013.058,80 € ; 2.417.106,07 € 
+C5444;Europa;Austria;Alimento infantil;Online;Crítica;22/5/2020;544463384;25/6/2020;7669; 255,28 € ; 159,42 € ; 1.957.742,32 € ; 1.222.591,98 € 
+C5740;África;Syria;Bebida;Online;Alta;17/4/2020;574051368;1/5/2020;3411; 47,45 € ; 31,79 € ; 161.851,95 € ; 108.435,69 € 
+C8246;África;Senegal;Frutas;Online;Crítica;10/9/2020;824643075;23/10/2020;9066; 9,33 € ; 6,92 € ; 84.585,78 € ; 62.736,72 € 
+C3931;África;Mauritius ;Cuidado personal;Offline;Media;11/2/2021;393162333;29/3/2021;4326; 81,73 € ; 56,67 € ; 353.563,98 € ; 245.154,42 € 
+C6968;África;Cote d'Ivoire;Frutas;Online;Alta;28/6/2021;696845471;8/7/2021;915; 9,33 € ; 6,92 € ; 8.536,95 € ; 6.331,80 € 
+C5232;Centroamérica y Caribe;Belize;Ropa;Offline;Alta;18/9/2020;523241317;3/10/2020;7588; 109,28 € ; 35,84 € ; 829.216,64 € ; 271.953,92 € 
+C9802;África;Morocco;Cereales;Offline;Baja;15/12/2020;980211198;15/12/2020;5131; 205,70 € ; 117,11 € ; 1.055.446,70 € ; 600.891,41 € 
+C5459;Australia y Oceanía;Australia;Doméstico;Online;Baja;27/6/2020;545928943;10/8/2020;1361; 668,27 € ; 502,54 € ; 909.515,47 € ; 683.956,94 € 
+C9188;África;Senegal;Verduras;Online;Baja;5/11/2020;918880879;13/12/2020;6127; 154,06 € ; 90,93 € ; 943.925,62 € ; 557.128,11 € 
+C2678;Centroamérica y Caribe;Antigua and Barbuda ;Verduras;Offline;Alta;18/7/2022;267865836;30/7/2022;6308; 154,06 € ; 90,93 € ; 971.810,48 € ; 573.586,44 € 
+C8819;Europa;Poland;Material de oficina;Online;Alta;8/10/2020;881995141;20/10/2020;817; 651,21 € ; 524,96 € ; 532.038,57 € ; 428.892,32 € 
+C6206;Europa;Kosovo;Cuidado personal;Online;Crítica;17/2/2021;620692622;6/3/2021;5595; 81,73 € ; 56,67 € ; 457.279,35 € ; 317.068,65 € 
+C5636;Asia;Malaysia;Cárnicos;Online;Media;19/1/2021;563694608;11/2/2021;8616; 421,89 € ; 364,69 € ; 3.635.004,24 € ; 3.142.169,04 € 
+C9610;Centroamérica y Caribe;Guatemala;Bebida;Online;Alta;26/8/2022;961049926;9/9/2022;4885; 47,45 € ; 31,79 € ; 231.793,25 € ; 155.294,15 € 
+C7831;Australia y Oceanía;Vanuatu;Material de oficina;Online;Baja;24/9/2022;783119904;30/10/2022;1437; 651,21 € ; 524,96 € ; 935.788,77 € ; 754.367,52 € 
+C8705;Centroamérica y Caribe;Nicaragua;Cuidado personal;Online;Alta;13/10/2022;870578372;6/11/2022;2341; 81,73 € ; 56,67 € ; 191.329,93 € ; 132.664,47 € 
+C7844;África;Lesotho;Snacks;Offline;Media;3/11/2021;784411656;29/11/2021;3695; 152,58 € ; 97,44 € ; 563.783,10 € ; 360.040,80 € 
+C1559;Asia;Turkmenistan;Doméstico;Offline;Crítica;10/10/2020;155918586;7/11/2020;8629; 668,27 € ; 502,54 € ; 5.766.501,83 € ; 4.336.417,66 € 
+C9367;África;Saudi Arabia;Cosméticos;Offline;Crítica;7/11/2020;936710488;8/12/2020;2304; 437,20 € ; 263,33 € ; 1.007.308,80 € ; 606.712,32 € 
+C6487;Asia;Japan;Snacks;Online;Media;24/4/2022;648711192;16/5/2022;6912; 152,58 € ; 97,44 € ; 1.054.632,96 € ; 673.505,28 € 
+C9341;Europa;Latvia;Doméstico;Online;Crítica;1/2/2020;934157025;3/2/2020;6678; 668,27 € ; 502,54 € ; 4.462.707,06 € ; 3.355.962,12 € 
+C8055;Norteamérica;Greenland;Ropa;Online;Crítica;11/5/2022;805596816;23/5/2022;2855; 109,28 € ; 35,84 € ; 311.994,40 € ; 102.323,20 € 
+C6958;Centroamérica y Caribe;Costa Rica;Cereales;Online;Alta;30/7/2020;695891892;3/8/2020;8730; 205,70 € ; 117,11 € ; 1.795.761,00 € ; 1.022.370,30 € 
+C2082;Asia;Japan;Cuidado personal;Offline;Baja;24/4/2022;208216083;13/5/2022;4621; 81,73 € ; 56,67 € ; 377.674,33 € ; 261.872,07 € 
+C3660;Europa;Cyprus;Cereales;Offline;Crítica;25/3/2021;366055715;5/4/2021;2875; 205,70 € ; 117,11 € ; 591.387,50 € ; 336.691,25 € 
+C4632;África;Pakistan;Cárnicos;Online;Baja;3/6/2021;463209617;27/6/2021;2874; 421,89 € ; 364,69 € ; 1.212.511,86 € ; 1.048.119,06 € 
+C3137;Europa;Monaco;Cosméticos;Online;Media;25/8/2021;313789117;7/9/2021;6028; 437,20 € ; 263,33 € ; 2.635.441,60 € ; 1.587.353,24 € 
+C7022;Asia;China;Cereales;Offline;Crítica;6/7/2022;702218043;29/7/2022;779; 205,70 € ; 117,11 € ; 160.240,30 € ; 91.228,69 € 
+C2332;Australia y Oceanía;New Zealand;Cárnicos;Online;Alta;26/2/2022;233232724;8/3/2022;7601; 421,89 € ; 364,69 € ; 3.206.785,89 € ; 2.772.008,69 € 
+C2818;Centroamérica y Caribe;Guatemala;Alimento infantil;Offline;Baja;20/7/2020;281881988;11/8/2020;3999; 255,28 € ; 159,42 € ; 1.020.864,72 € ; 637.520,58 € 
+C9435;África;Libya;Snacks;Online;Media;6/12/2020;943527162;22/12/2020;9509; 152,58 € ; 97,44 € ; 1.450.883,22 € ; 926.556,96 € 
+C5838;Europa;Liechtenstein;Cárnicos;Offline;Media;24/8/2022;583842074;4/10/2022;699; 421,89 € ; 364,69 € ; 294.901,11 € ; 254.918,31 € 
+C7888;África;Democratic Republic of the Congo;Alimento infantil;Online;Alta;3/8/2022;788813054;9/8/2022;6167; 255,28 € ; 159,42 € ; 1.574.311,76 € ; 983.143,14 € 
+C5147;Asia;Mongolia;Cuidado personal;Online;Crítica;4/5/2022;514738929;16/5/2022;1543; 81,73 € ; 56,67 € ; 126.109,39 € ; 87.441,81 € 
+C1382;Europa;Bosnia and Herzegovina;Frutas;Offline;Media;7/1/2021;138231027;28/1/2021;4487; 9,33 € ; 6,92 € ; 41.863,71 € ; 31.050,04 € 
+C1062;Centroamérica y Caribe;Cuba;Cereales;Online;Crítica;13/6/2022;106213176;15/7/2022;9694; 205,70 € ; 117,11 € ; 1.994.055,80 € ; 1.135.264,34 € 
+C4859;Asia;Bhutan;Snacks;Offline;Media;6/4/2022;485921704;15/4/2022;3885; 152,58 € ; 97,44 € ; 592.773,30 € ; 378.554,40 € 
+C5149;Asia;Laos;Material de oficina;Online;Alta;18/10/2020;514905440;22/10/2020;817; 651,21 € ; 524,96 € ; 532.038,57 € ; 428.892,32 € 
+C8510;Asia;Turkmenistan;Cuidado personal;Online;Baja;23/8/2021;851025712;27/9/2021;6275; 81,73 € ; 56,67 € ; 512.855,75 € ; 355.604,25 € 
+C4224;Australia y Oceanía;Papua New Guinea;Alimento infantil;Offline;Baja;24/8/2021;422456347;26/8/2021;3076; 255,28 € ; 159,42 € ; 785.241,28 € ; 490.375,92 € 
+C4776;África;Qatar;Cosméticos;Offline;Alta;29/11/2020;477683675;23/12/2020;6069; 437,20 € ; 263,33 € ; 2.653.366,80 € ; 1.598.149,77 € 
+C5355;Australia y Oceanía;Palau;Ropa;Online;Baja;19/5/2021;535506522;25/5/2021;7135; 109,28 € ; 35,84 € ; 779.712,80 € ; 255.718,40 € 
+C6350;Asia;Philippines;Cereales;Online;Baja;15/7/2022;635036218;31/7/2022;184; 205,70 € ; 117,11 € ; 37.848,80 € ; 21.548,24 € 
+C8856;Australia y Oceanía;Papua New Guinea;Cárnicos;Offline;Baja;31/10/2022;885696589;11/11/2022;6158; 421,89 € ; 364,69 € ; 2.597.998,62 € ; 2.245.761,02 € 
+C1172;África;Liberia;Verduras;Offline;Baja;14/2/2021;117223966;25/2/2021;8031; 154,06 € ; 90,93 € ; 1.237.255,86 € ; 730.258,83 € 
+C8296;África;Iran;Ropa;Offline;Alta;16/12/2020;829667174;9/1/2021;5809; 109,28 € ; 35,84 € ; 634.807,52 € ; 208.194,56 € 
+C6433;Centroamérica y Caribe;Guatemala;Bebida;Offline;Crítica;28/7/2020;643387544;20/8/2020;1527; 47,45 € ; 31,79 € ; 72.456,15 € ; 48.543,33 € 
+C8490;Australia y Oceanía;Tuvalu;Snacks;Offline;Baja;9/1/2020;849058902;25/1/2020;4252; 152,58 € ; 97,44 € ; 648.770,16 € ; 414.314,88 € 
+C5576;Asia;Philippines;Material de oficina;Offline;Baja;19/8/2022;557667577;15/9/2022;5083; 651,21 € ; 524,96 € ; 3.310.100,43 € ; 2.668.371,68 € 
+C7505;Asia;Singapore;Ropa;Offline;Crítica;15/2/2022;750512397;4/3/2022;2151; 109,28 € ; 35,84 € ; 235.061,28 € ; 77.091,84 € 
+C2292;Asia;Laos;Verduras;Online;Media;13/3/2021;229204690;25/3/2021;5616; 154,06 € ; 90,93 € ; 865.200,96 € ; 510.662,88 € 
+C5656;Europa;Montenegro;Frutas;Offline;Alta;10/7/2021;565668284;3/8/2021;2671; 9,33 € ; 6,92 € ; 24.920,43 € ; 18.483,32 € 
+C2521;Centroamérica y Caribe;Barbados;Snacks;Offline;Media;23/4/2022;252139508;23/5/2022;2538; 152,58 € ; 97,44 € ; 387.248,04 € ; 247.302,72 € 
+C5511;África;Egypt;Snacks;Offline;Alta;1/10/2021;551167190;13/11/2021;1474; 152,58 € ; 97,44 € ; 224.902,92 € ; 143.626,56 € 
+C5456;África;Sudan;Doméstico;Offline;Crítica;16/4/2021;545612657;29/5/2021;7765; 668,27 € ; 502,54 € ; 5.189.116,55 € ; 3.902.223,10 € 
+C2886;África;Democratic Republic of the Congo;Snacks;Offline;Baja;7/5/2021;288649737;20/6/2021;6727; 152,58 € ; 97,44 € ; 1.026.405,66 € ; 655.478,88 € 
+C3537;Centroamérica y Caribe;Cuba;Cuidado personal;Online;Baja;30/9/2022;353764760;27/10/2022;5709; 81,73 € ; 56,67 € ; 466.596,57 € ; 323.529,03 € 
+C4847;África;Ghana;Frutas;Offline;Media;5/6/2022;484756553;14/6/2022;9091; 9,33 € ; 6,92 € ; 84.819,03 € ; 62.909,72 € 
+C9457;Europa;Poland;Bebida;Online;Media;30/7/2020;945736443;20/8/2020;3285; 47,45 € ; 31,79 € ; 155.873,25 € ; 104.430,15 € 
+C2711;África;Saudi Arabia;Bebida;Offline;Baja;2/2/2022;271128261;7/3/2022;1732; 47,45 € ; 31,79 € ; 82.183,40 € ; 55.060,28 € 
+C2156;Centroamérica y Caribe;Barbados;Alimento infantil;Offline;Baja;26/10/2020;215668332;21/11/2020;9907; 255,28 € ; 159,42 € ; 2.529.058,96 € ; 1.579.373,94 € 
+C8044;Europa;Bosnia and Herzegovina;Frutas;Online;Alta;9/1/2021;804405486;1/2/2021;314; 9,33 € ; 6,92 € ; 2.929,62 € ; 2.172,88 € 
+C7827;África;Lebanon;Cárnicos;Online;Media;26/8/2021;782701051;1/9/2021;7489; 421,89 € ; 364,69 € ; 3.159.534,21 € ; 2.731.163,41 € 
+C7662;Europa;Latvia;Doméstico;Offline;Crítica;15/8/2020;766228854;3/10/2020;3000; 668,27 € ; 502,54 € ; 2.004.810,00 € ; 1.507.620,00 € 
+C9909;Australia y Oceanía;Australia;Frutas;Online;Media;21/12/2021;990975224;27/1/2022;445; 9,33 € ; 6,92 € ; 4.151,85 € ; 3.079,40 € 
+C8632;África;Jordan;Cereales;Online;Media;20/2/2020;863238990;3/4/2020;455; 205,70 € ; 117,11 € ; 93.593,50 € ; 53.285,05 € 
+C3096;Europa;United Kingdom;Cuidado personal;Offline;Media;22/5/2021;309631478;27/5/2021;5690; 81,73 € ; 56,67 € ; 465.043,70 € ; 322.452,30 € 
+C2270;Centroamérica y Caribe;Haiti;Verduras;Offline;Baja;24/5/2022;227076518;13/7/2022;5843; 154,06 € ; 90,93 € ; 900.172,58 € ; 531.303,99 € 
+C2328;Asia;South Korea;Cuidado personal;Online;Crítica;23/3/2020;232810437;6/4/2020;2637; 81,73 € ; 56,67 € ; 215.522,01 € ; 149.438,79 € 
+C9143;África;Niger;Bebida;Online;Crítica;10/5/2022;914382064;6/6/2022;4827; 47,45 € ; 31,79 € ; 229.041,15 € ; 153.450,33 € 
+C6796;África;Mozambique;Verduras;Online;Crítica;17/5/2022;679652726;13/6/2022;3200; 154,06 € ; 90,93 € ; 492.992,00 € ; 290.976,00 € 
+C7067;Europa;Armenia;Cereales;Online;Baja;2/6/2021;706796252;16/7/2021;5572; 205,70 € ; 117,11 € ; 1.146.160,40 € ; 652.536,92 € 
+C8942;Europa;Iceland;Frutas;Online;Media;8/1/2021;894298970;26/1/2021;1793; 9,33 € ; 6,92 € ; 16.728,69 € ; 12.407,56 € 
+C3109;Centroamérica y Caribe;Panama;Bebida;Online;Baja;10/9/2021;310959708;12/10/2021;8743; 47,45 € ; 31,79 € ; 414.855,35 € ; 277.939,97 € 
+C3458;Europa;Switzerland;Bebida;Offline;Baja;27/6/2021;345889794;25/7/2021;5331; 47,45 € ; 31,79 € ; 252.955,95 € ; 169.472,49 € 
+C6585;África;Mauritius ;Frutas;Online;Alta;15/4/2020;658513057;23/5/2020;7502; 9,33 € ; 6,92 € ; 69.993,66 € ; 51.913,84 € 
+C5285;Europa;Andorra;Material de oficina;Online;Media;28/3/2021;528565824;3/4/2021;3228; 651,21 € ; 524,96 € ; 2.102.105,88 € ; 1.694.570,88 € 
+C2060;Asia;Bangladesh;Material de oficina;Online;Alta;28/9/2020;206096923;15/10/2020;7514; 651,21 € ; 524,96 € ; 4.893.191,94 € ; 3.944.549,44 € 
+C4614;Australia y Oceanía;Tonga;Ropa;Online;Baja;25/4/2021;461467683;11/5/2021;7397; 109,28 € ; 35,84 € ; 808.344,16 € ; 265.108,48 € 
+C3353;Centroamérica y Caribe;Jamaica;Bebida;Online;Alta;4/8/2021;335351932;13/9/2021;6944; 47,45 € ; 31,79 € ; 329.492,80 € ; 220.749,76 € 
+C2887;África;Israel;Verduras;Online;Media;10/8/2020;288735997;14/9/2020;2253; 154,06 € ; 90,93 € ; 347.097,18 € ; 204.865,29 € 
+C8529;Europa;France;Cuidado personal;Offline;Crítica;3/2/2022;852918708;14/3/2022;6454; 81,73 € ; 56,67 € ; 527.485,42 € ; 365.748,18 € 
+C3795;África;Benin;Snacks;Offline;Crítica;3/8/2021;379511392;3/8/2021;4709; 152,58 € ; 97,44 € ; 718.499,22 € ; 458.844,96 € 
+C8904;Asia;Philippines;Verduras;Offline;Media;16/3/2022;890437877;24/3/2022;9210; 154,06 € ; 90,93 € ; 1.418.892,60 € ; 837.465,30 € 
+C4279;Europa;Slovakia;Frutas;Offline;Alta;21/9/2021;427934491;4/10/2021;4180; 9,33 € ; 6,92 € ; 38.999,40 € ; 28.925,60 € 
+C7045;Asia;Laos;Doméstico;Offline;Alta;13/8/2022;704550063;18/8/2022;875; 668,27 € ; 502,54 € ; 584.736,25 € ; 439.722,50 € 
+C3531;Australia y Oceanía;Nauru;Cárnicos;Online;Crítica;16/1/2022;353145921;23/2/2022;2580; 421,89 € ; 364,69 € ; 1.088.476,20 € ; 940.900,20 € 
+C7768;África;Benin;Snacks;Online;Media;9/11/2021;776895892;9/11/2021;9614; 152,58 € ; 97,44 € ; 1.466.904,12 € ; 936.788,16 € 
+C2992;Centroamérica y Caribe;Guatemala;Verduras;Online;Crítica;14/6/2021;299286305;3/8/2021;4323; 154,06 € ; 90,93 € ; 666.001,38 € ; 393.090,39 € 
+C9141;Centroamérica y Caribe;Belize;Snacks;Online;Alta;17/1/2022;914115989;12/2/2022;6090; 152,58 € ; 97,44 € ; 929.212,20 € ; 593.409,60 € 
+C6354;África;Tunisia ;Alimento infantil;Offline;Crítica;30/5/2022;635496270;5/7/2022;6323; 255,28 € ; 159,42 € ; 1.614.135,44 € ; 1.008.012,66 € 
+C2478;África;Republic of the Congo;Cárnicos;Offline;Alta;13/4/2020;247850978;8/5/2020;3467; 421,89 € ; 364,69 € ; 1.462.692,63 € ; 1.264.380,23 € 
+C1559;Australia y Oceanía;Kiribati;Ropa;Offline;Baja;21/5/2022;155916440;10/7/2022;7994; 109,28 € ; 35,84 € ; 873.584,32 € ; 286.504,96 € 
+C8347;Europa;Albania;Verduras;Offline;Baja;11/2/2020;834741485;17/2/2020;7410; 154,06 € ; 90,93 € ; 1.141.584,60 € ; 673.791,30 € 
+C5796;Australia y Oceanía;Palau;Cárnicos;Online;Baja;2/6/2022;579687440;5/6/2022;1250; 421,89 € ; 364,69 € ; 527.362,50 € ; 455.862,50 € 
+C4564;África;Angola;Cuidado personal;Online;Alta;27/1/2020;456428134;6/3/2020;6083; 81,73 € ; 56,67 € ; 497.163,59 € ; 344.723,61 € 
+C2509;África;Swaziland;Snacks;Offline;Media;27/5/2021;250949895;19/6/2021;505; 152,58 € ; 97,44 € ; 77.052,90 € ; 49.207,20 € 
+C7195;Centroamérica y Caribe;Barbados;Verduras;Online;Baja;9/4/2022;719551551;14/4/2022;149; 154,06 € ; 90,93 € ; 22.954,94 € ; 13.548,57 € 
+C4388;Europa;Sweden;Cosméticos;Online;Crítica;20/10/2021;438844430;7/12/2021;2674; 437,20 € ; 263,33 € ; 1.169.072,80 € ; 704.144,42 € 
+C7557;África;Zambia;Verduras;Online;Crítica;15/12/2020;755752360;3/2/2021;2773; 154,06 € ; 90,93 € ; 427.208,38 € ; 252.148,89 € 
+C8375;África;Sierra Leone;Ropa;Online;Crítica;1/2/2021;837511670;28/2/2021;7169; 109,28 € ; 35,84 € ; 783.428,32 € ; 256.936,96 € 
+C8216;África;Sierra Leone;Cosméticos;Offline;Media;12/7/2022;821671187;11/8/2022;9619; 437,20 € ; 263,33 € ; 4.205.426,80 € ; 2.532.971,27 € 
+C4660;Europa;Andorra;Verduras;Online;Media;17/4/2020;466092240;13/5/2020;5906; 154,06 € ; 90,93 € ; 909.878,36 € ; 537.032,58 € 
+C4989;África;Seychelles ;Alimento infantil;Offline;Media;31/8/2022;498948657;16/9/2022;8850; 255,28 € ; 159,42 € ; 2.259.228,00 € ; 1.410.867,00 € 
+C3687;Europa;Andorra;Doméstico;Online;Baja;5/3/2021;368726766;24/3/2021;3299; 668,27 € ; 502,54 € ; 2.204.622,73 € ; 1.657.879,46 € 
+C4942;Centroamérica y Caribe;Costa Rica;Bebida;Offline;Baja;15/8/2020;494225394;24/9/2020;1132; 47,45 € ; 31,79 € ; 53.713,40 € ; 35.986,28 € 
+C9145;África;Burundi;Cosméticos;Offline;Baja;25/6/2020;914555871;11/8/2020;6261; 437,20 € ; 263,33 € ; 2.737.309,20 € ; 1.648.709,13 € 
+C8391;Australia y Oceanía;Fiji;Ropa;Online;Media;28/1/2022;839142024;15/3/2022;9627; 109,28 € ; 35,84 € ; 1.052.038,56 € ; 345.031,68 € 
+C8977;Norteamérica;Canada;Bebida;Online;Media;26/5/2021;897720181;2/6/2021;4206; 47,45 € ; 31,79 € ; 199.574,70 € ; 133.708,74 € 
+C8903;Asia;Philippines;Bebida;Offline;Crítica;30/12/2021;890339171;9/2/2022;1; 47,45 € ; 31,79 € ; 47,45 € ; 31,79 € 
+C2373;Asia;Turkmenistan;Snacks;Offline;Baja;7/2/2022;237360322;24/2/2022;9049; 152,58 € ; 97,44 € ; 1.380.696,42 € ; 881.734,56 € 
+C2294;Europa;Ukraine;Ropa;Online;Alta;11/10/2021;229457461;26/11/2021;417; 109,28 € ; 35,84 € ; 45.569,76 € ; 14.945,28 € 
+C8776;Asia;Indonesia;Cuidado personal;Online;Media;28/6/2021;877616918;28/6/2021;5203; 81,73 € ; 56,67 € ; 425.241,19 € ; 294.854,01 € 
+C4631;África;Sao Tome and Principe;Verduras;Offline;Baja;2/9/2020;463137519;14/10/2020;1539; 154,06 € ; 90,93 € ; 237.098,34 € ; 139.941,27 € 
+C4876;Asia;Indonesia;Cuidado personal;Online;Crítica;10/1/2022;487630593;25/2/2022;9584; 81,73 € ; 56,67 € ; 783.300,32 € ; 543.125,28 € 
+C7230;Asia;India;Verduras;Online;Crítica;3/7/2021;723019969;27/7/2021;6531; 154,06 € ; 90,93 € ; 1.006.165,86 € ; 593.863,83 € 
+C5615;África;Israel;Alimento infantil;Online;Media;6/3/2021;561541974;10/3/2021;1604; 255,28 € ; 159,42 € ; 409.469,12 € ; 255.709,68 € 
+C3657;África;Qatar;Verduras;Online;Alta;4/2/2022;365745437;4/2/2022;1057; 154,06 € ; 90,93 € ; 162.841,42 € ; 96.113,01 € 
+C1184;África;Liberia;Doméstico;Offline;Alta;4/11/2022;118491685;14/12/2022;3178; 668,27 € ; 502,54 € ; 2.123.762,06 € ; 1.597.072,12 € 
+C7729;África;South Sudan;Doméstico;Online;Alta;25/12/2020;772954547;3/2/2021;3282; 668,27 € ; 502,54 € ; 2.193.262,14 € ; 1.649.336,28 € 
+C2026;Europa;Latvia;Verduras;Online;Media;13/3/2020;202620351;11/4/2020;8719; 154,06 € ; 90,93 € ; 1.343.249,14 € ; 792.818,67 € 
+C8512;Centroamérica y Caribe;Saint Lucia;Frutas;Offline;Baja;12/4/2020;851287925;6/5/2020;3869; 9,33 € ; 6,92 € ; 36.097,77 € ; 26.773,48 € 
+C2830;África;Mali;Verduras;Offline;Crítica;5/6/2021;283068597;13/6/2021;5143; 154,06 € ; 90,93 € ; 792.330,58 € ; 467.652,99 € 
+C6323;Europa;Portugal;Bebida;Offline;Media;23/10/2022;632386195;12/12/2022;5983; 47,45 € ; 31,79 € ; 283.893,35 € ; 190.199,57 € 
+C9539;Asia;Malaysia;Snacks;Online;Crítica;20/2/2021;953977048;22/3/2021;1863; 152,58 € ; 97,44 € ; 284.256,54 € ; 181.530,72 € 
+C3728;Europa;Spain;Cosméticos;Online;Baja;4/9/2020;372889983;25/9/2020;5287; 437,20 € ; 263,33 € ; 2.311.476,40 € ; 1.392.225,71 € 
+C3344;Europa;Slovenia;Ropa;Offline;Media;15/5/2020;334486329;22/5/2020;793; 109,28 € ; 35,84 € ; 86.659,04 € ; 28.421,12 € 
+C5544;África;Jordan;Verduras;Offline;Media;29/12/2020;554439914;8/1/2021;9946; 154,06 € ; 90,93 € ; 1.532.280,76 € ; 904.389,78 € 
+C3687;Centroamérica y Caribe;Honduras;Doméstico;Online;Media;15/11/2020;368737065;1/12/2020;6347; 668,27 € ; 502,54 € ; 4.241.509,69 € ; 3.189.621,38 € 
+C9836;África;Lebanon;Material de oficina;Online;Baja;28/2/2020;983676612;18/4/2020;624; 651,21 € ; 524,96 € ; 406.355,04 € ; 327.575,04 € 
+C5258;África;Tunisia ;Cereales;Online;Media;6/4/2022;525869882;22/5/2022;5439; 205,70 € ; 117,11 € ; 1.118.802,30 € ; 636.961,29 € 
+C7922;Europa;Romania;Frutas;Offline;Alta;28/12/2020;792240703;29/1/2021;484; 9,33 € ; 6,92 € ; 4.515,72 € ; 3.349,28 € 
+C5000;Europa;Netherlands;Cereales;Offline;Alta;30/12/2021;500025403;15/2/2022;7483; 205,70 € ; 117,11 € ; 1.539.253,10 € ; 876.334,13 € 
+C2367;África;Azerbaijan;Frutas;Online;Baja;25/4/2021;236772811;11/5/2021;5191; 9,33 € ; 6,92 € ; 48.432,03 € ; 35.921,72 € 
+C2103;Europa;Slovenia;Doméstico;Online;Media;11/2/2021;210344254;15/3/2021;4394; 668,27 € ; 502,54 € ; 2.936.378,38 € ; 2.208.160,76 € 
+C6989;África;Chad;Ropa;Online;Crítica;12/7/2022;698913562;2/8/2022;2909; 109,28 € ; 35,84 € ; 317.895,52 € ; 104.258,56 € 
+C7009;Australia y Oceanía;Nauru;Verduras;Online;Media;17/5/2021;700967061;13/6/2021;585; 154,06 € ; 90,93 € ; 90.125,10 € ; 53.194,05 € 
+C1853;África;Kenya;Ropa;Offline;Baja;8/1/2021;185303580;7/2/2021;4302; 109,28 € ; 35,84 € ; 470.122,56 € ; 154.183,68 € 
+C5410;Centroamérica y Caribe;Jamaica;Cuidado personal;Online;Alta;20/5/2022;541034448;11/6/2022;2971; 81,73 € ; 56,67 € ; 242.819,83 € ; 168.366,57 € 
+C5275;Europa;Bosnia and Herzegovina;Alimento infantil;Offline;Baja;25/6/2022;527583491;31/7/2022;2534; 255,28 € ; 159,42 € ; 646.879,52 € ; 403.970,28 € 
+C3246;Centroamérica y Caribe;Antigua and Barbuda ;Cuidado personal;Offline;Crítica;9/8/2021;324687039;25/8/2021;965; 81,73 € ; 56,67 € ; 78.869,45 € ; 54.686,55 € 
+C1823;Europa;Romania;Cosméticos;Online;Media;13/11/2021;182393920;31/12/2021;3269; 437,20 € ; 263,33 € ; 1.429.206,80 € ; 860.825,77 € 
+C8710;Asia;Kazakhstan;Frutas;Offline;Crítica;29/1/2020;871065461;23/2/2020;6482; 9,33 € ; 6,92 € ; 60.477,06 € ; 44.855,44 € 
+C5313;África;Burkina Faso;Material de oficina;Offline;Alta;31/7/2020;531375491;3/9/2020;4671; 651,21 € ; 524,96 € ; 3.041.801,91 € ; 2.452.088,16 € 
+C5243;Centroamérica y Caribe;Saint Lucia;Cereales;Offline;Baja;1/6/2022;524310338;23/6/2022;3935; 205,70 € ; 117,11 € ; 809.429,50 € ; 460.827,85 € 
+C4811;Centroamérica y Caribe;Jamaica;Snacks;Offline;Alta;23/9/2020;481168830;20/10/2020;7404; 152,58 € ; 97,44 € ; 1.129.702,32 € ; 721.445,76 € 
+C5535;África;Bahrain;Doméstico;Online;Media;5/7/2022;553562295;22/8/2022;239; 668,27 € ; 502,54 € ; 159.716,53 € ; 120.107,06 € 
+C9634;África;Pakistan;Cereales;Offline;Crítica;11/4/2022;963414561;4/5/2022;4633; 205,70 € ; 117,11 € ; 953.008,10 € ; 542.570,63 € 
+C6529;Centroamérica y Caribe;Saint Lucia;Cereales;Online;Baja;5/9/2020;652961957;7/9/2020;4808; 205,70 € ; 117,11 € ; 989.005,60 € ; 563.064,88 € 
+C4347;África;Angola;Snacks;Online;Crítica;11/3/2020;434753310;7/4/2020;2021; 152,58 € ; 97,44 € ; 308.364,18 € ; 196.926,24 € 
+C7416;Europa;Kosovo;Cosméticos;Online;Baja;29/10/2020;741649949;18/12/2020;9556; 437,20 € ; 263,33 € ; 4.177.883,20 € ; 2.516.381,48 € 
+C2768;Europa;Georgia;Frutas;Offline;Baja;1/8/2021;276825702;11/8/2021;7732; 9,33 € ; 6,92 € ; 72.139,56 € ; 53.505,44 € 
+C9637;Australia y Oceanía;Nauru;Doméstico;Online;Media;6/11/2021;963766896;21/11/2021;8896; 668,27 € ; 502,54 € ; 5.944.929,92 € ; 4.470.595,84 € 
+C2962;Australia y Oceanía;Solomon Islands;Material de oficina;Online;Baja;6/11/2022;296272361;11/11/2022;2430; 651,21 € ; 524,96 € ; 1.582.440,30 € ; 1.275.652,80 € 
+C7884;Asia;Thailand;Alimento infantil;Offline;Crítica;28/6/2020;788453423;4/8/2020;9744; 255,28 € ; 159,42 € ; 2.487.448,32 € ; 1.553.388,48 € 
+C5247;Europa;Russia;Cereales;Offline;Media;3/2/2021;524733912;8/2/2021;9280; 205,70 € ; 117,11 € ; 1.908.896,00 € ; 1.086.780,80 € 
+C8098;Australia y Oceanía;Samoa ;Frutas;Online;Media;18/10/2022;809850156;4/11/2022;1513; 9,33 € ; 6,92 € ; 14.116,29 € ; 10.469,96 € 
+C3188;Australia y Oceanía;Vanuatu;Snacks;Offline;Baja;18/9/2022;318850982;6/10/2022;3946; 152,58 € ; 97,44 € ; 602.080,68 € ; 384.498,24 € 
+C9470;África;Lesotho;Frutas;Offline;Alta;23/3/2021;947097718;10/4/2021;6116; 9,33 € ; 6,92 € ; 57.062,28 € ; 42.322,72 € 
+C1602;Australia y Oceanía;Solomon Islands;Bebida;Online;Alta;14/7/2020;160264194;28/7/2020;4591; 47,45 € ; 31,79 € ; 217.842,95 € ; 145.947,89 € 
+C4443;Asia;Taiwan;Snacks;Offline;Crítica;23/5/2020;444336736;9/6/2020;7969; 152,58 € ; 97,44 € ; 1.215.910,02 € ; 776.499,36 € 
+C7556;Asia;Singapore;Verduras;Online;Baja;19/5/2022;755614173;14/6/2022;1880; 154,06 € ; 90,93 € ; 289.632,80 € ; 170.948,40 € 
+C5707;África;Ghana;Verduras;Offline;Media;6/10/2022;570707833;7/10/2022;3985; 154,06 € ; 90,93 € ; 613.929,10 € ; 362.356,05 € 
+C3365;Europa;Belarus;Bebida;Offline;Alta;2/7/2022;336541545;18/8/2022;8977; 47,45 € ; 31,79 € ; 425.958,65 € ; 285.378,83 € 
+C1203;África;Lesotho;Snacks;Offline;Crítica;3/2/2020;120351636;26/2/2020;3578; 152,58 € ; 97,44 € ; 545.931,24 € ; 348.640,32 € 
+C9596;África;Democratic Republic of the Congo;Cereales;Online;Crítica;30/7/2021;959686934;2/9/2021;1545; 205,70 € ; 117,11 € ; 317.806,50 € ; 180.934,95 € 
+C8124;Europa;San Marino;Frutas;Online;Baja;25/12/2021;812408769;8/2/2022;8663; 9,33 € ; 6,92 € ; 80.825,79 € ; 59.947,96 € 
+C4066;África;Mauritius ;Frutas;Online;Media;3/1/2021;406690967;11/1/2021;7749; 9,33 € ; 6,92 € ; 72.298,17 € ; 53.623,08 € 
+C9910;Europa;Kosovo;Verduras;Online;Media;14/8/2021;991019856;25/9/2021;3653; 154,06 € ; 90,93 € ; 562.781,18 € ; 332.167,29 € 
+C2841;África;Tunisia ;Verduras;Offline;Alta;15/1/2020;284194266;16/1/2020;8254; 154,06 € ; 90,93 € ; 1.271.611,24 € ; 750.536,22 € 
+C1253;Europa;Czech Republic;Material de oficina;Online;Alta;20/6/2021;125325524;24/6/2021;5463; 651,21 € ; 524,96 € ; 3.557.560,23 € ; 2.867.856,48 € 
+C6238;Australia y Oceanía;Federated States of Micronesia;Cosméticos;Offline;Baja;2/7/2021;623837459;10/7/2021;6222; 437,20 € ; 263,33 € ; 2.720.258,40 € ; 1.638.439,26 € 
+C6094;Europa;Estonia;Doméstico;Offline;Media;8/11/2021;609466397;10/12/2021;3506; 668,27 € ; 502,54 € ; 2.342.954,62 € ; 1.761.905,24 € 
+C7822;Asia;Nepal;Frutas;Offline;Baja;10/5/2020;782261168;15/6/2020;7318; 9,33 € ; 6,92 € ; 68.276,94 € ; 50.640,56 € 
+C5625;África;Democratic Republic of the Congo;Bebida;Offline;Media;15/12/2020;562583100;24/1/2021;9696; 47,45 € ; 31,79 € ; 460.075,20 € ; 308.235,84 € 
+C3411;Asia;Singapore;Snacks;Offline;Alta;9/11/2020;341106021;12/11/2020;9707; 152,58 € ; 97,44 € ; 1.481.094,06 € ; 945.850,08 € 
+C1288;Asia;India;Bebida;Online;Alta;11/7/2020;128816258;12/7/2020;8448; 47,45 € ; 31,79 € ; 400.857,60 € ; 268.561,92 € 
+C9070;África;Angola;Cereales;Offline;Media;4/4/2022;907012641;19/5/2022;4051; 205,70 € ; 117,11 € ; 833.290,70 € ; 474.412,61 € 
+C5773;Asia;Kyrgyzstan;Alimento infantil;Online;Crítica;5/3/2020;577306497;12/3/2020;6676; 255,28 € ; 159,42 € ; 1.704.249,28 € ; 1.064.287,92 € 
+C7116;África;Burundi;Doméstico;Offline;Crítica;31/8/2021;711621654;2/9/2021;3516; 668,27 € ; 502,54 € ; 2.349.637,32 € ; 1.766.930,64 € 
+C7021;África;South Africa;Material de oficina;Online;Media;23/3/2020;702194440;30/3/2020;3794; 651,21 € ; 524,96 € ; 2.470.690,74 € ; 1.991.698,24 € 
+C9115;Europa;Georgia;Cereales;Offline;Baja;14/8/2022;911573684;19/9/2022;3765; 205,70 € ; 117,11 € ; 774.460,50 € ; 440.919,15 € 
+C4226;África;The Gambia;Bebida;Offline;Baja;19/9/2021;422620713;5/10/2021;1715; 47,45 € ; 31,79 € ; 81.376,75 € ; 54.519,85 € 
+C1885;Asia;Nepal;Doméstico;Online;Crítica;18/10/2020;188509356;31/10/2020;2963; 668,27 € ; 502,54 € ; 1.980.084,01 € ; 1.489.026,02 € 
+C7827;Europa;Albania;Verduras;Online;Media;7/9/2020;782725942;15/9/2020;4855; 154,06 € ; 90,93 € ; 747.961,30 € ; 441.465,15 € 
+C1490;Centroamérica y Caribe;Dominica;Material de oficina;Online;Crítica;4/3/2021;149069297;22/3/2021;1772; 651,21 € ; 524,96 € ; 1.153.944,12 € ; 930.229,12 € 
+C3516;África;Oman;Bebida;Online;Media;16/6/2022;351650750;9/7/2022;126; 47,45 € ; 31,79 € ; 5.978,70 € ; 4.005,54 € 
+C8248;África;Ethiopia;Cereales;Online;Media;6/11/2020;824894130;20/12/2020;3359; 205,70 € ; 117,11 € ; 690.946,30 € ; 393.372,49 € 
+C6235;Centroamérica y Caribe;Saint Kitts and Nevis ;Bebida;Online;Alta;21/8/2021;623535764;1/9/2021;6944; 47,45 € ; 31,79 € ; 329.492,80 € ; 220.749,76 € 
+C6726;África;The Gambia;Verduras;Online;Media;5/7/2020;672624480;22/8/2020;3386; 154,06 € ; 90,93 € ; 521.647,16 € ; 307.888,98 € 
+C6175;África;Rwanda;Cosméticos;Online;Media;15/2/2022;617521607;24/3/2022;7221; 437,20 € ; 263,33 € ; 3.157.021,20 € ; 1.901.505,93 € 
+C1739;Asia;Japan;Frutas;Offline;Crítica;19/7/2021;173900973;19/7/2021;17; 9,33 € ; 6,92 € ; 158,61 € ; 117,64 € 
+C4777;Europa;Ireland;Verduras;Online;Baja;24/10/2022;477748906;18/11/2022;5373; 154,06 € ; 90,93 € ; 827.764,38 € ; 488.566,89 € 
+C9353;Europa;Andorra;Alimento infantil;Offline;Media;11/5/2020;935364234;14/6/2020;3918; 255,28 € ; 159,42 € ; 1.000.187,04 € ; 624.607,56 € 
+C5733;Asia;Kazakhstan;Snacks;Online;Crítica;15/6/2020;573358285;29/6/2020;8313; 152,58 € ; 97,44 € ; 1.268.397,54 € ; 810.018,72 € 
+C2886;Europa;Italy;Verduras;Offline;Alta;17/8/2022;288654887;29/9/2022;8251; 154,06 € ; 90,93 € ; 1.271.149,06 € ; 750.263,43 € 
+C5984;África;Tanzania;Snacks;Offline;Baja;1/2/2021;598490369;7/2/2021;5455; 152,58 € ; 97,44 € ; 832.323,90 € ; 531.535,20 € 
+C2904;Centroamérica y Caribe;Antigua and Barbuda ;Ropa;Offline;Crítica;15/6/2020;290413558;19/7/2020;8680; 109,28 € ; 35,84 € ; 948.550,40 € ; 311.091,20 € 
+C4722;África;Qatar;Cosméticos;Online;Media;13/1/2020;472285783;27/1/2020;8713; 437,20 € ; 263,33 € ; 3.809.323,60 € ; 2.294.394,29 € 
+C5222;África;Jordan;Cárnicos;Offline;Media;16/12/2020;522280871;12/1/2021;3371; 421,89 € ; 364,69 € ; 1.422.191,19 € ; 1.229.369,99 € 
+C3388;Centroamérica y Caribe;El Salvador;Doméstico;Online;Baja;27/11/2021;338885152;11/12/2021;2502; 668,27 € ; 502,54 € ; 1.672.011,54 € ; 1.257.355,08 € 
+C7908;Australia y Oceanía;Tonga;Doméstico;Offline;Baja;12/7/2020;790897452;17/7/2020;2986; 668,27 € ; 502,54 € ; 1.995.454,22 € ; 1.500.584,44 € 
+C5674;África;Madagascar;Cárnicos;Offline;Alta;6/8/2020;567429101;19/9/2020;3735; 421,89 € ; 364,69 € ; 1.575.759,15 € ; 1.362.117,15 € 
+C2279;África;Seychelles ;Alimento infantil;Offline;Media;29/12/2021;227903926;10/1/2022;691; 255,28 € ; 159,42 € ; 176.398,48 € ; 110.159,22 € 
+C8520;África;Swaziland;Bebida;Offline;Media;23/2/2022;852058255;28/2/2022;1827; 47,45 € ; 31,79 € ; 86.691,15 € ; 58.080,33 € 
+C8899;Australia y Oceanía;Tonga;Cereales;Online;Crítica;25/4/2020;889940917;30/4/2020;2149; 205,70 € ; 117,11 € ; 442.049,30 € ; 251.669,39 € 
+C2119;África;Azerbaijan;Bebida;Offline;Media;16/11/2021;211913239;27/11/2021;8692; 47,45 € ; 31,79 € ; 412.435,40 € ; 276.318,68 € 
+C5586;África;Madagascar;Cereales;Offline;Crítica;10/8/2022;558649051;15/8/2022;5523; 205,70 € ; 117,11 € ; 1.136.081,10 € ; 646.798,53 € 
+C5911;África;Iran;Alimento infantil;Online;Alta;16/7/2021;591134679;23/8/2021;8743; 255,28 € ; 159,42 € ; 2.231.913,04 € ; 1.393.809,06 € 
+C8406;Australia y Oceanía;New Zealand;Cosméticos;Offline;Baja;27/5/2022;840668952;10/7/2022;1479; 437,20 € ; 263,33 € ; 646.618,80 € ; 389.465,07 € 
+C5588;África;Democratic Republic of the Congo;Doméstico;Online;Crítica;29/9/2020;558863198;23/10/2020;8894; 668,27 € ; 502,54 € ; 5.943.593,38 € ; 4.469.590,76 € 
+C8676;Europa;Lithuania;Alimento infantil;Offline;Baja;12/7/2022;867641246;27/7/2022;3180; 255,28 € ; 159,42 € ; 811.790,40 € ; 506.955,60 € 
+C7092;África;Seychelles ;Cereales;Online;Baja;4/9/2022;709239423;24/9/2022;8561; 205,70 € ; 117,11 € ; 1.760.997,70 € ; 1.002.578,71 € 
+C8962;Europa;Croatia;Cereales;Online;Crítica;20/10/2020;896206557;16/11/2020;6291; 205,70 € ; 117,11 € ; 1.294.058,70 € ; 736.739,01 € 
+C9614;África;Swaziland;Alimento infantil;Online;Crítica;26/8/2022;961403977;5/10/2022;9656; 255,28 € ; 159,42 € ; 2.464.983,68 € ; 1.539.359,52 € 
+C5080;Asia;Singapore;Snacks;Online;Alta;27/6/2021;508005511;15/8/2021;8975; 152,58 € ; 97,44 € ; 1.369.405,50 € ; 874.524,00 € 
+C5594;Europa;Germany;Frutas;Online;Crítica;5/6/2022;559497487;14/6/2022;6595; 9,33 € ; 6,92 € ; 61.531,35 € ; 45.637,40 € 
+C4096;Europa;Norway;Cosméticos;Online;Baja;20/12/2020;409678733;2/1/2021;1896; 437,20 € ; 263,33 € ; 828.931,20 € ; 499.273,68 € 
+C7726;Asia;Malaysia;Cosméticos;Online;Media;10/8/2021;772660577;26/8/2021;6290; 437,20 € ; 263,33 € ; 2.749.988,00 € ; 1.656.345,70 € 
+C6328;Europa;Austria;Bebida;Online;Crítica;29/1/2022;632866847;12/2/2022;8219; 47,45 € ; 31,79 € ; 389.991,55 € ; 261.282,01 € 
+C3950;Asia;Malaysia;Snacks;Online;Media;10/7/2020;395033872;23/7/2020;8156; 152,58 € ; 97,44 € ; 1.244.442,48 € ; 794.720,64 € 
+C5342;África;Lesotho;Cuidado personal;Offline;Alta;20/8/2022;534210479;29/8/2022;3607; 81,73 € ; 56,67 € ; 294.800,11 € ; 204.408,69 € 
+C2457;África;Benin;Frutas;Offline;Alta;18/3/2020;245757997;30/3/2020;4107; 9,33 € ; 6,92 € ; 38.318,31 € ; 28.420,44 € 
+C5953;Europa;Greece;Material de oficina;Offline;Baja;5/3/2021;595350253;24/3/2021;6225; 651,21 € ; 524,96 € ; 4.053.782,25 € ; 3.267.876,00 € 
+C4689;Europa;Lithuania;Cereales;Offline;Baja;3/6/2022;468973577;13/7/2022;8558; 205,70 € ; 117,11 € ; 1.760.380,60 € ; 1.002.227,38 € 
+C6229;África;Comoros;Cárnicos;Offline;Alta;2/9/2022;622926795;26/9/2022;6736; 421,89 € ; 364,69 € ; 2.841.851,04 € ; 2.456.551,84 € 
+C5338;Asia;Myanmar;Doméstico;Offline;Media;17/1/2021;533821237;21/2/2021;8421; 668,27 € ; 502,54 € ; 5.627.501,67 € ; 4.231.889,34 € 
+C6485;África;Ethiopia;Cuidado personal;Online;Baja;14/5/2021;648580729;4/6/2021;8306; 81,73 € ; 56,67 € ; 678.849,38 € ; 470.701,02 € 
+C1344;África;Guinea;Cereales;Offline;Crítica;16/2/2022;134441602;5/4/2022;3112; 205,70 € ; 117,11 € ; 640.138,40 € ; 364.446,32 € 
+C9289;Centroamérica y Caribe;Saint Lucia;Cosméticos;Offline;Baja;21/10/2020;928952682;5/11/2020;6597; 437,20 € ; 263,33 € ; 2.884.208,40 € ; 1.737.188,01 € 
+C9899;África;Eritrea;Material de oficina;Offline;Media;27/12/2020;989975297;7/2/2021;4545; 651,21 € ; 524,96 € ; 2.959.749,45 € ; 2.385.943,20 € 
+C1456;África;Niger;Cuidado personal;Offline;Baja;21/5/2022;145683276;18/6/2022;9774; 81,73 € ; 56,67 € ; 798.829,02 € ; 553.892,58 € 
+C5445;Centroamérica y Caribe;Barbados;Cosméticos;Online;Media;29/3/2022;544562947;11/5/2022;7132; 437,20 € ; 263,33 € ; 3.118.110,40 € ; 1.878.069,56 € 
+C8054;Australia y Oceanía;Tonga;Snacks;Offline;Crítica;30/6/2022;805413138;10/8/2022;8501; 152,58 € ; 97,44 € ; 1.297.082,58 € ; 828.337,44 € 
+C9673;Asia;Indonesia;Bebida;Offline;Baja;19/8/2022;967345178;29/9/2022;7789; 47,45 € ; 31,79 € ; 369.588,05 € ; 247.612,31 € 
+C2397;Asia;Indonesia;Ropa;Online;Alta;7/2/2021;239782893;28/3/2021;5941; 109,28 € ; 35,84 € ; 649.232,48 € ; 212.925,44 € 
+C1524;África;Lebanon;Cuidado personal;Offline;Crítica;27/6/2022;152462613;1/8/2022;5930; 81,73 € ; 56,67 € ; 484.658,90 € ; 336.053,10 € 
+C5054;África;Afghanistan;Ropa;Online;Crítica;1/10/2021;505433166;9/10/2021;7760; 109,28 € ; 35,84 € ; 848.012,80 € ; 278.118,40 € 
+C7190;Europa;Hungary;Frutas;Offline;Baja;4/11/2022;719055879;14/12/2022;3468; 9,33 € ; 6,92 € ; 32.356,44 € ; 23.998,56 € 
+C2840;África;Gabon;Cosméticos;Offline;Media;11/2/2020;284004580;22/3/2020;2121; 437,20 € ; 263,33 € ; 927.301,20 € ; 558.522,93 € 
+C1112;Asia;Mongolia;Material de oficina;Offline;Media;7/8/2022;111265599;7/9/2022;4818; 651,21 € ; 524,96 € ; 3.137.529,78 € ; 2.529.257,28 € 
+C2821;Norteamérica;Canada;Alimento infantil;Offline;Baja;28/2/2021;282137763;25/3/2021;9689; 255,28 € ; 159,42 € ; 2.473.407,92 € ; 1.544.620,38 € 
+C4982;África;Afghanistan;Doméstico;Online;Alta;11/5/2021;498232400;27/6/2021;6894; 668,27 € ; 502,54 € ; 4.607.053,38 € ; 3.464.510,76 € 
+C5314;Europa;Liechtenstein;Cereales;Offline;Media;2/1/2022;531473338;11/1/2022;3626; 205,70 € ; 117,11 € ; 745.868,20 € ; 424.640,86 € 
+C6740;Centroamérica y Caribe;Honduras;Alimento infantil;Online;Crítica;23/4/2022;674096906;1/6/2022;9109; 255,28 € ; 159,42 € ; 2.325.345,52 € ; 1.452.156,78 € 
+C3886;Norteamérica;Mexico;Alimento infantil;Online;Alta;18/6/2020;388651931;7/8/2020;9598; 255,28 € ; 159,42 € ; 2.450.177,44 € ; 1.530.113,16 € 
+C5579;África;Liberia;Material de oficina;Online;Media;8/10/2020;557999742;28/10/2020;3378; 651,21 € ; 524,96 € ; 2.199.787,38 € ; 1.773.314,88 € 
+C3353;Europa;Ireland;Snacks;Offline;Alta;16/10/2020;335314166;1/11/2020;5768; 152,58 € ; 97,44 € ; 880.081,44 € ; 562.033,92 € 
+C2940;África;Morocco;Cárnicos;Offline;Crítica;8/5/2021;294081532;24/5/2021;4115; 421,89 € ; 364,69 € ; 1.736.077,35 € ; 1.500.699,35 € 
+C1781;Centroamérica y Caribe;Dominica;Ropa;Offline;Media;30/3/2022;178100669;9/5/2022;2801; 109,28 € ; 35,84 € ; 306.093,28 € ; 100.387,84 € 
+C2514;África;Cameroon;Doméstico;Offline;Media;21/10/2020;251482903;6/11/2020;8234; 668,27 € ; 502,54 € ; 5.502.535,18 € ; 4.137.914,36 € 
+C8486;Asia;Nepal;Cárnicos;Offline;Baja;4/12/2021;848652064;20/12/2021;3860; 421,89 € ; 364,69 € ; 1.628.495,40 € ; 1.407.703,40 € 
+C1243;Europa;Albania;Cereales;Online;Crítica;25/4/2022;124344480;16/5/2022;5150; 205,70 € ; 117,11 € ; 1.059.355,00 € ; 603.116,50 € 
+C8036;Asia;Maldives;Cuidado personal;Online;Baja;8/7/2020;803608977;10/7/2020;4609; 81,73 € ; 56,67 € ; 376.693,57 € ; 261.192,03 € 
+C7318;África;Turkey;Ropa;Offline;Alta;14/3/2021;731806886;28/4/2021;6775; 109,28 € ; 35,84 € ; 740.372,00 € ; 242.816,00 € 
+C5246;Australia y Oceanía;New Zealand;Verduras;Offline;Crítica;12/4/2022;524612033;1/5/2022;3213; 154,06 € ; 90,93 € ; 494.994,78 € ; 292.158,09 € 
+C4180;África;Lebanon;Cereales;Offline;Alta;27/1/2022;418010747;7/2/2022;7524; 205,70 € ; 117,11 € ; 1.547.686,80 € ; 881.135,64 € 
+C7183;Europa;Luxembourg;Ropa;Online;Baja;26/9/2020;718301856;12/11/2020;336; 109,28 € ; 35,84 € ; 36.718,08 € ; 12.042,24 € 
+C4520;África;Togo;Ropa;Online;Media;7/9/2021;452096688;18/9/2021;4311; 109,28 € ; 35,84 € ; 471.106,08 € ; 154.506,24 € 
+C5163;Europa;Hungary;Cuidado personal;Offline;Alta;31/7/2021;516319072;31/8/2021;9142; 81,73 € ; 56,67 € ; 747.175,66 € ; 518.077,14 € 
+C5282;Europa;Lithuania;Doméstico;Online;Baja;10/5/2020;528205335;24/6/2020;6551; 668,27 € ; 502,54 € ; 4.377.836,77 € ; 3.292.139,54 € 
+C1753;Asia;Bangladesh;Material de oficina;Offline;Media;19/8/2022;175304305;18/9/2022;5294; 651,21 € ; 524,96 € ; 3.447.505,74 € ; 2.779.138,24 € 
+C5654;Asia;China;Bebida;Online;Baja;28/12/2021;565477311;22/1/2022;6157; 47,45 € ; 31,79 € ; 292.149,65 € ; 195.731,03 € 
+C1768;África;Equatorial Guinea;Cárnicos;Offline;Media;5/6/2022;176898181;16/6/2022;6958; 421,89 € ; 364,69 € ; 2.935.510,62 € ; 2.537.513,02 € 
+C7080;Europa;Belgium;Cereales;Offline;Media;14/8/2022;708053243;12/9/2022;7544; 205,70 € ; 117,11 € ; 1.551.800,80 € ; 883.477,84 € 
+C3277;África;Turkey;Snacks;Online;Alta;20/3/2020;327741324;29/3/2020;4796; 152,58 € ; 97,44 € ; 731.773,68 € ; 467.322,24 € 
+C4250;Asia;Indonesia;Cuidado personal;Offline;Media;7/11/2021;425073754;22/12/2021;7625; 81,73 € ; 56,67 € ; 623.191,25 € ; 432.108,75 € 
+C6594;Europa;Russia;Frutas;Online;Baja;8/9/2021;659474360;25/9/2021;1973; 9,33 € ; 6,92 € ; 18.408,09 € ; 13.653,16 € 
+C3106;Europa;Armenia;Cárnicos;Online;Media;5/1/2020;310679471;27/1/2020;5814; 421,89 € ; 364,69 € ; 2.452.868,46 € ; 2.120.307,66 € 
+C5287;Centroamérica y Caribe;Belize;Cosméticos;Online;Crítica;19/10/2021;528737914;1/12/2021;4153; 437,20 € ; 263,33 € ; 1.815.691,60 € ; 1.093.609,49 € 
+C2840;Europa;Finland;Snacks;Offline;Alta;30/12/2020;284011018;25/1/2021;4026; 152,58 € ; 97,44 € ; 614.287,08 € ; 392.293,44 € 
+C4171;Australia y Oceanía;Samoa ;Alimento infantil;Offline;Baja;14/12/2021;417172610;19/12/2021;9501; 255,28 € ; 159,42 € ; 2.425.415,28 € ; 1.514.649,42 € 
+C4892;África;The Gambia;Cosméticos;Offline;Crítica;4/11/2020;489209020;5/12/2020;6675; 437,20 € ; 263,33 € ; 2.918.310,00 € ; 1.757.727,75 € 
+C1314;Europa;Greece;Doméstico;Online;Baja;25/5/2021;131419074;3/7/2021;8679; 668,27 € ; 502,54 € ; 5.799.915,33 € ; 4.361.544,66 € 
+C3954;Europa;Finland;Bebida;Online;Crítica;7/1/2022;395414102;4/2/2022;674; 47,45 € ; 31,79 € ; 31.981,30 € ; 21.426,46 € 
+C6031;Centroamérica y Caribe;Trinidad and Tobago;Cereales;Offline;Baja;5/2/2020;603117930;12/3/2020;4853; 205,70 € ; 117,11 € ; 998.262,10 € ; 568.334,83 € 
+C5967;Asia;Vietnam;Frutas;Online;Baja;27/12/2021;596766889;11/1/2022;5439; 9,33 € ; 6,92 € ; 50.745,87 € ; 37.637,88 € 
+C2889;Asia;Indonesia;Cuidado personal;Offline;Media;6/8/2021;288909804;10/8/2021;3686; 81,73 € ; 56,67 € ; 301.256,78 € ; 208.885,62 € 
+C1124;Europa;Norway;Cereales;Online;Media;16/10/2021;112408006;23/10/2021;2882; 205,70 € ; 117,11 € ; 592.827,40 € ; 337.511,02 € 
+C5704;África;Zimbabwe;Cuidado personal;Offline;Crítica;27/7/2021;570435321;11/8/2021;3343; 81,73 € ; 56,67 € ; 273.223,39 € ; 189.447,81 € 
+C8864;África;Namibia;Alimento infantil;Online;Crítica;28/4/2020;886478078;29/5/2020;7418; 255,28 € ; 159,42 € ; 1.893.667,04 € ; 1.182.577,56 € 
+C3543;Australia y Oceanía;Tonga;Cereales;Online;Alta;17/2/2022;354335105;7/4/2022;4487; 205,70 € ; 117,11 € ; 922.975,90 € ; 525.472,57 € 
+C5881;Asia;Malaysia;Cárnicos;Online;Crítica;18/1/2020;588117730;11/2/2020;5960; 421,89 € ; 364,69 € ; 2.514.464,40 € ; 2.173.552,40 € 
+C5722;África;Egypt;Bebida;Online;Crítica;21/5/2020;572249782;21/5/2020;282; 47,45 € ; 31,79 € ; 13.380,90 € ; 8.964,78 € 
+C7114;África;Saudi Arabia;Doméstico;Offline;Baja;16/4/2021;711467587;23/5/2021;7924; 668,27 € ; 502,54 € ; 5.295.371,48 € ; 3.982.126,96 € 
+C5808;Centroamérica y Caribe;Panama;Material de oficina;Online;Crítica;26/9/2022;580819976;24/10/2022;6393; 651,21 € ; 524,96 € ; 4.163.185,53 € ; 3.356.069,28 € 
+C2756;Centroamérica y Caribe;Haiti;Material de oficina;Online;Media;27/3/2022;275668275;30/4/2022;5223; 651,21 € ; 524,96 € ; 3.401.269,83 € ; 2.741.866,08 € 
+C8616;África;Mauritania;Cereales;Offline;Alta;30/12/2021;861686313;30/12/2021;983; 205,70 € ; 117,11 € ; 202.203,10 € ; 115.119,13 € 
+C3248;África;The Gambia;Cárnicos;Offline;Crítica;8/10/2021;324860417;18/11/2021;2271; 421,89 € ; 364,69 € ; 958.112,19 € ; 828.210,99 € 
+C3214;Europa;Ireland;Snacks;Offline;Crítica;12/4/2020;321489417;13/4/2020;4718; 152,58 € ; 97,44 € ; 719.872,44 € ; 459.721,92 € 
+C3281;Europa;San Marino;Cosméticos;Online;Baja;14/5/2022;328184640;29/6/2022;5983; 437,20 € ; 263,33 € ; 2.615.767,60 € ; 1.575.503,39 € 
+C7918;África;United Arab Emirates;Material de oficina;Offline;Baja;30/5/2020;791869914;22/6/2020;760; 651,21 € ; 524,96 € ; 494.919,60 € ; 398.969,60 € 
+C8797;África;Mauritania;Cuidado personal;Online;Media;28/6/2021;879781568;17/8/2021;5771; 81,73 € ; 56,67 € ; 471.663,83 € ; 327.042,57 € 
+C7294;Centroamérica y Caribe;Nicaragua;Cárnicos;Offline;Crítica;19/3/2020;729468429;13/4/2020;4773; 421,89 € ; 364,69 € ; 2.013.680,97 € ; 1.740.665,37 € 
+C9987;Asia;Malaysia;Ropa;Offline;Alta;5/3/2020;998791825;21/3/2020;3551; 109,28 € ; 35,84 € ; 388.053,28 € ; 127.267,84 € 
+C6159;África;Zambia;Cosméticos;Online;Alta;30/1/2021;615925586;25/2/2021;4923; 437,20 € ; 263,33 € ; 2.152.335,60 € ; 1.296.373,59 € 
+C8293;África;Malawi;Frutas;Online;Baja;7/3/2020;829356038;29/3/2020;3737; 9,33 € ; 6,92 € ; 34.866,21 € ; 25.860,04 € 
+C2578;África;Lesotho;Cuidado personal;Offline;Alta;9/4/2022;257882010;17/4/2022;1872; 81,73 € ; 56,67 € ; 152.998,56 € ; 106.086,24 € 
+C7406;África;Malawi;Cárnicos;Offline;Baja;11/2/2021;740614831;15/2/2021;3241; 421,89 € ; 364,69 € ; 1.367.345,49 € ; 1.181.960,29 € 
+C5869;África;Iraq;Cárnicos;Offline;Crítica;19/11/2020;586978328;6/12/2020;8786; 421,89 € ; 364,69 € ; 3.706.725,54 € ; 3.204.166,34 € 
+C4267;Asia;Turkmenistan;Doméstico;Offline;Media;9/6/2020;426708829;25/6/2020;1480; 668,27 € ; 502,54 € ; 989.039,60 € ; 743.759,20 € 
+C9598;África;United Arab Emirates;Material de oficina;Offline;Baja;19/6/2020;959855163;28/6/2020;1328; 651,21 € ; 524,96 € ; 864.806,88 € ; 697.146,88 € 
+C7067;Asia;Maldives;Doméstico;Online;Alta;20/1/2022;706778657;7/2/2022;366; 668,27 € ; 502,54 € ; 244.586,82 € ; 183.929,64 € 
+C9581;Europa;Romania;Doméstico;Online;Crítica;29/5/2022;958153140;1/6/2022;7661; 668,27 € ; 502,54 € ; 5.119.616,47 € ; 3.849.958,94 € 
+C8249;África;Lebanon;Cosméticos;Offline;Crítica;28/12/2021;824964940;5/2/2022;4313; 437,20 € ; 263,33 € ; 1.885.643,60 € ; 1.135.742,29 € 
+C3885;Europa;Portugal;Cosméticos;Online;Alta;30/3/2020;388512885;3/5/2020;8451; 437,20 € ; 263,33 € ; 3.694.777,20 € ; 2.225.401,83 € 
+C2504;Europa;Bosnia and Herzegovina;Material de oficina;Offline;Crítica;22/9/2022;250408303;7/10/2022;236; 651,21 € ; 524,96 € ; 153.685,56 € ; 123.890,56 € 
+C1825;África;Iraq;Snacks;Offline;Crítica;10/7/2022;182575023;24/8/2022;6861; 152,58 € ; 97,44 € ; 1.046.851,38 € ; 668.535,84 € 
+C4772;Europa;Moldova ;Ropa;Offline;Crítica;18/9/2021;477249372;6/11/2021;7549; 109,28 € ; 35,84 € ; 824.954,72 € ; 270.556,16 € 
+C5969;África;Liberia;Cereales;Offline;Alta;6/5/2021;596980178;17/6/2021;8556; 205,70 € ; 117,11 € ; 1.759.969,20 € ; 1.001.993,16 € 
+C5246;África;Sudan;Alimento infantil;Online;Baja;1/1/2020;524628770;3/1/2020;8166; 255,28 € ; 159,42 € ; 2.084.616,48 € ; 1.301.823,72 € 
+C3133;África;Democratic Republic of the Congo;Cosméticos;Online;Media;18/12/2020;313368976;2/2/2021;1698; 437,20 € ; 263,33 € ; 742.365,60 € ; 447.134,34 € 
+C5366;África;Morocco;Snacks;Offline;Media;13/3/2022;536687123;15/3/2022;6501; 152,58 € ; 97,44 € ; 991.922,58 € ; 633.457,44 € 
+C9383;Centroamérica y Caribe;Saint Vincent and the Grenadines;Frutas;Online;Media;20/8/2020;938382041;29/9/2020;6954; 9,33 € ; 6,92 € ; 64.880,82 € ; 48.121,68 € 
+C8825;África;Pakistan;Doméstico;Offline;Baja;12/3/2022;882565057;19/4/2022;9468; 668,27 € ; 502,54 € ; 6.327.180,36 € ; 4.758.048,72 € 
+C7036;Europa;Sweden;Cereales;Online;Alta;27/4/2020;703659999;14/5/2020;7485; 205,70 € ; 117,11 € ; 1.539.664,50 € ; 876.568,35 € 
+C3564;Australia y Oceanía;Palau;Cuidado personal;Online;Crítica;24/4/2020;356403195;3/5/2020;6480; 81,73 € ; 56,67 € ; 529.610,40 € ; 367.221,60 € 
+C7658;Europa;Poland;Cereales;Offline;Crítica;15/9/2020;765843474;21/10/2020;8958; 205,70 € ; 117,11 € ; 1.842.660,60 € ; 1.049.071,38 € 
+C6773;África;Equatorial Guinea;Cárnicos;Online;Crítica;15/6/2020;677342164;15/7/2020;9453; 421,89 € ; 364,69 € ; 3.988.126,17 € ; 3.447.414,57 € 
+C7065;Australia y Oceanía;Kiribati;Doméstico;Offline;Media;30/4/2020;706573092;15/5/2020;9535; 668,27 € ; 502,54 € ; 6.371.954,45 € ; 4.791.718,90 € 
+C1895;Asia;Myanmar;Cereales;Offline;Crítica;6/7/2021;189522588;1/8/2021;2800; 205,70 € ; 117,11 € ; 575.960,00 € ; 327.908,00 € 
+C3324;Centroamérica y Caribe;Haiti;Doméstico;Online;Crítica;18/4/2021;332489478;26/5/2021;9880; 668,27 € ; 502,54 € ; 6.602.507,60 € ; 4.965.095,20 € 
+C1620;África;Mauritius ;Snacks;Online;Media;26/3/2020;162085092;2/5/2020;3435; 152,58 € ; 97,44 € ; 524.112,30 € ; 334.706,40 € 
+C5752;Europa;Luxembourg;Cereales;Online;Crítica;18/9/2020;575233256;5/11/2020;3158; 205,70 € ; 117,11 € ; 649.600,60 € ; 369.833,38 € 
+C2891;Australia y Oceanía;Tonga;Ropa;Offline;Baja;31/8/2022;289170300;11/9/2022;773; 109,28 € ; 35,84 € ; 84.473,44 € ; 27.704,32 € 
+C7914;Europa;Ukraine;Verduras;Offline;Alta;16/2/2022;791445052;19/2/2022;5033; 154,06 € ; 90,93 € ; 775.383,98 € ; 457.650,69 € 
+C4899;África;Sudan;Snacks;Online;Alta;7/4/2021;489918839;21/4/2021;6727; 152,58 € ; 97,44 € ; 1.026.405,66 € ; 655.478,88 € 
+C5627;Europa;France;Doméstico;Online;Baja;19/3/2021;562765491;11/4/2021;3669; 668,27 € ; 502,54 € ; 2.451.882,63 € ; 1.843.819,26 € 
+C9084;Asia;Laos;Ropa;Offline;Media;25/8/2020;908471333;16/9/2020;5711; 109,28 € ; 35,84 € ; 624.098,08 € ; 204.682,24 € 
+C5958;Centroamérica y Caribe;Dominica;Cosméticos;Online;Crítica;31/1/2020;595835196;12/3/2020;9730; 437,20 € ; 263,33 € ; 4.253.956,00 € ; 2.562.200,90 € 
+C1139;Europa;Estonia;Snacks;Offline;Alta;3/6/2020;113968408;26/6/2020;4639; 152,58 € ; 97,44 € ; 707.818,62 € ; 452.024,16 € 
+C9222;África;Afghanistan;Cuidado personal;Offline;Crítica;23/7/2021;922294795;11/9/2021;6380; 81,73 € ; 56,67 € ; 521.437,40 € ; 361.554,60 € 
+C5005;África;Eritrea;Frutas;Online;Crítica;29/11/2020;500550687;16/12/2020;2926; 9,33 € ; 6,92 € ; 27.299,58 € ; 20.247,92 € 
+C8987;África;Oman;Cárnicos;Online;Alta;8/8/2020;898784911;15/8/2020;9283; 421,89 € ; 364,69 € ; 3.916.404,87 € ; 3.385.417,27 € 
+C1873;Centroamérica y Caribe;Cuba;Snacks;Offline;Media;18/4/2020;187358796;6/5/2020;2486; 152,58 € ; 97,44 € ; 379.313,88 € ; 242.235,84 € 
+C1069;África;Oman;Cereales;Offline;Crítica;23/6/2021;106946170;27/7/2021;6603; 205,70 € ; 117,11 € ; 1.358.237,10 € ; 773.277,33 € 
+C2185;Europa;Luxembourg;Material de oficina;Offline;Alta;29/4/2020;218533360;2/5/2020;7733; 651,21 € ; 524,96 € ; 5.035.806,93 € ; 4.059.515,68 € 
+C1534;África;Namibia;Material de oficina;Offline;Baja;27/7/2020;153419196;7/8/2020;9004; 651,21 € ; 524,96 € ; 5.863.494,84 € ; 4.726.739,84 € 
+C9632;Asia;India;Frutas;Online;Alta;12/8/2020;963215005;21/8/2020;5580; 9,33 € ; 6,92 € ; 52.061,40 € ; 38.613,60 € 
+C1698;Australia y Oceanía;Palau;Verduras;Offline;Alta;14/9/2020;169844615;19/10/2020;9651; 154,06 € ; 90,93 € ; 1.486.833,06 € ; 877.565,43 € 
+C3155;Europa;Serbia;Cuidado personal;Online;Alta;26/6/2021;315544354;4/8/2021;5441; 81,73 € ; 56,67 € ; 444.692,93 € ; 308.341,47 € 
+C4128;África;Mauritania;Verduras;Offline;Crítica;26/7/2022;412863051;5/8/2022;4206; 154,06 € ; 90,93 € ; 647.976,36 € ; 382.451,58 € 
+C8946;Asia;Maldives;Frutas;Offline;Alta;10/2/2021;894662034;13/2/2021;9232; 9,33 € ; 6,92 € ; 86.134,56 € ; 63.885,44 € 
+C4641;África;Liberia;Cuidado personal;Offline;Crítica;31/10/2021;464115130;9/11/2021;836; 81,73 € ; 56,67 € ; 68.326,28 € ; 47.376,12 € 
+C1447;Europa;Greece;Bebida;Online;Media;4/4/2021;144708669;5/5/2021;1366; 47,45 € ; 31,79 € ; 64.816,70 € ; 43.425,14 € 
+C1302;Centroamérica y Caribe;Dominica;Frutas;Offline;Baja;11/8/2020;130241477;23/8/2020;202; 9,33 € ; 6,92 € ; 1.884,66 € ; 1.397,84 € 
+C2348;Asia;Vietnam;Cereales;Offline;Crítica;10/7/2021;234824883;19/7/2021;8756; 205,70 € ; 117,11 € ; 1.801.109,20 € ; 1.025.415,16 € 
+C3428;Asia;Sri Lanka;Cereales;Offline;Alta;24/9/2021;342882716;9/10/2021;5470; 205,70 € ; 117,11 € ; 1.125.179,00 € ; 640.591,70 € 
+C8591;Europa;Portugal;Doméstico;Offline;Media;28/3/2022;859151303;6/5/2022;818; 668,27 € ; 502,54 € ; 546.644,86 € ; 411.077,72 € 
+C4586;Norteamérica;United States of America;Cárnicos;Offline;Crítica;26/2/2020;458679473;22/3/2020;2304; 421,89 € ; 364,69 € ; 972.034,56 € ; 840.245,76 € 
+C1368;Centroamérica y Caribe;Jamaica;Snacks;Online;Crítica;30/7/2021;136828553;2/9/2021;9464; 152,58 € ; 97,44 € ; 1.444.017,12 € ; 922.172,16 € 
+C9592;Europa;Cyprus;Alimento infantil;Online;Alta;19/2/2020;959272372;1/3/2020;8867; 255,28 € ; 159,42 € ; 2.263.567,76 € ; 1.413.577,14 € 
+C9119;África;Iran;Cereales;Offline;Media;18/4/2021;911997258;7/5/2021;9110; 205,70 € ; 117,11 € ; 1.873.927,00 € ; 1.066.872,10 € 
+C7513;Asia;Sri Lanka;Verduras;Offline;Crítica;4/12/2020;751302039;10/12/2020;5824; 154,06 € ; 90,93 € ; 897.245,44 € ; 529.576,32 € 
+C8537;Australia y Oceanía;East Timor;Snacks;Online;Media;2/1/2021;853798043;5/2/2021;6669; 152,58 € ; 97,44 € ; 1.017.556,02 € ; 649.827,36 € 
+C7664;África;Niger;Cárnicos;Online;Crítica;29/6/2022;766409099;3/7/2022;6338; 421,89 € ; 364,69 € ; 2.673.938,82 € ; 2.311.405,22 € 
+C5563;Australia y Oceanía;Australia;Frutas;Online;Media;10/1/2021;556371533;9/2/2021;1555; 9,33 € ; 6,92 € ; 14.508,15 € ; 10.760,60 € 
+C3612;África;Botswana;Alimento infantil;Online;Media;29/8/2022;361234176;11/9/2022;6075; 255,28 € ; 159,42 € ; 1.550.826,00 € ; 968.476,50 € 
+C8388;Europa;Portugal;Frutas;Online;Media;27/5/2022;838858354;16/6/2022;5683; 9,33 € ; 6,92 € ; 53.022,39 € ; 39.326,36 € 
+C9174;Asia;South Korea;Bebida;Offline;Alta;26/10/2022;917417895;28/10/2022;3197; 47,45 € ; 31,79 € ; 151.697,65 € ; 101.632,63 € 
+C9453;Asia;Philippines;Cárnicos;Offline;Media;28/2/2021;945399129;29/3/2021;3466; 421,89 € ; 364,69 € ; 1.462.270,74 € ; 1.264.015,54 € 
+C4416;Centroamérica y Caribe;Saint Vincent and the Grenadines;Cárnicos;Offline;Baja;23/3/2022;441600883;27/3/2022;8369; 421,89 € ; 364,69 € ; 3.530.797,41 € ; 3.052.090,61 € 
+C3451;Centroamérica y Caribe;Panama;Verduras;Online;Crítica;20/8/2022;345134484;7/10/2022;1818; 154,06 € ; 90,93 € ; 280.081,08 € ; 165.310,74 € 
+C7654;Europa;Italy;Cárnicos;Offline;Crítica;4/11/2020;765423762;18/11/2020;4756; 421,89 € ; 364,69 € ; 2.006.508,84 € ; 1.734.465,64 € 
+C5322;Asia;Tajikistan;Alimento infantil;Offline;Media;6/6/2021;532205045;1/7/2021;154; 255,28 € ; 159,42 € ; 39.313,12 € ; 24.550,68 € 
+C3455;Europa;Montenegro;Verduras;Online;Media;21/3/2022;345527160;28/4/2022;8020; 154,06 € ; 90,93 € ; 1.235.561,20 € ; 729.258,60 € 
+C5257;África;Sao Tome and Principe;Verduras;Online;Crítica;10/6/2021;525751435;5/7/2021;388; 154,06 € ; 90,93 € ; 59.775,28 € ; 35.280,84 € 
+C5635;África;Somalia;Verduras;Online;Baja;8/1/2022;563551700;24/2/2022;6326; 154,06 € ; 90,93 € ; 974.583,56 € ; 575.223,18 € 
+C4699;Europa;Italy;Alimento infantil;Offline;Baja;25/7/2021;469914281;18/8/2021;6933; 255,28 € ; 159,42 € ; 1.769.856,24 € ; 1.105.258,86 € 
+C3261;Europa;Poland;Cárnicos;Online;Alta;14/5/2022;326138007;4/6/2022;339; 421,89 € ; 364,69 € ; 143.020,71 € ; 123.629,91 € 
+C7338;Europa;Ukraine;Material de oficina;Offline;Crítica;29/5/2021;733834207;9/6/2021;6704; 651,21 € ; 524,96 € ; 4.365.711,84 € ; 3.519.331,84 € 
+C5649;Asia;Cambodia;Doméstico;Online;Crítica;12/5/2020;564926707;19/5/2020;3221; 668,27 € ; 502,54 € ; 2.152.497,67 € ; 1.618.681,34 € 
+C1116;Europa;Bosnia and Herzegovina;Ropa;Offline;Crítica;19/4/2021;111651837;25/5/2021;9115; 109,28 € ; 35,84 € ; 996.087,20 € ; 326.681,60 € 
+C6365;Asia;Philippines;Verduras;Online;Media;28/5/2022;636558425;8/6/2022;639; 154,06 € ; 90,93 € ; 98.444,34 € ; 58.104,27 € 
+C3225;Asia;Japan;Snacks;Offline;Alta;9/4/2022;322507798;21/4/2022;6079; 152,58 € ; 97,44 € ; 927.533,82 € ; 592.337,76 € 
+C1226;Asia;Turkmenistan;Ropa;Offline;Alta;25/4/2021;122673785;29/4/2021;754; 109,28 € ; 35,84 € ; 82.397,12 € ; 27.023,36 € 
+C6105;Europa;Andorra;Verduras;Offline;Media;12/5/2020;610542714;29/5/2020;2012; 154,06 € ; 90,93 € ; 309.968,72 € ; 182.951,16 € 
+C6299;África;Kenya;Alimento infantil;Online;Baja;23/1/2022;629913413;9/2/2022;4232; 255,28 € ; 159,42 € ; 1.080.344,96 € ; 674.665,44 € 
+C4448;África;Mozambique;Ropa;Online;Alta;24/11/2020;444897210;1/1/2021;3826; 109,28 € ; 35,84 € ; 418.105,28 € ; 137.123,84 € 
+C3899;Australia y Oceanía;Solomon Islands;Snacks;Offline;Alta;3/10/2021;389917933;18/11/2021;4236; 152,58 € ; 97,44 € ; 646.328,88 € ; 412.755,84 € 
+C4197;África;Democratic Republic of the Congo;Cosméticos;Online;Alta;7/5/2021;419711911;1/6/2021;936; 437,20 € ; 263,33 € ; 409.219,20 € ; 246.476,88 € 
+C5593;África;Uganda;Ropa;Offline;Baja;27/1/2021;559327971;15/3/2021;6431; 109,28 € ; 35,84 € ; 702.779,68 € ; 230.487,04 € 
+C4541;Europa;Albania;Material de oficina;Online;Alta;29/9/2022;454127442;12/11/2022;5257; 651,21 € ; 524,96 € ; 3.423.410,97 € ; 2.759.714,72 € 
+C7197;Australia y Oceanía;Samoa ;Cereales;Online;Crítica;1/6/2021;719784152;11/7/2021;8981; 205,70 € ; 117,11 € ; 1.847.391,70 € ; 1.051.764,91 € 
+C6922;Asia;Indonesia;Verduras;Online;Alta;16/2/2021;692284429;7/3/2021;1201; 154,06 € ; 90,93 € ; 185.026,06 € ; 109.206,93 € 
+C6779;África;South Africa;Snacks;Offline;Baja;12/1/2022;677927100;18/1/2022;2549; 152,58 € ; 97,44 € ; 388.926,42 € ; 248.374,56 € 
+C6033;África;Malawi;Cereales;Online;Baja;27/10/2021;603323495;6/12/2021;5684; 205,70 € ; 117,11 € ; 1.169.198,80 € ; 665.653,24 € 
+C4653;Europa;United Kingdom;Ropa;Online;Baja;11/1/2020;465397441;23/2/2020;300; 109,28 € ; 35,84 € ; 32.784,00 € ; 10.752,00 € 
+C7813;Centroamérica y Caribe;Jamaica;Alimento infantil;Online;Alta;17/4/2022;781385266;22/4/2022;8119; 255,28 € ; 159,42 € ; 2.072.618,32 € ; 1.294.330,98 € 
+C3388;Asia;Nepal;Material de oficina;Offline;Media;21/10/2021;338835799;26/10/2021;7898; 651,21 € ; 524,96 € ; 5.143.256,58 € ; 4.146.134,08 € 
+C2456;África;Mali;Alimento infantil;Online;Crítica;20/9/2020;245610368;22/10/2020;421; 255,28 € ; 159,42 € ; 107.472,88 € ; 67.115,82 € 
+C7798;Asia;China;Alimento infantil;Online;Alta;7/3/2020;779882800;21/3/2020;3506; 255,28 € ; 159,42 € ; 895.011,68 € ; 558.926,52 € 
+C9401;África;Togo;Cuidado personal;Online;Baja;19/9/2021;940139424;2/11/2021;7002; 81,73 € ; 56,67 € ; 572.273,46 € ; 396.803,34 € 
+C6951;Australia y Oceanía;Solomon Islands;Doméstico;Offline;Alta;16/2/2020;695179069;16/2/2020;7790; 668,27 € ; 502,54 € ; 5.205.823,30 € ; 3.914.786,60 € 
+C5341;África;Central African Republic;Frutas;Offline;Crítica;12/1/2022;534113061;10/2/2022;4779; 9,33 € ; 6,92 € ; 44.588,07 € ; 33.070,68 € 
+C1163;África;Swaziland;Cosméticos;Online;Baja;10/8/2021;116365230;20/8/2021;3912; 437,20 € ; 263,33 € ; 1.710.326,40 € ; 1.030.146,96 € 
+C5216;África;United Arab Emirates;Cereales;Online;Media;28/12/2021;521671903;6/2/2022;3164; 205,70 € ; 117,11 € ; 650.834,80 € ; 370.536,04 € 
+C2000;Australia y Oceanía;Fiji;Bebida;Offline;Baja;12/6/2022;200081908;12/6/2022;7538; 47,45 € ; 31,79 € ; 357.678,10 € ; 239.633,02 € 
+C8219;África;Swaziland;Cosméticos;Offline;Crítica;19/8/2022;821956574;27/9/2022;4071; 437,20 € ; 263,33 € ; 1.779.841,20 € ; 1.072.016,43 € 
+C5279;Europa;Vatican City;Verduras;Offline;Alta;7/3/2021;527969729;17/4/2021;6830; 154,06 € ; 90,93 € ; 1.052.229,80 € ; 621.051,90 € 
+C6791;Asia;Thailand;Bebida;Online;Baja;5/11/2022;679107701;7/11/2022;1915; 47,45 € ; 31,79 € ; 90.866,75 € ; 60.877,85 € 
+C9066;Europa;Georgia;Verduras;Online;Alta;12/10/2022;906669318;24/10/2022;2454; 154,06 € ; 90,93 € ; 378.063,24 € ; 223.142,22 € 
+C4622;África;Guinea-Bissau;Snacks;Online;Baja;31/3/2022;462265908;19/4/2022;3610; 152,58 € ; 97,44 € ; 550.813,80 € ; 351.758,40 € 
+C4678;Europa;Estonia;Snacks;Online;Baja;28/6/2021;467821300;9/7/2021;7573; 152,58 € ; 97,44 € ; 1.155.488,34 € ; 737.913,12 € 
+C7655;África;Swaziland;Cosméticos;Offline;Alta;26/2/2021;765571820;7/4/2021;8569; 437,20 € ; 263,33 € ; 3.746.366,80 € ; 2.256.474,77 € 
+C3680;Centroamérica y Caribe;Trinidad and Tobago;Cosméticos;Online;Crítica;9/11/2020;368066298;24/12/2020;7852; 437,20 € ; 263,33 € ; 3.432.894,40 € ; 2.067.667,16 € 
+C6081;África;Ghana;Doméstico;Online;Media;12/8/2020;608166062;9/9/2020;8707; 668,27 € ; 502,54 € ; 5.818.626,89 € ; 4.375.615,78 € 
+C1890;África;Djibouti;Ropa;Online;Alta;10/4/2022;189044940;12/5/2022;1454; 109,28 € ; 35,84 € ; 158.893,12 € ; 52.111,36 € 
+C1341;Australia y Oceanía;New Zealand;Cereales;Offline;Crítica;15/5/2022;134189260;24/5/2022;8439; 205,70 € ; 117,11 € ; 1.735.902,30 € ; 988.291,29 € 
+C6373;África;Syria;Cuidado personal;Offline;Baja;17/2/2022;637397849;21/2/2022;9043; 81,73 € ; 56,67 € ; 739.084,39 € ; 512.466,81 € 
+C6127;Europa;Albania;Ropa;Online;Alta;26/4/2020;612782037;19/5/2020;4677; 109,28 € ; 35,84 € ; 511.102,56 € ; 167.623,68 € 
+C8447;Asia;Taiwan;Material de oficina;Offline;Crítica;24/5/2020;844765651;1/6/2020;3783; 651,21 € ; 524,96 € ; 2.463.527,43 € ; 1.985.923,68 € 
+C8380;África;Ethiopia;Bebida;Offline;Media;2/7/2020;838085019;21/7/2020;6836; 47,45 € ; 31,79 € ; 324.368,20 € ; 217.316,44 € 
+C1677;Europa;United Kingdom;Snacks;Offline;Media;11/8/2020;167788970;11/8/2020;1340; 152,58 € ; 97,44 € ; 204.457,20 € ; 130.569,60 € 
+C7292;África;Cape Verde;Material de oficina;Offline;Baja;5/2/2021;729238831;16/2/2021;6830; 651,21 € ; 524,96 € ; 4.447.764,30 € ; 3.585.476,80 € 
+C8881;África;Tanzania;Alimento infantil;Online;Media;24/4/2021;888108432;13/6/2021;9876; 255,28 € ; 159,42 € ; 2.521.145,28 € ; 1.574.431,92 € 
+C4303;Centroamérica y Caribe;Trinidad and Tobago;Snacks;Online;Alta;1/1/2021;430384099;27/1/2021;9074; 152,58 € ; 97,44 € ; 1.384.510,92 € ; 884.170,56 € 
+C1123;África;Togo;Cereales;Offline;Alta;1/10/2021;112364661;9/11/2021;55; 205,70 € ; 117,11 € ; 11.313,50 € ; 6.441,05 € 
+C3106;Europa;Montenegro;Doméstico;Online;Alta;7/9/2022;310661447;8/9/2022;480; 668,27 € ; 502,54 € ; 320.769,60 € ; 241.219,20 € 
+C5721;Europa;Russia;Ropa;Offline;Media;23/11/2021;572198283;6/12/2021;5042; 109,28 € ; 35,84 € ; 550.989,76 € ; 180.705,28 € 
+C9642;Asia;Nepal;Cereales;Offline;Media;29/9/2020;964211499;7/11/2020;464; 205,70 € ; 117,11 € ; 95.444,80 € ; 54.339,04 € 
+C7242;África;Kenya;Doméstico;Online;Alta;4/6/2022;724249923;3/7/2022;501; 668,27 € ; 502,54 € ; 334.803,27 € ; 251.772,54 € 
+C5101;África;Zimbabwe;Alimento infantil;Online;Crítica;11/12/2021;510174882;12/12/2021;940; 255,28 € ; 159,42 € ; 239.963,20 € ; 149.854,80 € 
+C1501;África;Turkey;Bebida;Offline;Alta;15/11/2021;150160205;22/11/2021;4596; 47,45 € ; 31,79 € ; 218.080,20 € ; 146.106,84 € 
+C8926;Europa;Portugal;Bebida;Online;Media;27/4/2022;892692220;11/5/2022;6320; 47,45 € ; 31,79 € ; 299.884,00 € ; 200.912,80 € 
+C4565;Centroamérica y Caribe;Costa Rica;Doméstico;Online;Media;11/5/2022;456569755;9/6/2022;7991; 668,27 € ; 502,54 € ; 5.340.145,57 € ; 4.015.797,14 € 
+C6809;Norteamérica;Canada;Material de oficina;Online;Media;23/6/2021;680904138;11/7/2021;3520; 651,21 € ; 524,96 € ; 2.292.259,20 € ; 1.847.859,20 € 
+C7751;Centroamérica y Caribe;Trinidad and Tobago;Doméstico;Online;Media;25/12/2020;775119197;2/2/2021;3850; 668,27 € ; 502,54 € ; 2.572.839,50 € ; 1.934.779,00 € 
+C4689;África;Iran;Cárnicos;Online;Baja;7/8/2022;468951261;19/8/2022;1954; 421,89 € ; 364,69 € ; 824.373,06 € ; 712.604,26 € 
+C4624;África;Burundi;Material de oficina;Online;Baja;16/4/2021;462449157;31/5/2021;7837; 651,21 € ; 524,96 € ; 5.103.532,77 € ; 4.114.111,52 € 
+C1759;África;Cameroon;Cosméticos;Offline;Alta;3/1/2021;175974214;13/1/2021;3535; 437,20 € ; 263,33 € ; 1.545.502,00 € ; 930.871,55 € 
+C9002;Asia;Maldives;Cosméticos;Offline;Baja;24/10/2021;900200259;10/11/2021;8116; 437,20 € ; 263,33 € ; 3.548.315,20 € ; 2.137.186,28 € 
+C8461;Centroamérica y Caribe;Nicaragua;Cereales;Offline;Crítica;25/4/2021;846113622;3/6/2021;2678; 205,70 € ; 117,11 € ; 550.864,60 € ; 313.620,58 € 
+C9950;Europa;Ukraine;Alimento infantil;Offline;Alta;22/10/2021;995013129;27/11/2021;5351; 255,28 € ; 159,42 € ; 1.366.003,28 € ; 853.056,42 € 
+C1485;África;Madagascar;Cuidado personal;Online;Crítica;9/4/2020;148510110;14/5/2020;6297; 81,73 € ; 56,67 € ; 514.653,81 € ; 356.850,99 € 
+C7785;Australia y Oceanía;Australia;Ropa;Online;Media;27/3/2021;778528392;14/5/2021;2707; 109,28 € ; 35,84 € ; 295.820,96 € ; 97.018,88 € 
+C4773;África;Somalia;Bebida;Online;Media;22/1/2021;477304303;23/1/2021;3805; 47,45 € ; 31,79 € ; 180.547,25 € ; 120.960,95 € 
+C5073;Europa;San Marino;Snacks;Offline;Alta;13/10/2020;507386672;22/10/2020;5846; 152,58 € ; 97,44 € ; 891.982,68 € ; 569.634,24 € 
+C8516;África;Turkey;Snacks;Offline;Crítica;10/11/2021;851636826;10/11/2021;7117; 152,58 € ; 97,44 € ; 1.085.911,86 € ; 693.480,48 € 
+C6632;Centroamérica y Caribe;Grenada;Cárnicos;Online;Alta;4/11/2021;663228595;15/12/2021;2934; 421,89 € ; 364,69 € ; 1.237.825,26 € ; 1.070.000,46 € 
+C5156;Europa;Lithuania;Cereales;Offline;Baja;25/7/2021;515648305;3/8/2021;647; 205,70 € ; 117,11 € ; 133.087,90 € ; 75.770,17 € 
+C1526;Australia y Oceanía;Papua New Guinea;Bebida;Online;Alta;23/10/2020;152694785;16/11/2020;4635; 47,45 € ; 31,79 € ; 219.930,75 € ; 147.346,65 € 
+C7384;Europa;Serbia;Cereales;Online;Alta;23/8/2022;738479363;7/9/2022;1309; 205,70 € ; 117,11 € ; 269.261,30 € ; 153.296,99 € 
+C8074;Europa;Ukraine;Snacks;Offline;Media;5/7/2020;807425868;7/7/2020;4112; 152,58 € ; 97,44 € ; 627.408,96 € ; 400.673,28 € 
+C3142;Norteamérica;Greenland;Bebida;Offline;Crítica;24/7/2022;314270627;12/8/2022;8517; 47,45 € ; 31,79 € ; 404.131,65 € ; 270.755,43 € 
+C1840;Europa;Lithuania;Doméstico;Offline;Baja;15/8/2021;184062469;20/9/2021;7030; 668,27 € ; 502,54 € ; 4.697.938,10 € ; 3.532.856,20 € 
+C9621;África;South Sudan;Cuidado personal;Offline;Baja;10/5/2022;962162721;15/6/2022;4185; 81,73 € ; 56,67 € ; 342.040,05 € ; 237.163,95 € 
+C5642;Asia;Maldives;Ropa;Online;Crítica;7/9/2022;564245212;19/10/2022;1552; 109,28 € ; 35,84 € ; 169.602,56 € ; 55.623,68 € 
+C1262;Asia;Kazakhstan;Doméstico;Offline;Media;3/12/2020;126296269;12/1/2021;2728; 668,27 € ; 502,54 € ; 1.823.040,56 € ; 1.370.929,12 € 
+C8546;África;Kuwait;Cosméticos;Online;Baja;2/2/2020;854614722;5/2/2020;8343; 437,20 € ; 263,33 € ; 3.647.559,60 € ; 2.196.962,19 € 
+C8758;África;Rwanda;Cuidado personal;Offline;Alta;23/9/2020;875811898;13/10/2020;1058; 81,73 € ; 56,67 € ; 86.470,34 € ; 59.956,86 € 
+C1868;África;Cameroon;Cuidado personal;Offline;Crítica;18/5/2022;186811625;3/6/2022;566; 81,73 € ; 56,67 € ; 46.259,18 € ; 32.075,22 € 
+C2048;Europa;Czech Republic;Cárnicos;Offline;Crítica;6/2/2022;204850232;6/3/2022;8591; 421,89 € ; 364,69 € ; 3.624.456,99 € ; 3.133.051,79 € 
+C6174;África;Equatorial Guinea;Doméstico;Offline;Crítica;28/8/2021;617476546;3/10/2021;3887; 668,27 € ; 502,54 € ; 2.597.565,49 € ; 1.953.372,98 € 
+C7325;África;Liberia;Frutas;Online;Crítica;9/5/2020;732551896;5/6/2020;7240; 9,33 € ; 6,92 € ; 67.549,20 € ; 50.100,80 € 
+C8282;África;The Gambia;Cuidado personal;Online;Alta;8/3/2022;828250110;10/4/2022;6468; 81,73 € ; 56,67 € ; 528.629,64 € ; 366.541,56 € 
+C8030;África;Liberia;Cuidado personal;Online;Media;8/2/2020;803057515;22/3/2020;1419; 81,73 € ; 56,67 € ; 115.974,87 € ; 80.414,73 € 
+C6257;Europa;Monaco;Material de oficina;Offline;Media;7/5/2020;625772941;15/6/2020;8974; 651,21 € ; 524,96 € ; 5.843.958,54 € ; 4.710.991,04 € 
+C7855;Asia;Thailand;Snacks;Offline;Alta;17/12/2020;785507714;31/12/2020;8043; 152,58 € ; 97,44 € ; 1.227.200,94 € ; 783.709,92 € 
+C9416;África;Cape Verde;Bebida;Offline;Crítica;1/11/2021;941685664;21/12/2021;4569; 47,45 € ; 31,79 € ; 216.799,05 € ; 145.248,51 € 
+C3740;África;Rwanda;Frutas;Offline;Media;22/5/2020;374043118;2/7/2020;6526; 9,33 € ; 6,92 € ; 60.887,58 € ; 45.159,92 € 
+C2326;África;Chad;Cuidado personal;Offline;Media;10/8/2021;232628905;1/9/2021;8917; 81,73 € ; 56,67 € ; 728.786,41 € ; 505.326,39 € 
+C3878;África;Turkey;Cuidado personal;Online;Baja;15/4/2022;387804353;23/5/2022;8781; 81,73 € ; 56,67 € ; 717.671,13 € ; 497.619,27 € 
+C7802;África;Tanzania;Ropa;Online;Crítica;23/1/2021;780243289;17/2/2021;183; 109,28 € ; 35,84 € ; 19.998,24 € ; 6.558,72 € 
+C9709;África;Togo;Cuidado personal;Online;Media;8/9/2022;970932042;9/10/2022;9222; 81,73 € ; 56,67 € ; 753.714,06 € ; 522.610,74 € 
+C5911;Australia y Oceanía;Marshall Islands;Cárnicos;Offline;Alta;23/4/2022;591169440;4/6/2022;9029; 421,89 € ; 364,69 € ; 3.809.244,81 € ; 3.292.786,01 € 
+C6925;Centroamérica y Caribe;Cuba;Doméstico;Online;Baja;14/3/2021;692566812;21/3/2021;4765; 668,27 € ; 502,54 € ; 3.184.306,55 € ; 2.394.603,10 € 
+C5970;África;Guinea-Bissau;Material de oficina;Online;Baja;16/6/2022;597047984;2/7/2022;8621; 651,21 € ; 524,96 € ; 5.614.081,41 € ; 4.525.680,16 € 
+C1468;Europa;Georgia;Bebida;Online;Alta;3/1/2021;146849286;23/1/2021;4822; 47,45 € ; 31,79 € ; 228.803,90 € ; 153.291,38 € 
+C1545;Centroamérica y Caribe;The Bahamas;Frutas;Offline;Alta;9/3/2022;154519546;15/3/2022;4622; 9,33 € ; 6,92 € ; 43.123,26 € ; 31.984,24 € 
+C1529;Europa;Ukraine;Frutas;Offline;Crítica;16/4/2020;152920091;17/5/2020;1308; 9,33 € ; 6,92 € ; 12.203,64 € ; 9.051,36 € 
+C6452;África;Djibouti;Cereales;Online;Crítica;13/1/2020;645224750;14/2/2020;5197; 205,70 € ; 117,11 € ; 1.069.022,90 € ; 608.620,67 € 
+C8549;Centroamérica y Caribe;Honduras;Material de oficina;Offline;Crítica;20/10/2020;854919850;5/11/2020;8637; 651,21 € ; 524,96 € ; 5.624.500,77 € ; 4.534.079,52 € 
+C9758;Australia y Oceanía;Palau;Cereales;Online;Crítica;19/12/2020;975804221;13/1/2021;1008; 205,70 € ; 117,11 € ; 207.345,60 € ; 118.046,88 € 
+C8219;Europa;Portugal;Doméstico;Offline;Baja;25/2/2022;821989190;11/3/2022;3723; 668,27 € ; 502,54 € ; 2.487.969,21 € ; 1.870.956,42 € 
+C2778;África;Iraq;Alimento infantil;Offline;Baja;5/2/2022;277898585;6/3/2022;5222; 255,28 € ; 159,42 € ; 1.333.072,16 € ; 832.491,24 € 
+C6482;Asia;Philippines;Verduras;Offline;Baja;21/10/2021;648268735;17/11/2021;5979; 154,06 € ; 90,93 € ; 921.124,74 € ; 543.670,47 € 
+C6081;Centroamérica y Caribe;Barbados;Frutas;Offline;Crítica;31/3/2021;608148467;3/4/2021;3501; 9,33 € ; 6,92 € ; 32.664,33 € ; 24.226,92 € 
+C2528;África;Mozambique;Cereales;Online;Baja;19/10/2020;252899110;5/11/2020;7321; 205,70 € ; 117,11 € ; 1.505.929,70 € ; 857.362,31 € 
+C6481;Europa;Vatican City;Frutas;Online;Alta;1/9/2022;648194491;17/9/2022;4009; 9,33 € ; 6,92 € ; 37.403,97 € ; 27.742,28 € 
+C6800;África;Kuwait;Snacks;Offline;Alta;20/11/2020;680020940;1/12/2020;2163; 152,58 € ; 97,44 € ; 330.030,54 € ; 210.762,72 € 
+C2046;África;Gabon;Alimento infantil;Offline;Crítica;3/10/2022;204677283;3/10/2022;7411; 255,28 € ; 159,42 € ; 1.891.880,08 € ; 1.181.461,62 € 
+C4987;Asia;Brunei;Ropa;Online;Media;5/9/2021;498774850;22/10/2021;7417; 109,28 € ; 35,84 € ; 810.529,76 € ; 265.825,28 € 
+C2092;África;Iran;Frutas;Online;Alta;22/6/2021;209237468;22/6/2021;6871; 9,33 € ; 6,92 € ; 64.106,43 € ; 47.547,32 € 
+C3033;Europa;Czech Republic;Cosméticos;Offline;Crítica;22/8/2020;303301465;16/9/2020;2498; 437,20 € ; 263,33 € ; 1.092.125,60 € ; 657.798,34 € 
+C9185;Australia y Oceanía;Nauru;Cárnicos;Offline;Alta;14/5/2022;918515670;7/6/2022;8053; 421,89 € ; 364,69 € ; 3.397.480,17 € ; 2.936.848,57 € 
+C9127;Europa;Monaco;Snacks;Online;Baja;1/9/2021;912741410;11/9/2021;9321; 152,58 € ; 97,44 € ; 1.422.198,18 € ; 908.238,24 € 
+C1141;Europa;Vatican City;Cereales;Offline;Baja;9/2/2021;114152514;21/3/2021;9121; 205,70 € ; 117,11 € ; 1.876.189,70 € ; 1.068.160,31 € 
+C6712;África;Swaziland;Cuidado personal;Online;Baja;18/10/2020;671235311;15/11/2020;2300; 81,73 € ; 56,67 € ; 187.979,00 € ; 130.341,00 € 
+C3027;Centroamérica y Caribe;Barbados;Alimento infantil;Online;Media;2/9/2022;302788627;3/10/2022;738; 255,28 € ; 159,42 € ; 188.396,64 € ; 117.651,96 € 
+C8479;Europa;Slovakia;Cuidado personal;Online;Media;29/6/2020;847923791;16/7/2020;8347; 81,73 € ; 56,67 € ; 682.200,31 € ; 473.024,49 € 
+C6160;Australia y Oceanía;Tuvalu;Alimento infantil;Online;Alta;20/4/2021;616064631;1/6/2021;6070; 255,28 € ; 159,42 € ; 1.549.549,60 € ; 967.679,40 € 
+C2369;Europa;Austria;Frutas;Offline;Media;1/2/2021;236947476;28/2/2021;6879; 9,33 € ; 6,92 € ; 64.181,07 € ; 47.602,68 € 
+C4106;Australia y Oceanía;Tonga;Doméstico;Online;Alta;16/7/2020;410621154;15/8/2020;779; 668,27 € ; 502,54 € ; 520.582,33 € ; 391.478,66 € 
+C5574;Centroamérica y Caribe;Dominica;Frutas;Online;Baja;1/10/2020;557446992;24/10/2020;9807; 9,33 € ; 6,92 € ; 91.499,31 € ; 67.864,44 € 
+C1680;Australia y Oceanía;Samoa ;Cosméticos;Offline;Alta;13/10/2021;168098819;28/10/2021;3031; 437,20 € ; 263,33 € ; 1.325.153,20 € ; 798.153,23 € 
+C1535;Australia y Oceanía;Kiribati;Verduras;Offline;Alta;30/3/2021;153562963;29/4/2021;1548; 154,06 € ; 90,93 € ; 238.484,88 € ; 140.759,64 € 
+C5951;Centroamérica y Caribe;Panama;Ropa;Offline;Baja;5/6/2021;595138251;4/7/2021;3489; 109,28 € ; 35,84 € ; 381.277,92 € ; 125.045,76 € 
+C2944;Asia;Uzbekistan;Alimento infantil;Online;Baja;4/3/2022;294436013;11/4/2022;9014; 255,28 € ; 159,42 € ; 2.301.093,92 € ; 1.437.011,88 € 
+C8233;África;Swaziland;Alimento infantil;Online;Crítica;16/4/2022;823380076;3/5/2022;5317; 255,28 € ; 159,42 € ; 1.357.323,76 € ; 847.636,14 € 
+C6742;África;Saudi Arabia;Frutas;Online;Alta;31/12/2020;674206769;15/2/2021;1620; 9,33 € ; 6,92 € ; 15.114,60 € ; 11.210,40 € 
+C2094;África;Zambia;Material de oficina;Offline;Alta;15/3/2022;209464919;20/4/2022;4179; 651,21 € ; 524,96 € ; 2.721.406,59 € ; 2.193.807,84 € 
+C3120;Norteamérica;Greenland;Alimento infantil;Online;Alta;17/8/2021;312015855;3/9/2021;1280; 255,28 € ; 159,42 € ; 326.758,40 € ; 204.057,60 € 
+C1350;Asia;Turkmenistan;Cárnicos;Offline;Baja;21/7/2022;135033404;26/7/2022;8240; 421,89 € ; 364,69 € ; 3.476.373,60 € ; 3.005.045,60 € 
+C2520;Centroamérica y Caribe;El Salvador;Alimento infantil;Offline;Media;1/2/2020;252003896;2/3/2020;2408; 255,28 € ; 159,42 € ; 614.714,24 € ; 383.883,36 € 
+C4067;África;Pakistan;Alimento infantil;Offline;Alta;6/8/2022;406726157;13/8/2022;8163; 255,28 € ; 159,42 € ; 2.083.850,64 € ; 1.301.345,46 € 
+C8633;África;Libya;Cuidado personal;Offline;Media;15/9/2021;863311517;6/10/2021;1917; 81,73 € ; 56,67 € ; 156.676,41 € ; 108.636,39 € 
+C1561;Asia;Taiwan;Bebida;Offline;Crítica;20/4/2022;156183803;28/5/2022;7113; 47,45 € ; 31,79 € ; 337.511,85 € ; 226.122,27 € 
+C9400;Europa;Macedonia;Bebida;Offline;Baja;3/2/2021;940079343;17/3/2021;9223; 47,45 € ; 31,79 € ; 437.631,35 € ; 293.199,17 € 
+C5400;Australia y Oceanía;Solomon Islands;Doméstico;Offline;Alta;7/5/2022;540046966;9/5/2022;753; 668,27 € ; 502,54 € ; 503.207,31 € ; 378.412,62 € 
+C4014;Norteamérica;Mexico;Bebida;Offline;Media;22/2/2022;401447999;27/2/2022;6239; 47,45 € ; 31,79 € ; 296.040,55 € ; 198.337,81 € 
+C2399;África;Somalia;Cuidado personal;Offline;Alta;8/4/2021;239956271;30/4/2021;7248; 81,73 € ; 56,67 € ; 592.379,04 € ; 410.744,16 € 
+C2915;Asia;Taiwan;Frutas;Online;Media;23/11/2020;291558110;1/1/2021;7379; 9,33 € ; 6,92 € ; 68.846,07 € ; 51.062,68 € 
+C8625;Centroamérica y Caribe;Cuba;Doméstico;Online;Crítica;7/3/2021;862552344;5/4/2021;7261; 668,27 € ; 502,54 € ; 4.852.308,47 € ; 3.648.942,94 € 
+C9795;Australia y Oceanía;Federated States of Micronesia;Frutas;Offline;Crítica;3/9/2022;979550302;3/10/2022;9557; 9,33 € ; 6,92 € ; 89.166,81 € ; 66.134,44 € 
+C6394;Australia y Oceanía;Australia;Doméstico;Offline;Alta;17/1/2022;639475810;3/2/2022;3958; 668,27 € ; 502,54 € ; 2.645.012,66 € ; 1.989.053,32 € 
+C3595;Asia;Myanmar;Cereales;Offline;Alta;31/1/2022;359565198;1/3/2022;2187; 205,70 € ; 117,11 € ; 449.865,90 € ; 256.119,57 € 
+C7273;Europa;Montenegro;Cereales;Online;Baja;9/9/2021;727367293;23/10/2021;3001; 205,70 € ; 117,11 € ; 617.305,70 € ; 351.447,11 € 
+C1507;África;Nigeria;Ropa;Offline;Media;2/3/2020;150743424;2/3/2020;7184; 109,28 € ; 35,84 € ; 785.067,52 € ; 257.474,56 € 
+C7078;Centroamérica y Caribe;The Bahamas;Verduras;Online;Alta;4/7/2021;707867419;2/8/2021;2555; 154,06 € ; 90,93 € ; 393.623,30 € ; 232.326,15 € 
+C4972;África;Ethiopia;Snacks;Offline;Alta;13/7/2021;497225606;2/8/2021;8961; 152,58 € ; 97,44 € ; 1.367.269,38 € ; 873.159,84 € 
+C3876;Australia y Oceanía;Nauru;Verduras;Offline;Alta;30/9/2020;387616813;5/10/2020;3283; 154,06 € ; 90,93 € ; 505.778,98 € ; 298.523,19 € 
+C8681;Centroamérica y Caribe;Haiti;Doméstico;Online;Baja;27/1/2020;868152368;23/2/2020;4433; 668,27 € ; 502,54 € ; 2.962.440,91 € ; 2.227.759,82 € 
+C6982;Centroamérica y Caribe;Antigua and Barbuda ;Snacks;Online;Alta;29/3/2022;698256099;14/4/2022;8351; 152,58 € ; 97,44 € ; 1.274.195,58 € ; 813.721,44 € 
+C9576;Europa;Slovenia;Cárnicos;Online;Baja;29/10/2021;957664334;18/11/2021;3013; 421,89 € ; 364,69 € ; 1.271.154,57 € ; 1.098.810,97 € 
+C9964;Norteamérica;Greenland;Material de oficina;Online;Baja;12/12/2020;996425902;2/1/2021;3422; 651,21 € ; 524,96 € ; 2.228.440,62 € ; 1.796.413,12 € 
+C6849;África;Burundi;Cosméticos;Offline;Crítica;13/2/2022;684902131;28/2/2022;6615; 437,20 € ; 263,33 € ; 2.892.078,00 € ; 1.741.927,95 € 
+C8637;Europa;Czech Republic;Material de oficina;Offline;Alta;14/2/2021;863766849;24/3/2021;6660; 651,21 € ; 524,96 € ; 4.337.058,60 € ; 3.496.233,60 € 
+C1940;África;Equatorial Guinea;Material de oficina;Offline;Media;15/9/2022;194006383;22/10/2022;9655; 651,21 € ; 524,96 € ; 6.287.432,55 € ; 5.068.488,80 € 
+C1069;Centroamérica y Caribe;Dominican Republic;Ropa;Offline;Alta;7/1/2022;106919562;25/2/2022;8729; 109,28 € ; 35,84 € ; 953.905,12 € ; 312.847,36 € 
+C7541;Europa;Poland;Cuidado personal;Online;Crítica;30/4/2020;754117715;24/5/2020;9045; 81,73 € ; 56,67 € ; 739.247,85 € ; 512.580,15 € 
+C5575;Europa;Albania;Frutas;Offline;Crítica;27/9/2020;557524669;16/11/2020;2794; 9,33 € ; 6,92 € ; 26.068,02 € ; 19.334,48 € 
+C2593;África;Sudan;Snacks;Offline;Baja;13/1/2021;259376752;10/2/2021;4200; 152,58 € ; 97,44 € ; 640.836,00 € ; 409.248,00 € 
+C6722;Norteamérica;Canada;Cárnicos;Online;Baja;31/10/2020;672222793;17/12/2020;4517; 421,89 € ; 364,69 € ; 1.905.677,13 € ; 1.647.304,73 € 
+C4289;Europa;Czech Republic;Cereales;Online;Baja;24/2/2020;428924119;6/3/2020;7033; 205,70 € ; 117,11 € ; 1.446.688,10 € ; 823.634,63 € 
+C9326;África;Madagascar;Doméstico;Offline;Crítica;30/10/2020;932654559;9/11/2020;2065; 668,27 € ; 502,54 € ; 1.379.977,55 € ; 1.037.745,10 € 
+C5069;Europa;Estonia;Bebida;Online;Alta;10/4/2022;506900441;10/4/2022;1960; 47,45 € ; 31,79 € ; 93.002,00 € ; 62.308,40 € 
+C2454;África;Ethiopia;Ropa;Online;Media;4/11/2022;245460593;27/11/2022;6099; 109,28 € ; 35,84 € ; 666.498,72 € ; 218.588,16 € 
+C8624;África;Republic of the Congo;Snacks;Online;Media;22/4/2021;862446343;26/5/2021;5893; 152,58 € ; 97,44 € ; 899.153,94 € ; 574.213,92 € 
+C4422;Europa;Croatia;Doméstico;Offline;Crítica;13/2/2021;442281520;14/3/2021;9785; 668,27 € ; 502,54 € ; 6.539.021,95 € ; 4.917.353,90 € 
+C2897;Europa;Switzerland;Bebida;Offline;Alta;5/6/2020;289702451;18/6/2020;8248; 47,45 € ; 31,79 € ; 391.367,60 € ; 262.203,92 € 
+C8797;África;Angola;Bebida;Offline;Crítica;23/1/2022;879757964;27/2/2022;8787; 47,45 € ; 31,79 € ; 416.943,15 € ; 279.338,73 € 
+C5078;Asia;Cambodia;Cereales;Offline;Alta;4/9/2020;507809388;5/9/2020;937; 205,70 € ; 117,11 € ; 192.740,90 € ; 109.732,07 € 
+C2395;África;Pakistan;Doméstico;Offline;Crítica;6/5/2021;239530551;17/5/2021;1268; 668,27 € ; 502,54 € ; 847.366,36 € ; 637.220,72 € 
+C7609;África;Malawi;Alimento infantil;Online;Baja;13/12/2020;760907781;6/1/2021;8376; 255,28 € ; 159,42 € ; 2.138.225,28 € ; 1.335.301,92 € 
+C1282;África;Botswana;Cereales;Offline;Baja;29/1/2021;128239905;10/3/2021;7893; 205,70 € ; 117,11 € ; 1.623.590,10 € ; 924.349,23 € 
+C5181;Centroamérica y Caribe;Saint Vincent and the Grenadines;Alimento infantil;Online;Crítica;8/11/2020;518138253;28/11/2020;7478; 255,28 € ; 159,42 € ; 1.908.983,84 € ; 1.192.142,76 € 
+C5775;Australia y Oceanía;Kiribati;Snacks;Online;Alta;26/3/2021;577526652;10/4/2021;1825; 152,58 € ; 97,44 € ; 278.458,50 € ; 177.828,00 € 
+C3736;Centroamérica y Caribe;Honduras;Material de oficina;Offline;Baja;18/9/2020;373641431;28/10/2020;7657; 651,21 € ; 524,96 € ; 4.986.314,97 € ; 4.019.618,72 € 
+C9440;África;Israel;Cárnicos;Offline;Baja;27/6/2022;944031417;12/8/2022;8730; 421,89 € ; 364,69 € ; 3.683.099,70 € ; 3.183.743,70 € 
+C2465;Asia;Brunei;Bebida;Online;Baja;27/7/2021;246557939;14/9/2021;828; 47,45 € ; 31,79 € ; 39.288,60 € ; 26.322,12 € 
+C8093;África;Senegal;Material de oficina;Online;Baja;9/7/2020;809394824;9/7/2020;6770; 651,21 € ; 524,96 € ; 4.408.691,70 € ; 3.553.979,20 € 
+C2810;Europa;Iceland;Verduras;Offline;Alta;24/4/2022;281028401;14/5/2022;1404; 154,06 € ; 90,93 € ; 216.300,24 € ; 127.665,72 € 
+C8802;Centroamérica y Caribe;Haiti;Material de oficina;Offline;Baja;20/4/2020;880257499;1/5/2020;6610; 651,21 € ; 524,96 € ; 4.304.498,10 € ; 3.469.985,60 € 
+C8461;Europa;Switzerland;Alimento infantil;Online;Media;20/7/2022;846193444;2/9/2022;6299; 255,28 € ; 159,42 € ; 1.608.008,72 € ; 1.004.186,58 € 
+C2882;Europa;Italy;Cárnicos;Offline;Alta;18/10/2021;288260066;10/11/2021;1414; 421,89 € ; 364,69 € ; 596.552,46 € ; 515.671,66 € 
+C7361;Europa;Romania;Cereales;Online;Media;12/8/2022;736193692;1/9/2022;4928; 205,70 € ; 117,11 € ; 1.013.689,60 € ; 577.118,08 € 
+C1900;Europa;Georgia;Cereales;Offline;Crítica;30/10/2022;190043151;13/12/2022;6846; 205,70 € ; 117,11 € ; 1.408.222,20 € ; 801.735,06 € 
+C7701;Norteamérica;United States of America;Cárnicos;Offline;Media;4/9/2020;770169770;18/9/2020;9205; 421,89 € ; 364,69 € ; 3.883.497,45 € ; 3.356.971,45 € 
+C1672;Australia y Oceanía;Kiribati;Material de oficina;Offline;Crítica;7/12/2021;167247378;18/1/2022;1071; 651,21 € ; 524,96 € ; 697.445,91 € ; 562.232,16 € 
+C1922;Europa;Bosnia and Herzegovina;Snacks;Online;Crítica;8/5/2021;192262303;8/5/2021;3543; 152,58 € ; 97,44 € ; 540.590,94 € ; 345.229,92 € 
+C9265;África;Mauritius ;Cuidado personal;Offline;Media;23/3/2021;926513373;23/3/2021;4751; 81,73 € ; 56,67 € ; 388.299,23 € ; 269.239,17 € 
+C2716;Norteamérica;Greenland;Cárnicos;Online;Media;23/5/2021;271611917;9/6/2021;4857; 421,89 € ; 364,69 € ; 2.049.119,73 € ; 1.771.299,33 € 
+C6994;África;Zimbabwe;Material de oficina;Online;Crítica;31/8/2020;699481761;14/9/2020;1052; 651,21 € ; 524,96 € ; 685.072,92 € ; 552.257,92 € 
+C7023;Europa;Belgium;Ropa;Offline;Media;12/2/2021;702359235;1/3/2021;2560; 109,28 € ; 35,84 € ; 279.756,80 € ; 91.750,40 € 
+C6427;Europa;Luxembourg;Verduras;Online;Media;9/12/2020;642793166;19/1/2021;5637; 154,06 € ; 90,93 € ; 868.436,22 € ; 512.572,41 € 
+C5036;África;Sudan;Material de oficina;Online;Baja;28/7/2021;503644883;9/8/2021;8568; 651,21 € ; 524,96 € ; 5.579.567,28 € ; 4.497.857,28 € 
+C3380;África;Cote d'Ivoire;Cuidado personal;Online;Alta;31/7/2020;338088214;18/9/2020;6670; 81,73 € ; 56,67 € ; 545.139,10 € ; 377.988,90 € 
+C7196;África;Rwanda;Cereales;Offline;Media;24/8/2021;719609487;21/9/2021;7293; 205,70 € ; 117,11 € ; 1.500.170,10 € ; 854.083,23 € 
+C4920;Norteamérica;Mexico;Verduras;Online;Media;14/9/2021;492007529;4/10/2021;4816; 154,06 € ; 90,93 € ; 741.952,96 € ; 437.918,88 € 
+C8193;Australia y Oceanía;Tuvalu;Verduras;Offline;Crítica;12/12/2020;819393670;16/12/2020;5651; 154,06 € ; 90,93 € ; 870.593,06 € ; 513.845,43 € 
+C2361;África;Guinea-Bissau;Frutas;Offline;Crítica;31/5/2021;236191737;1/6/2021;3239; 9,33 € ; 6,92 € ; 30.219,87 € ; 22.413,88 € 
+C4971;Europa;Greece;Cereales;Online;Crítica;31/8/2022;497138059;12/10/2022;3054; 205,70 € ; 117,11 € ; 628.207,80 € ; 357.653,94 € 
+C7272;Centroamérica y Caribe;Haiti;Bebida;Online;Baja;23/5/2020;727281463;11/7/2020;7601; 47,45 € ; 31,79 € ; 360.667,45 € ; 241.635,79 € 
+C5719;África;Yemen;Cárnicos;Online;Media;11/2/2022;571983277;14/2/2022;1417; 421,89 € ; 364,69 € ; 597.818,13 € ; 516.765,73 € 
+C6469;Europa;Russia;Cuidado personal;Offline;Baja;13/1/2020;646917331;13/2/2020;6069; 81,73 € ; 56,67 € ; 496.019,37 € ; 343.930,23 € 
+C2880;África;Tunisia ;Alimento infantil;Offline;Media;18/1/2021;288069951;3/2/2021;5155; 255,28 € ; 159,42 € ; 1.315.968,40 € ; 821.810,10 € 
+C7017;Asia;India;Verduras;Online;Media;14/6/2022;701739966;16/7/2022;9305; 154,06 € ; 90,93 € ; 1.433.528,30 € ; 846.103,65 € 
+C9145;Asia;Taiwan;Cereales;Online;Alta;9/12/2021;914538705;26/12/2021;1181; 205,70 € ; 117,11 € ; 242.931,70 € ; 138.306,91 € 
+C9233;África;Morocco;Snacks;Offline;Alta;23/11/2021;923389995;9/1/2022;474; 152,58 € ; 97,44 € ; 72.322,92 € ; 46.186,56 € 
+C3455;África;Zimbabwe;Bebida;Online;Media;1/4/2022;345530164;9/4/2022;8909; 47,45 € ; 31,79 € ; 422.732,05 € ; 283.217,11 € 
+C6685;África;Lebanon;Ropa;Online;Baja;25/11/2021;668508040;25/12/2021;5240; 109,28 € ; 35,84 € ; 572.627,20 € ; 187.801,60 € 
+C3001;Australia y Oceanía;Federated States of Micronesia;Material de oficina;Offline;Alta;27/2/2020;300184953;29/2/2020;253; 651,21 € ; 524,96 € ; 164.756,13 € ; 132.814,88 € 
+C4187;Europa;Macedonia;Frutas;Online;Baja;3/1/2021;418734729;6/1/2021;1766; 9,33 € ; 6,92 € ; 16.476,78 € ; 12.220,72 € 
+C9226;África;Ghana;Cosméticos;Online;Media;11/4/2020;922643697;7/5/2020;9628; 437,20 € ; 263,33 € ; 4.209.361,60 € ; 2.535.341,24 € 
+C8807;Norteamérica;Greenland;Material de oficina;Offline;Alta;30/4/2021;880710685;19/6/2021;718; 651,21 € ; 524,96 € ; 467.568,78 € ; 376.921,28 € 
+C7820;África;Bahrain;Doméstico;Online;Baja;20/3/2022;782047021;6/4/2022;3947; 668,27 € ; 502,54 € ; 2.637.661,69 € ; 1.983.525,38 € 
+C2860;Europa;Serbia;Alimento infantil;Offline;Crítica;29/10/2022;286076533;10/11/2022;5258; 255,28 € ; 159,42 € ; 1.342.262,24 € ; 838.230,36 € 
+C4725;África;Lebanon;Alimento infantil;Offline;Alta;1/8/2020;472535550;29/8/2020;2625; 255,28 € ; 159,42 € ; 670.110,00 € ; 418.477,50 € 
+C6914;Europa;Monaco;Cárnicos;Online;Alta;19/6/2020;691472899;7/8/2020;1052; 421,89 € ; 364,69 € ; 443.828,28 € ; 383.653,88 € 
+C8132;África;Iran;Alimento infantil;Online;Alta;18/2/2022;813249909;10/3/2022;7575; 255,28 € ; 159,42 € ; 1.933.746,00 € ; 1.207.606,50 € 
+C7785;África;Mauritius ;Frutas;Online;Media;12/5/2021;778540408;9/6/2021;6263; 9,33 € ; 6,92 € ; 58.433,79 € ; 43.339,96 € 
+C1483;Centroamérica y Caribe;Saint Kitts and Nevis ;Cárnicos;Online;Crítica;17/1/2020;148330724;7/2/2020;3212; 421,89 € ; 364,69 € ; 1.355.110,68 € ; 1.171.384,28 € 
+C3539;Europa;Bulgaria;Frutas;Online;Baja;27/11/2021;353919684;1/1/2022;1554; 9,33 € ; 6,92 € ; 14.498,82 € ; 10.753,68 € 
+C6469;Europa;Italy;Ropa;Offline;Media;1/7/2022;646918618;19/7/2022;6450; 109,28 € ; 35,84 € ; 704.856,00 € ; 231.168,00 € 
+C3492;África;Namibia;Verduras;Offline;Baja;23/1/2022;349251353;3/2/2022;91; 154,06 € ; 90,93 € ; 14.019,46 € ; 8.274,63 € 
+C2031;Europa;San Marino;Bebida;Online;Media;31/3/2021;203154218;13/4/2021;6702; 47,45 € ; 31,79 € ; 318.009,90 € ; 213.056,58 € 
+C1211;Centroamérica y Caribe;The Bahamas;Bebida;Offline;Baja;8/7/2022;121176040;23/7/2022;7538; 47,45 € ; 31,79 € ; 357.678,10 € ; 239.633,02 € 
+C5361;África;Lebanon;Alimento infantil;Online;Baja;7/3/2020;536178147;27/3/2020;5884; 255,28 € ; 159,42 € ; 1.502.067,52 € ; 938.027,28 € 
+C1513;Australia y Oceanía;Australia;Verduras;Online;Alta;21/10/2021;151334369;7/11/2021;2058; 154,06 € ; 90,93 € ; 317.055,48 € ; 187.133,94 € 
+C8901;Asia;Tajikistan;Cuidado personal;Online;Baja;23/1/2021;890131032;5/2/2021;8408; 81,73 € ; 56,67 € ; 687.185,84 € ; 476.481,36 € 
+C2463;Centroamérica y Caribe;El Salvador;Doméstico;Online;Alta;14/1/2022;246366965;5/3/2022;4315; 668,27 € ; 502,54 € ; 2.883.585,05 € ; 2.168.460,10 € 
+C7341;Asia;Indonesia;Cereales;Online;Baja;21/8/2020;734153497;22/9/2020;1189; 205,70 € ; 117,11 € ; 244.577,30 € ; 139.243,79 € 
+C4379;Europa;Sweden;Cuidado personal;Offline;Media;27/4/2020;437914454;2/5/2020;7473; 81,73 € ; 56,67 € ; 610.768,29 € ; 423.494,91 € 
+C6623;Australia y Oceanía;Tonga;Doméstico;Offline;Alta;1/2/2022;662386167;1/3/2022;3641; 668,27 € ; 502,54 € ; 2.433.171,07 € ; 1.829.748,14 € 
+C9826;África;Mozambique;Ropa;Online;Media;12/3/2020;982617461;25/4/2020;7198; 109,28 € ; 35,84 € ; 786.597,44 € ; 257.976,32 € 
+C5939;Europa;Andorra;Cosméticos;Online;Crítica;25/9/2020;593969666;8/10/2020;7678; 437,20 € ; 263,33 € ; 3.356.821,60 € ; 2.021.847,74 € 
+C5621;Australia y Oceanía;Solomon Islands;Verduras;Online;Alta;13/3/2020;562116611;16/4/2020;1651; 154,06 € ; 90,93 € ; 254.353,06 € ; 150.125,43 € 
+C6730;Europa;Romania;Verduras;Offline;Media;11/3/2021;673044621;26/3/2021;7715; 154,06 € ; 90,93 € ; 1.188.572,90 € ; 701.524,95 € 
+C7830;Centroamérica y Caribe;Saint Vincent and the Grenadines;Material de oficina;Offline;Alta;10/6/2022;783052527;17/6/2022;1499; 651,21 € ; 524,96 € ; 976.163,79 € ; 786.915,04 € 
+C3687;Europa;France;Cárnicos;Offline;Baja;17/3/2020;368751657;7/4/2020;664; 421,89 € ; 364,69 € ; 280.134,96 € ; 242.154,16 € 
+C7770;África;The Gambia;Doméstico;Offline;Baja;4/3/2021;777065837;12/3/2021;9904; 668,27 € ; 502,54 € ; 6.618.546,08 € ; 4.977.156,16 € 
+C2752;Australia y Oceanía;Samoa ;Snacks;Offline;Baja;19/12/2020;275231397;21/1/2021;5941; 152,58 € ; 97,44 € ; 906.477,78 € ; 578.891,04 € 
+C8007;Europa;Serbia;Ropa;Offline;Media;15/10/2022;800797164;1/12/2022;2531; 109,28 € ; 35,84 € ; 276.587,68 € ; 90.711,04 € 
+C3116;Centroamérica y Caribe;Saint Vincent and the Grenadines;Cosméticos;Online;Alta;25/8/2021;311624467;8/9/2021;5460; 437,20 € ; 263,33 € ; 2.387.112,00 € ; 1.437.781,80 € 
+C4358;África;Syria;Bebida;Offline;Baja;11/2/2020;435887134;21/3/2020;7544; 47,45 € ; 31,79 € ; 357.962,80 € ; 239.823,76 € 
+C6220;Australia y Oceanía;Australia;Verduras;Offline;Alta;22/2/2021;622071492;3/4/2021;3633; 154,06 € ; 90,93 € ; 559.699,98 € ; 330.348,69 € 
+C3889;África;Cote d'Ivoire;Cosméticos;Offline;Media;20/12/2020;388976371;9/1/2021;5607; 437,20 € ; 263,33 € ; 2.451.380,40 € ; 1.476.491,31 € 
+C6757;Centroamérica y Caribe;Dominican Republic;Cuidado personal;Online;Crítica;5/12/2021;675713098;23/1/2022;7376; 81,73 € ; 56,67 € ; 602.840,48 € ; 417.997,92 € 
+C6917;África;Rwanda;Frutas;Online;Media;21/6/2022;691705501;24/7/2022;9884; 9,33 € ; 6,92 € ; 92.217,72 € ; 68.397,28 € 
+C1666;África;Chad;Cosméticos;Online;Media;17/6/2021;166689908;29/7/2021;6103; 437,20 € ; 263,33 € ; 2.668.231,60 € ; 1.607.102,99 € 
+C7007;África;Kenya;Doméstico;Offline;Alta;9/6/2022;700715148;14/7/2022;6039; 668,27 € ; 502,54 € ; 4.035.682,53 € ; 3.034.839,06 € 
+C8141;Centroamérica y Caribe;Belize;Bebida;Online;Media;11/10/2020;814142549;14/11/2020;1727; 47,45 € ; 31,79 € ; 81.946,15 € ; 54.901,33 € 
+C8976;Australia y Oceanía;Palau;Snacks;Offline;Crítica;6/4/2022;897645938;23/5/2022;2236; 152,58 € ; 97,44 € ; 341.168,88 € ; 217.875,84 € 
+C9622;África;Equatorial Guinea;Material de oficina;Offline;Alta;21/8/2021;962211644;9/10/2021;8663; 651,21 € ; 524,96 € ; 5.641.432,23 € ; 4.547.728,48 € 
+C1891;Asia;Kyrgyzstan;Doméstico;Offline;Baja;14/3/2021;189138495;14/3/2021;9139; 668,27 € ; 502,54 € ; 6.107.319,53 € ; 4.592.713,06 € 
+C9800;Asia;Bangladesh;Frutas;Online;Baja;15/10/2020;980037820;10/11/2020;3824; 9,33 € ; 6,92 € ; 35.677,92 € ; 26.462,08 € 
+C4068;Asia;Bhutan;Alimento infantil;Online;Alta;28/1/2022;406833446;9/3/2022;9912; 255,28 € ; 159,42 € ; 2.530.335,36 € ; 1.580.171,04 € 
+C5617;Europa;Macedonia;Cárnicos;Offline;Baja;1/6/2021;561761701;18/6/2021;6626; 421,89 € ; 364,69 € ; 2.795.443,14 € ; 2.416.435,94 € 
+C9073;Australia y Oceanía;Samoa ;Verduras;Offline;Crítica;18/9/2022;907371413;11/10/2022;220; 154,06 € ; 90,93 € ; 33.893,20 € ; 20.004,60 € 
+C5265;Europa;Austria;Bebida;Online;Media;11/9/2021;526523911;16/10/2021;8981; 47,45 € ; 31,79 € ; 426.148,45 € ; 285.505,99 € 
+C3723;Europa;Italy;Bebida;Online;Alta;24/8/2021;372393023;12/9/2021;8226; 47,45 € ; 31,79 € ; 390.323,70 € ; 261.504,54 € 
+C1184;África;Bahrain;Material de oficina;Offline;Media;11/7/2020;118465077;16/7/2020;5304; 651,21 € ; 524,96 € ; 3.454.017,84 € ; 2.784.387,84 € 
+C4085;Australia y Oceanía;Australia;Snacks;Offline;Crítica;26/12/2020;408538901;5/1/2021;4594; 152,58 € ; 97,44 € ; 700.952,52 € ; 447.639,36 € 
+C6067;África;Nigeria;Cosméticos;Online;Baja;15/5/2020;606725823;31/5/2020;2509; 437,20 € ; 263,33 € ; 1.096.934,80 € ; 660.694,97 € 
+C1474;Europa;Spain;Ropa;Offline;Crítica;13/9/2020;147449672;26/10/2020;2489; 109,28 € ; 35,84 € ; 271.997,92 € ; 89.205,76 € 
+C7854;Europa;Hungary;Cárnicos;Online;Media;22/7/2021;785446774;11/8/2021;10; 421,89 € ; 364,69 € ; 4.218,90 € ; 3.646,90 € 
+C7457;Europa;Bosnia and Herzegovina;Verduras;Offline;Baja;22/6/2021;745765960;14/7/2021;7575; 154,06 € ; 90,93 € ; 1.167.004,50 € ; 688.794,75 € 
+C5737;Asia;South Korea;Cosméticos;Online;Crítica;5/4/2022;573768556;5/5/2022;9721; 437,20 € ; 263,33 € ; 4.250.021,20 € ; 2.559.830,93 € 
+C8851;África;The Gambia;Snacks;Offline;Baja;2/11/2021;885128390;20/11/2021;8015; 152,58 € ; 97,44 € ; 1.222.928,70 € ; 780.981,60 € 
+C1158;Europa;Norway;Bebida;Online;Baja;19/5/2021;115831792;9/6/2021;6056; 47,45 € ; 31,79 € ; 287.357,20 € ; 192.520,24 € 
+C3721;Norteamérica;Mexico;Frutas;Offline;Media;16/1/2021;372177588;30/1/2021;4474; 9,33 € ; 6,92 € ; 41.742,42 € ; 30.960,08 € 
+C6807;Europa;France;Cosméticos;Offline;Baja;20/5/2021;680777108;22/6/2021;5930; 437,20 € ; 263,33 € ; 2.592.596,00 € ; 1.561.546,90 € 
+C1385;Centroamérica y Caribe;Belize;Frutas;Offline;Alta;3/12/2021;138554179;6/12/2021;115; 9,33 € ; 6,92 € ; 1.072,95 € ; 795,80 € 
+C1627;África;Malawi;Bebida;Online;Alta;4/8/2022;162745130;19/8/2022;8755; 47,45 € ; 31,79 € ; 415.424,75 € ; 278.321,45 € 
+C4408;Asia;India;Cuidado personal;Offline;Crítica;17/4/2022;440898787;1/6/2022;604; 81,73 € ; 56,67 € ; 49.364,92 € ; 34.228,68 € 
+C2808;Asia;Tajikistan;Frutas;Online;Media;29/4/2020;280876481;31/5/2020;6447; 9,33 € ; 6,92 € ; 60.150,51 € ; 44.613,24 € 
+C8608;Europa;Finland;Verduras;Online;Baja;9/9/2020;860852038;15/9/2020;4103; 154,06 € ; 90,93 € ; 632.108,18 € ; 373.085,79 € 
+C2793;África;Rwanda;Ropa;Offline;Crítica;22/1/2022;279311788;1/2/2022;3420; 109,28 € ; 35,84 € ; 373.737,60 € ; 122.572,80 € 
